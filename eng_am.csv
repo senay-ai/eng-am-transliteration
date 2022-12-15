@@ -1,3456 +1,1169 @@
-eng,amh
-"Wubei wub abeba, ende-duroachin
-","ዉቤ ዉብ አበባ: አንደ ዱሮአችን
-"
-"Wubei wub abeba, ende-duroachin
-","ዉቤ ዉብ አበባ: አንደ ዱሮአችን
-"
-"Hodei telemenegn, enihun abren
-","ሆዴ ተለመነኝ: እንሁን አብረን
-"
-"Hodei telemenegn, enihun abren
-","ሆዴ ተለመነኝ: እንሁን አብረን
-"
-"Lemedk wey fiQrei, ante anjetei hoy
-","ለመድክ ወይ ፍቅሬ: አንተ አንጀቴ ሆይ
-"
-"Lemedk wey fiQrei, ante anjetei hoy
-","ለመድክ ወይ ፍቅሬ: አንተ አንጀቴ ሆይ
-"
-"FiQir kenei leyla, tesmamah woy
-","ፍቅር ከኔ ሌላ: ተስማማህ ሆይ
-"
-"Besebara folei, wuha ayTeleQim
-","በሰባራ ፎሌ: ውሃ አይጠለቅም
-"
-"Besebara folei, wuha ayTeleQim
-","በሰባራ ፎሌ: ውሃ አይጠለቅም
-"
-"Enei ewodihalehu, yanten gin alaQim
-","እኔ እወድሃልሁ: ያንተን ግን አላቅም
-"
-"Enei ewodihalehu, yanten gin alaQim
-","እኔ እወድሃልሁ: ያንተን ግን አላቅም
-"
-"FiQrihin lenei titeh, sit’heid wede-leyla
-","ፍቅርህን ለኔ ትተህ: ስትሄድ ወደ ሌላ
-"
-"FiQrihin lenei titeh, sit’heid wede-leyla
-","ፍቅርህን ለኔ ትተህ: ስትሄድ ወደ ሌላ
-"
-"Tinish teseQayehu, akalhin salbela
-","ትንሽ ተሰቃየሁ: አካልህን ሳልበላ
-"
-"Tinish teseQayehu, akalhin salbela
-","ትንሽ ተሰቃየሁ: አካልህን ሳልበላ
-"
-"Anjetei teQorTo, kehodei keweTa
-","አንጀቴ ተቆርጦ: ከሆዴ ከወጣ
-"
-"Anjetei teQorTo, kehodei keweTa
-","አንጀቴ ተቆርጦ: ከሆዴ ከወጣ
-"
-"Engideeh hakeemu, min leeQeTil meTa
-","እንግዲህ ሐኪሙ: ምን ሊቀጥል መጣ
-"
-"Engideeh hakeemu, min leeQeTil meTa
-","እንግዲህ ሐኪሙ: ምን ሊቀጥል መጣ
-"
-"Ante weret lante, kemeseleh melkam
-","አንተ ወረት ላንተ: ከመሰለህ መልካም
-"
-"Ante weret lante, kemeseleh melkam
-","አንተ ወረት ላንተ: ከመሰለህ መልካም
-"
-"AfeQralehu leyla, enein ayaQitegnim
-","አፈቅራለሁ ሌላ: እኔን አያቅተኝም
-"
-"AfeQralehu leyla, enein ayaCHenQegnim
-","እወዳለሁ ሌላ: እኔን አይጨንቀኝም
-"
-"Wubei wub abeba, ende-duroachin
-","ዉቤ ዉብ አበባ: አንደ ዱሮአችን
-"
-"Wubei wub abeba, ende-duroachin
-","ዉቤ ዉብ አበባ: አንደ ዱሮአችን
-"
-"Hodei telemenegn, enihun abren
-","ሆዴ ተለመነኝ: እንሁን አብረን
-"
-"Hodei telemenegn, enihun abren
-","ሆዴ ተለመነኝ: እንሁን አብረን
-"
-"Lemedk wey fiQrei, ante anjetei hoy
-","ለመድክ ወይ ፍቅሬ: አንተ አንጀቴ ሆይ
-"
-"Lemedk wey fiQrei, ante anjetei hoy
-","ለመድክ ወይ ፍቅሬ: አንተ አንጀቴ ሆይ
-"
-"FiQir kenei leyla, tesmamah woy
-","ፍቅር ከኔ ሌላ: ተስማማህ ሆይ
-"
-"Besebara folei, wuha ayTeleQim
-","በሰባራ ፎሌ: ውሃ አይጠለቅም
-"
-"Besebara folei, wuha ayTeleQim
-","በሰባራ ፎሌ: ውሃ አይጠለቅም
-"
-"Enei ewodihalehu, yanten gin alaQim
-","እኔ እወድሃልሁ: ያንተን ግን አላቅም
-"
-"Enei ewodihalehu, yanten gin alaQim
-","እኔ እወድሃልሁ: ያንተን ግን አላቅም
-"
-"Enei ewodihalehu, yanten gin alaQim
-","እኔ እወድሃልሁ: ያንተን ግን አላቅም
-"
-"Enei ewodihalehu, yanten gin alaQim
-","እኔ እወድሃልሁ: ያንተን ግን አላቅም
-"
-"Enei ewodihalehu, yanten gin alaQim",እኔ እወድሃልሁ: ያንተን ግን አላቅም
-"FiQir yenei shimunmun, fiQir yenei shimunmun
-","ፍቅር የኔ ሽሙንሙን: ፍቅር የኔ ሽቅርቅር
-"
-"FiQrei yenei shimunmun, fiQrei yenei shiQirQir
-","ፍቅሬ የኔ ሽሙንሙን: ፍቅሬ የኔ ሽቅርቅር
-"
-"Hodei enei anten, miyalehu ena limTa woy liQir
-","ሆዴ እኔ አንተን: ምያለሁ እና ልምጣ ወይ ልቅር
-"
-"FiQir yenei shimunmun, fiQir yenei shimunmun
-","ፍቅር የኔ ሽሙንሙን: ፍቅር የኔ ሽቅርቅር
-"
-"FiQrei yenei shimunmun, fiQrei yenei shiQirQir
-","ፍቅር የኔ ሽሙንሙን: ፍቅር የኔ ሽቅርቅር
-"
-"Hodei enei anten, miyalehu ena limTa woy liQir
-","ሆዴ እኔ አንተን: ምያለሁ እና ልምጣ ወይ ልቅር
-"
-"Wodajei hoy, minewu chila alkegn
-","ዎዳጄ ሆይ: ምነው ችላ አልከኝ
-"
-"Minewu chila alkegn
-","ምነው ችላ አልከኝ
-"
-"ACHawutegn bakih, des yibelegn
-","አጫውተኝ ባክህ: ደስ ይበለኝ
-"
-"Des yibelegn
-","ደስ ይበለኝ
-"
-"Qenu andei yimeshina, leitu endeenegalign
-","ቀኑ አንዴ ይመሽና: ሌቱ አንዲነጋልኝ
-"
-"Leitu endeenegalign
-","ሌቱ አንዲነጋልኝ
-"
-"Qenu andei yimeshina, leitu endeenegalign
-","ቀኑ አንዴ ይመሽና: ሌቱ አንዲነጋልኝ
-"
-"Leitu endeenegalign
-","ሌቱ አንዲነጋልኝ
-"
-"FiQrei Qereb bileh, iyewu yelibein gudein
-","ፍቅሬ ቀረብ ብለህ: እየዉ የልቤን ጉዴን
-"
-"FiQrei Qereb bileh, iyewu yelibein gudein
-","ፍቅሬ ቀረብ ብለህ: እየዉ የልቤን ጉዴን
-"
-"Qelel adirgewu, Qelel adirgewu, kebadun nafQotein
-","ቀለል አድርገው: ቀለል አድርገው: ከባዱን ናፍቆቴን
-"
-"Yantema fegegta, ketos ayileyegn
-","ያንተማ ፈገግታ: ከቶስ አይለየኝ
-"
-"Ketos ayileyegn
-","ከቶስ አይለየኝ
-"
-"Mechei newu Tegibei, esun yemayewu
-","መቼ ነው ጠግቤ አሱን የማየው
-"
-"Esun yemayewu
-","አሱን የማየው
-"
-"Eneis des yemeelegn, yemeesemagn kibir
-","እኔን ደስ የሚለኝ: የሚሰማኝ ክብር
-"
-"Yemeesemagn kibir
-","የሚሰማኝ ክብር
-"
-"Anten yagegnehu let, benuro tidar?
-","አንተን ያገኘሁ ለት: በኑሮ ትዳር ???
-"
-"Benuro tidar
-","በኑሮ ትዳር
-"
-"FiQrei yenei shimunmun, fiQrei yenei shiQirQir
-","ፍቅሬ የኔ ሽሙንሙን: ፍቅሬ የኔ ሽቅርቅር
-"
-"FiQir yenei shimunmun, fiQir yenei shiQirQir
-","ፍቅር የኔ ሽሙንሙን: ፍቅር የኔ ሽቅርቅር
-"
-"Hodei enei anten, miyalehu ena limTa woy liQir
-","ሆዴ እኔ አንተን: ምያለሁ እና ልምጣ ወይ ልቅር
-"
-"FIQir engida nech, asibehat endehon
-","ፍቅር አንግዳ ነች: አስበሀት አንደሆን
-"
-"Asibehat endehon
-","አስበሀት አንደሆን
-"
-"Tidar misosowun, wuha Qeleb hono
-","ትዳር ምሶሶውን ዉሃ ቀልብ ሆኖ
-"
-"FiQrei Qereb bileh, iyewu yelibein gudein
-","ፍቅሬ ቀረብ ብለህ: እየዉ የልቤን ጉዴን
-"
-"FiQrei Qereb bileh, iyewu yelibein gudein
-","ፍቅሬ ቀረብ ብለህ: እየዉ የልቤን ጉዴን
-"
-"Qelel adirgewu, Qelel adirgewu, kebadun nafQotein
-","ቀለል አድርገው: ቀለል አድርገው: ከባዱን ናፍቆቴን
-"
-"Qelel adirgewu, Qelel adirgewu, kebadun nafQotein","ቀለል አድርገው: ቀለል አድርገው: ከባዱን ናፍቆቴን
-"
-"Ehhhh….
-",ቀለል አድርገው: ቀለል አድርገው: ከባዱን ናፍቆቴን
-"Ineys banchi fiQir, tamimey tamimey
-","እህህህህህ
-"
-"NeTefe, siga’na demey
-","እኔስ ባንቺ ፍቅር: ታምሜ ታምሜ
-"
-"Mikerew mikerew, kesemah
-","ነጠፈ: ስጋና ደሜ
-"
-"Be’Abewu terett
-","ምክረው ምከረው: ከሰማህ
-"
-"Genzeb yemeegegnewu, be haya
-","በአበው ተረት
-"
-"Lib be arba amet
-","ገንዘብ የሚገኘው: በሃያ
-"
-"Alechign, imma taziba
-","ልብ በአርባ ዓመት
-"
-"BefiQrish, ziye sigeba
-","አለችኝ: እማ ታዝባ
-"
-"Simegnish, sayish dekimey
-","በፍቅርሽ: ዝዬ ስገባ
-"
-"NeTefe, siga’na demey
-","ስመኝሽ: ሳይሽ ደክሜ
-"
-"Siga’na demey, siga’na demey
-","ነጠፈ: ስጋና ደሜ
-"
-"Siga’na demey, siga’na demey
-","ስጋና ደሜ: ስጋና ደሜ
-"
-"Lib aTto, saydekim yemeeTor
-","ስጋና ደሜ: ስጋና ደሜ
-"
-"Begolma’sinetu
-","ልብ አጥቶ: ሳይደክም የሚጦር
-"
-"Indeney, befiQir yeraQe
-","በጎልማስነቱ
-"
-"Moltual beyebeitu
-","እንደኔ: በፍቅር የራቀ
-"
-"Lik aydelem wey, yemma teretu
-","ሞልቷል በየቤቱ
-"
-"FiQrin asabo, sewu seeQemeT beitu
-","ልክ አይደለም ወይ: የእማ ተረቱ
-"
-"Eneys yalanchi, ayhonilign
-","ፍቅርን አሳቦ: ሰው ሲቀመጥ ቤቱ
-"
-"Lib aTichalehu, ere enjalign
-","እኔስ ያላንቺ: አይሆንልኝ
-"
-"Kanchi leyla, wede huala
-","ልብ አጥቻለሁ: ኧረ እንጃልኝ
-"
-"Kanchi wuCHi, wede wuCHi
-","ካንቺ ሌላ: ወደ ኋላ
-"
-"Kanchi leyla, wede huala
-","ካንቺ ዉጪ: ወደ ውጪ
-"
-"Kanchi wuCHi, wede wuCHi
-","ካንቺ ሌላ: ወደ ኋላ
-"
-"Wede huala, wede WuCHi
-","ካንቺ ዉጪ: ወደ ውጪ
-"
-"Wede huala
-","ወደ ኋላ: ወደ ውጪ
-"
-"Mikerew mikerew, kesemah
-","ወደ ኋላ
-"
-"Be’Abewu terett
-","ምክረው ምከረው: ከሰማህ
-"
-"Genzeb yemeegegnewu, be haya
-","በአበው ተረት
-"
-"Lib be arba amet
-","ገንዘብ የሚገኘው: በሃያ
-"
-"Alechign, imma taziba
-","ልብ በአርባ ዓመት
-"
-"BefiQrish, ziye sigeba
-","አለችኝ: እማ ታዝባ
-"
-"Simegnish, sayish dekimey
-","በፍቅርሽ: ዝዬ ስገባ
-"
-"NeTefe, siga’na demey
-","ስመኝሽ: ሳይሽ ደክሜ
-"
-"Siga’na demey, siga’na demey
-","ነጠፈ: ስጋና ደሜ
-"
-"Siga’na demey, siga’na demey
-","ስጋና ደሜ: ስጋና ደሜ
-"
-"Indayhon, lam-alegn besemay
-","ስጋና ደሜ: ስጋና ደሜ
-"
-"Wetetuanim alay
-","እንዳይሆን: ላም አለኝ በሰማይ
-"
-"ATicheish, ewun sayhon teretu
-","ወተቷንም አላይ
-"
-"Eshi beyign ittu
-","አጥቼሽ: እዉን ሳይሆን ተረቱ
-"
-"Lik aydelem wey, yemma teretu
-","እሺ በይኝ እቱ
-"
-"Sewu beitu seeQer,kene-mignotu
-","ልክ አይደለም ወይ: የእማ ተረቱ
-"
-"IndaliQemeT, Tirrei indibela
-","ሰው ቤቱ ሲቀር: ከነ ምኞቱ
-"
-"Wudei libishin, alkut adera
-","እንዳልቀመጥ: ጥሬ እንድበላ
-"
-"Eneys yalanchi, ayhonilign
-","ውዴ ልብሽን: አልኩት አደራ
-"
-"Lib aTichalehu, ere enjalign
-","እኔስ ያላንቺ: አይሆንልኝ
-"
-"Kanchi leyla, wede huala
-","ልብ አጥቻለሁ: ኧረ እንጃልኝ
-"
-"Kanchi wuCHi, wede wuCHi
-","ካንቺ ሌላ: ወደ ኋላ
-"
-"Kanchi leyla, wede huala
-","ካንቺ ዉጪ: ወደ ውጪ
-"
-"Kanchi wuCHi, wede wuCHi
-","ካንቺ ሌላ: ወደ ኋላ
-"
-"Kanchi leyla, wede huala
-","ካንቺ ዉጪ: ወደ ውጪ
-"
-"Kanchi wuCHi, wede wuCHi
-","ካንቺ ሌላ: ወደ ኋላ
-"
-"Kanchi leyla, wede huala
-","ካንቺ ዉጪ: ወደ ውጪ
-"
-"Kanchi wuCHi, wede wuCHi
-","ካንቺ ሌላ: ወደ ኋላ
-"
-"Wede huala, wede WuCHi
-","ካንቺ ዉጪ: ወደ ውጪ
-"
-Wede huala,"ካንቺ ሌላ: ወደ ኋላ
-"
-"Manew yalew, alilim alTeyiQim
-","ካንቺ ዉጪ: ወደ ውጪ
-"
-"Manew yalew, biyem aliCHeneQim
-","ካንቺ ሌላ: ወደ ኋላ
-"
-"Manew yalew, minalugn degmo biye
-","ካንቺ ዉጪ: ወደ ውጪ
-"
-"LalQom neger, kemenged keguzoye
-","ወደ ኋላ: ወደ ውጪ
-"
-"Manew yalew biye, iney sewu alweQsim
-",ወደ ኋላ: ወደ ውጪ
-"Manew yalew, wusTeyn layawQew manim
-","ማነው ያለው አልልም አልጠይቅም፣
-"
-"Manew yalew, siQo malef metew newu
-","ማነው ያለው ብዬም አልጨነቅም፣
-"
-"Yemianorim yeseram, deg abat newu
-","ማነው ያለው ምን አሉኝ ደግሞ ብዬ፣
-"
-"Aaaaayyy
-","ላልቆም ነገር ከመንገድ ከጉዞዬ።
-"
-"Leman biye, badonet lemolaw
-","ማነው ያለው ብዬ እኔ ሰው አልወቅስም፣
-"
-"Leman biye, legelebaw kibrey
-","ማነው ያለው ውስጤን ላያውቀው ማንም፣
-"
-"Leman biye, kabedew gar libed
-","ማነው ያለው ስቆ ማለፍ መተው ነው፣
-"
-"Leman biye, keTefaw abirey
-","የሚያኖርም የሰራም ደግ አባት ነው።
-"
-"Leman biye, illih tegabichey
-","አአአአአአይይይ
-"
-"CHekagn lihun, merarateyn tichey
-","ለማን ብዬ ባዶነት ለሞላው፥
-"
-"Leman biye, baltere’gageTe
-","ለማን ብዬ ለገለባው ክብሬ፣
-"
-"Leman biye, mereyt baregeTe
-","ለማን ብዬ ካበደው ጋር ልበድ፥
-"
-"Leman biye, bedelebe werey
-","ለማን ብዬ ከጠፋው አብሬ፣
-"
-"Leman biye, bewelede berey
-","ለማን ብዬ እልህ ተጋብቼ፥
-"
-"Leman biye, siTotaw selameyn
-","ጨካኝ ልሁን መራራቴን ትቼ።
-"
-"Leman biye, lineTeQ destayen
-","ለማን ብዬ ባልተረጋገጠ፣
-"
-"Manew yalew kalkugn, bizu issemalehu
-","ለማን ብዬ መሬት ባረገጠ፣
-"
-"Manew yalew biliss, manin amnalehu
-","ለማን ብዬ በደለበ ወሬ፣
-"
-"Manew yalew, awuQewalehu baay bizu
-","ለማን ብዬ በወለደ በሬ፣
-"
-"Bemolabet yadekmal, guaz mezezu
-","ለማን ብዬ ስጦታው ሰላሜን፣
-"
-"Ehhhhh aahhhhh
-","ለማን ብዬ ልነጠቅ ደስታዬን።
-"
-"Erasin kibbo, lekibir zina
-","ማነው ያለው ካልኩኝ ብዙ እሰማለሁ፣
-"
-"Yiramedal sewu, besewu godana
-","ማነው ያለው ብልስ ማንን አምናለሁ፣
-"
-"Molto laymola, leshinQur nuro
-","ማነው ያለው አውቀዋለሁ ባይ ብዙ፣
-"
-"Endeyt yigefal, yihey teCHemiro
-","በሞላበት ያደክማል ጓዝ መዘዙ።
-"
-"Sewu leQursu, ejun aTaTfo
-","እ እ እ እ እህ እህ . . . እ እ እ እ እህ እህ . . .
-"
-"CHaf yizo meheyd, hodun taQifo
-","እራስን ክቦ ለክብር ዝና፣
-"
-"Lalayut ewunet, allu layreba
-","ይራመዳል ሰው በሰው ጎዳና፣
-"
-"Seenegruh wilewu, sat’sema giba
-","ሞልቶ ላይሞላ ለሽንቁር ኑሮ፣
-"
-"Seenegruh wilewu, sat’sema giba
-","እንዴት ይገፋል ይሄ ተጨምሮ፣
-"
-"Seenegruh beewal, satamin giba
-","ሰው ለቁርሱ እጁን አጣጥፎ፣
-"
-"Aaaaayyy…hmmmm
-","ጫፍ ይዞ መሄድ ሆዱን ታቅፎ፣
-"
-"Manew yalew, alilim alTeyiQim
-","ላላዩት እውነት አሉ ላይረባ፣
-"
-"Manew yalew, biyem aliCHeneQim
-","ሲነግሩህ ውለው ሳትሰማ ግባ፣
-"
-"Manew yalew, minalugn degmo biye
-","ሲነግሩህ ውለው ሳትሰማ ግባ፣
-"
-"LalQom neger, kemenged keguzoye
-","ሲነግሩህ ቢዋል ሳታምን ግባ።
-"
-"Manew yalew biye, iney sewu aliweQsim
-","አአአአአአይይይ…ምምምም
-"
-"Manew yalew, wusTeyn layawuQew manim
-","ማነው ያለው አልልም አልጠይቅም፣
-"
-"Manew yalew, siQo malef metew newu
-","ማነው ያለው ብዬም አልጨነቅም፣
-"
-"Yemianorih yeseram, deg abat newu
-","ማነው ያለው ምን አሉኝ ደግሞ ብዬ፣
-"
-"Aaaaayyy…hmmmm
-","ላልቆም ነገር ከመንገድ ከጉዞዬ።
-"
-"Leman biye, alegn yalut bemdir
-","ማነው ያለው ብዬ እኔ ሰው አልወቅስም፣
-"
-"Leman biye, feTno lemiasafir
-","ማነው ያለው ውስጤን ላያውቀው ማንም፣
-"
-"Leman biye, kezemeney sifir
-","ማነው ያለው ስቆ ማለፍ መተው ነው፣
-"
-"Leman biye, QinTat lemalCHemir
-","የሚያኖርህ የሰራም ደግ አባት ነው።
-"
-"Leman biye, wedaj lafra biye
-","እ እ እ እ እህ እህ . . . እ እ እ እ እህ እህ . .
-"
-"Yesew ladeniQ, yeneyn Qen gediye
-","ለማን ብዬ አለኝ ያሉት በምድር፣
-"
-"Leman biye, Qalat kemaymerTew
-","ለማን ብዬ ፈጥኖ ለሚያሳፍር፣
-"
-"Leman biye, leket-kaTa andebet
-","ለማን ብዬ ከዘመኔ ስፍር፣
-"
-"Leman biye, kemayTeQim mikir
-","ለማን ብዬ ቅንጣት ለማልጨምር፣
-"
-"Leman biye, ergiman kalebet
-","ለማን ብዬ ወዳጅ ላፍራ ብዬ፣
-"
-"Leman biye, yekokob dimQeteyn
-","የሰው ላድንቅ የኔን ቀን ገድዬ።
-"
-"Leman biye, laTfaw manineteyn
-","ለማን ብዬ ቃላት ከማይመርጠው፥
-"
-"Manew yalew kalkugn, bizu issemalehu
-","ለማን ብዬ ለከት ካጣ አንደበት፣
-"
-"Manew yalew biliss, manin amnalehu
-","ለማን ብዬ ከማይጠቅም ምክር፥
-"
-"Manew yalew, awuQewalehu baay bizu
-","ለማን ብዬ እርግማን ካለበት፣
-"
-"Bemolabet yadekmal, guaz mezezu
-","ለማን ብዬ የኮኮብ ድምቀቴን፣
-"
-"Ehhhhh aahhhhh
-","ለማን ብዬ ላጥፋው ማንነቴን።
-"
-"Erasin kibbo, lekibir zina
-","ማነው ያለው ካልኩኝ ብዙ እሰማለሁ፣
-"
-"Yiramedal sewu, besewu godana
-","ማነው ያለው ብልስ ማንን አምናለሁ፣
-"
-"Molto laymola, leshinQur nuro
-","ማነው ያለው አውቀዋለሁ ባይ ብዙ፣
-"
-"Endeyt yigefal, yih teCHemiro
-","በሞላበት ያደክማል ጓዝ መዘዙ።
-"
-"Sewu leQursu, ejun aTaTfo
-","እ እ እ እ እህ እህ . . . እ እ እ እ እህ እህ . . .
-"
-"CHaf yizo meheyd, hodun taQifo
-","እራስን ክቦ ለክብር ዝና፣
-"
-"Lalayut ewunet, allu layreba
-","ይራመዳል ሰው በሰው ጎዳና፣
-"
-"Seenegruh wilewu, sat’sema giba
-","ሞልቶ ላይሞላ ለሽንቁር ኑሮ፣
-"
-"Seenegruh wilewu, sat’sema giba
-","እንዴት ይገፋል ይህ ተጨምሮ፣
-"
-"Seenegruh beewal, satamin giba
-","ሰው ለቁርሱ እጁን አጣጥፎ፣
-"
-"Seenegruh wilewu, sat’sema giba
-","ጫፍ ይዞ መሄድ ሆዱን ታቅፎ፣
-"
-"Allu tebalen, satamin giba
-","ላላዩት እውነት አሉ ላይረባ፣
-"
-Aaaaayyy…hmmmm,"ሲነግሩህ ውለው ሳትሰማ ግባ፣
-"
-"Zimm kemil biyei, binager techakuye
-","ሲነግሩህ ውለው ሳትሰማ ግባ፣
-"
-"Shuk yalugn minew biye
-","ሲነግሩህ ቢዋል ሳታምን ግባ።
-"
-"Laskefash, leman biye
-","ሲነግሩህ ውለው ሳትሰማ ግባ፣
-"
-"Zimm kemil biyei, binager techakuye
-","አሉ ተባለን ሳታምን ግባ።
-"
-"Shuk yalugn minew biye
-",እ እ እ እ እህ እህ . . .
-"Laskefash, leman biye
-","ዝም ከምል ብዬ ብናገር ተቻኩዬ
-"
-"Hilm ayehu wude, irmeyn bitegna
-","ሹክ ያሉኝ ምነው ብዬ
-"
-"EnQilf inestogn, yih semonigna
-","ላስከፋሽ ለማን ብዬ
-"
-"Simatel? saay, sitiyign chilla
-","ዝም ከምል ብዬ ብናገር ተቻኩዬ
-"
-"Emba bajebew, besaQish Tilla
-","ሹክ ያሉኝ ምነው ብዬ
-"
-"Emba bajebew, besaQish Tilla
-","ላስከፋሽ ለማን ብዬ
-"
-"Hilm elim beyilign, fiQrey yeTewatey
-","ህልም አየሁ ዉዴ እርሜን ብተኛ
-"
-"Bemotey, bemotey
-","እንቅልፍ ነስቶኝ ይህ ሰሞንኛ
-"
-"Teyi yelijenetey
-","ስማትል ሳይ ስትይኝ ችላ
-"
-"AlasQeyimishim, eneys bandebetey
-","እምባ ባጀበው በሳቅሽ ጥላ
-"
-"Bemotey, bemotey
-","እምባ ባጀበው በሳቅሽ ጥላ
-"
-"Limal bandebetey
-","ህልም እልም በይልኝ ፍቅሬ የጠዋቴ
-"
-"Ewunet endaymeslegn, heydesh atiQoyi
-","በሞቴ በሞቴ
-"
-"AtQoyi, atQoyi
-","ተይ የልጅነቴ
-"
-"Heydesh atiQoyi
-","አላስቀይምሽም እኔስ ባንደበቴ
-"
-"Lensifsifu libey, bey tolo ney
-","በሞቴ በሞቴ
-"
-"Bey neyi, bey neyi
-","ልማል ባንደበቴ
-"
-"Tolo tolo neyi
-","እውነት እንዳይመስልኝ ሄደሽ አትቆዪ
-"
-"Zimm zimm, yishal zimm
-","አትቆዪ አትቆዪ
-"
-"ATicheysh kemiQozim
-","ሄደሽ አትቆዪ
-"
-"Bamnishim, balamnishim
-","ለንስፍስፉ ልቤ በይ ቶሎ ነይ
-"
-"Bemanim altekashim
-","በይ ነዪ በይ ነዪ
-"
-"Genna newu, genna genna
-","ቶሎ ቶሎ ነዪ
-"
-"Lanchi sil, mech norkuna
-","ዝም ዝም ይሻላል ዝም
-"
-"Akorefsh, kefash biye
-","አጥቼሽ ከምቆዝም
-"
-"Labablish, ney wudiye
-","ባምንሽም ባላምንሽም
-"
-"Labablish, ney wudiye
-","በማንም አልተካሽም
-"
-"Labablish ney wudiye
-","ገና ነው ገና ገና
-"
-"Zimm kemil biyei, binager techakuye
-","ላንቺ ስል መች ኖርኩና
-"
-"Shuk yalugn minew biye
-","አኮረፍሽ ከፋሽ ብዬ
-"
-"Laskefash, leman biye
-","ላባብልሽ ነይ ዉድዬ
-"
-"Zimm kemil biyei, binager techakuye
-","ላባብልሽ ነይ ዉድዬ
-"
-"Shuk yalugn minew biye
-","ላባብልሽ ነይ ዉድዬ
-"
-"Laskefash, leman biye
-","ዝም ከምል ብዬ ብናገር ተቻኩዬ
-"
-"Addis aydelem, hodey lemdehal
-","ሹክ ያሉኝ ምነው ብዬ
-"
-"Geneham seelewu, beefejihim chal
-","ላስከፋሽ ለማን ብዬ
-"
-"Mecheim aymolam, beesema joro
-","ዝም ከምል ብዬ ብናገር ተቻኩዬ
-"
-"Laynei tewu affey, atchekul tolo
-","ሹክ ያሉኝ ምነው ብዬ
-"
-"Laynei tewu affey, atchekul tolo
-","ላስከፋሽ ለማን ብዬ
-"
-"Mamenim metamen, leras seelu eko newu
-","አዲስ አይደለም ሆዴ ለምደሃል
-"
-"Leras newu, leras newu
-","ገነሃም ሲለዉ ቢፈጅህም ቻል
-"
-"Metamen leras newu
-","መቼም አይሞላም ቢሰማ ጆሮ
-"
-"Lewededut menor, endeit metadel newu
-","ላይኔ ተዉ አፌ አትቸኩል ቶሎ
-"
-"Desta newu, desta newu
-","ላይኔ ተዉ አፌ አትቸኩል ቶሎ
-"
-"Minegna desta newu
-","ማመንም መታመን ለራስ ሲሉ አኮ ነዉ
-"
-"Bewaza endew ayQom, fiQir wenz eko newu
-","ለራስ ነው ለራስ ነው
-"
-"Wenz newu, wenz newu
-","መታመን ለራስ ነው
-"
-"FiQir wenz eko newu
-","ለወደዱት መኖር እንዴት መታደል ነው
-"
-"Hulun yemeeyizewu, bahiru lib newu
-","ደስታ ነው ደስታ ነው
-"
-"Lib newu, lib newu
-","ምነኛ ደስታ ነው
-"
-"Bahiru lib newu
-","በዋዛ እንደው አይቆም ፍቅር ወንዝ እኮ ነው
-"
-"Zimm zimm, yishal zimm
-","ወንዝ ነው ወንዝ ነው
-"
-"ATicheysh kemiQozim
-","ፍቅር ወንዝ አኮ ነው
-"
-"Bamnishim, balamnishim
-","ሁሉን የሚይዘው ባህሩ ልብ ነው
-"
-"Bemanim altekashim
-","ልብ ነው ልብ ነው
-"
-"Genna newu, genna genna
-","ባህሩ ልብ ነው
-"
-"Lanchi sil, mech norkuna
-","ዝም ዝም ይሻላል ዝም
-"
-"Akorefsh, kefash biye
-","አጥቼሽ ከምቆዝም
-"
-"Labablish, ney wudiye
-","ባምንሽም ባላምንሽም
-"
-"Labablish, ney wudiye
-","በማንም አልተካሽም
-"
-"Labablish ney wudiye
-","ገና ነው ገና ገና
-"
-"Labablish ney fiQriye
-","ላንቺ ስል መች ኖርኩና
-"
-Labablish ney wudiye,"አኮረፍሽ ከፋሽ ብዬ
-"
-"Iyaselaselkush kenferein sagnikew
-","ላባብልሽ ነይ ዉድዬ
-"
-"Waa…neberechign malet, menfeseyn awekew
-","ላባብልሽ ነይ ዉድዬ
-"
-"Hmm…
-","ላባብልሽ ነይ ዉድዬ
-"
-"Alteleyeshignim, india-aaw endezebet
-","ላባብልሽ ነይ ፍቅርዬ
-"
-"ATicheish alawuQim, benafQot filagot
-",ላባብልሽ ነይ ዉድዬ
-"Alteleyeshignim, india-aaw endezebet
-","እያሰላሰልኩሽ ከንፈሬን ሳኝከው
-"
-"ATicheish alawuQim, benafQot filagot
-","ዋ… ነበረችኝ ማለት መንፈሴን አወከው
-"
-"Iyaselaselkush, kenferein sagnikew
-","እም…
-"
-"Neberechign malet, menfeseyn awekew
-","አልተለየሽኝም እንዲያው እንደዘበት
-"
-"YeseQeQen wonCHif, yemeleyet merdo
-","አጥቼሽ አላውቅም በናፍቆት ፍላጎት
-"
-"Talshignbign fiQrey hoy, yehazen beredo
-","አልተለየሽኝም እንዲያው እንደዘበት
-"
-"Alteleyeshignim, india-aaw endezebet
-","አጥቼሽ አላውቅም በናፍቆት ፍላጎት
-"
-"ATicheish alawuQim, benafQot filagot
-","እያሰላሰልኩሽ ከንፈሬን ሳኝከው
-"
-"Iyaselaselkush kenferein sagnikew
-","ነበረችኝ ማለት መንፈሴን አወከው
-"
-"Ehh…waa…
-","የሰቀቀን ወንጭፍ የመለየት መርዶ
-"
-"Neberechign malet, menfeseyn awekew
-","ጣልሸብኝ ፍቅሬ ሆይ የሐዘን በረዶ
-"
-"YeseQeQen wonCHif, yemeleyet merdo
-","አልተለየሽኝም እንዲያው እንደዘበት
-"
-"Lemin, lemin
-","አጥቼሽ አላውቅም በናፍቆት ፍላጎት
-"
-"Talshignbign fiQrey hoy, yehazen beredo
-","እያሰላሰልኩሽ ከንፈሬን ሳኝከው
-"
-"Iyaselaselkush, kenferein sagnikew
-","እህ…ዋ…
-"
-"Neberechign malet, menfeseyn awekew
-","ነበረችኝ ማለት መንፈሴን አወከው
-"
-"YeseQeQen wonCHif, yemeleyet merdo
-","የሰቀቀን ወንጭፍ የመለየት መርዶ
-"
-"Talshignbign fiQrey hoy, yehazen beredo
-","ለምን ለምን
-"
-"Alteleyeshignim, india-aaw endezebet
-","ጣልሸብኝ ፍቅሬ ሆይ የሐዘን በረዶ
-"
-"ATicheish alawuQim, benafQot filagot
-","እያሰላሰልኩሽ ከንፈሬን ሳኝከው
-"
-"Waa…mecheim sialQ ayamir
-","ነበረችኝ ማለት መንፈሴን አወከው
-"
-"Indeehu hono Qere, yelijinet gize
-","የሰቀቀን ወንጭፍ የመለየት መርዶ
-"
-"Indeteleyayen, salayish land’gizei
-","ጣልሸብኝ ፍቅሬ ሆይ የሐዘን በረዶ
-"
-"Salayish land’gizei
-","አልተለየሽኝም እንዲያው እንደዘበት
-"
-Waa…wa wa wa wa,"አጥቼሽ አላውቅም በናፍቆት ፍላጎት
-"
-"Yimechegnal, kanchi gar CHewata
-","ዋ…መቼም ሲያልቅ አያምር
-"
-"AyTimegnim, iTelalehu zimita
-","እንዲሁ ሆኖ ቀረ የልጅነት ግዜ
-"
-"Bey anagreegn, ahndebetish yilmed
-","እንደተለያየን ሳላይሽ ላንድ ግዜ
-"
-"Indiniwaded
-","ሳላይሽ ላንድ ግዜ
-"
-"Ahndegnaye, yelibei medresha
-",ዋ…ዋ ዋ ዋ ዋ
-"Ingidaye,yefiQrei menesha
-","ይመቸኛል ካንቺ ጋር ጨዋታ
-"
-"Altewushim, enei ‘negrishalehu
-","አይጥመኝም እጠላለው ዝምታ
-"
-"Ewodishalehu
-","በይ አናግሪኝ አንደበትሽ ይልመድ
-"
-"MeesTrein negirei, kalweTalign
-","እንድንዋደድ
-"
-"MafQer lebichaye, min leerebagn
-","አንደኛዬ የልቤ መድረሻ
-"
-"Linagerew, iniCHawot
-","እንግዳዬ የፍቅሬ መነሻ
-"
-"KafeQerkush, yemin sisit
-","አልተውሽም እኔ እነግርሻለው
-"
-"Iski bahndebetei, linagerew
-","እወድሻለው
-"
-"Hodei indeetenefis, endeeQelew
-","ሚስጥሬን ነግሬ ካልወጣልኝ
-"
-"Kalugn ayQer, abedelat
-","ማፍቀር ለብቻዬ ምን ሊረባኝ
-"
-"Yesuan fiQir, lawujilat
-","ልናገረው፣እንጫወት
-"
-"Yenei yenei, yenei nesha
-","ካፈቀርኩሽ የምን ስስት
-"
-"KeQal belay, CHinQein mersha
-","እስኪ ባንደበቴ ልናገረው
-"
-"Qedamawit, imebeitei
-","ሆዴ እንዲተነፍስ እንዲቀለው
-"
-"Yegilish newu, nuri beitei
-","ካሉኝ አይቀር፣አበደላት
-"
-"Yenei yenei, yenei nesha
-","የሱዋን ፍቅር፣ላውጅላት
-"
-"KeQal belay, CHinQein mersha
-","የኔ የኔ የኔ ነሻ
-"
-"Qedamawit, imebeitei
-","ከቃል በላይ ጭንቄን መርሻ
-"
-"Yegilish newu, gibi beite
-","ቀዳማዊት እመቤቴ
-"
-"Yimechegnal, kanchi gar CHewata
-","የግልሽ ነው ኑሪ ቤቴ
-"
-"AyTimegnim, iTelalehu zimita
-","የኔ የኔ የኔ ነሻ
-"
-"Bey anagreegn, ahndebetish yilmed
-","ከቃል በላይ ጭንቄን መርሻ
-"
-"Indiniwaded
-","ቀዳማዊት እመቤቴ
-"
-"Ahndegnaye, yelibei medresha
-","የግልሽ ነው ግቢ ቤቴ
-"
-"Ingidaye,yefiQrei menesha
-","ይመቸኛል ካንቺ ጋር ጨዋታ
-"
-"Altewushim, enei ‘negrishalehu
-","አይጥመኝም እጠላለው ዝምታ
-"
-"Ewodishalehu
-","በይ አናግሪኝ አንደበትሽ ይልመድ
-"
-"Mulu aydelemina, sewu berasu
-","እንድንዋደድ
-"
-"Yemeewedewu alewu, inde nefsu
-","አንደኛዬ የልቤ መድረሻ
-"
-"K’afish firei libla, kekenferish
-","እንግዳዬ የፍቅሬ መነሻ
-"
-"Aynish sir QuCH biye, hulei indayish
-","አልተውሽም እኔ እነግርሻለው
-"
-"Bezeech menged alem, litarfeebat
-","እወድሻለው
-"
-"Belibish ifoyin, atinfegiat
-","ሙሉ አይደለምና ሰው በራሱ
-"
-"Anchin des bilosh, tesaktolign
-","የሚወደው አለው እንደ ነፍሱ
-"
-"Ineim beteraye, zim balkugn
-","ካፍሽ ፍሬ ልብላ ከከንፈርሽ
-"
-"Yenei yenei, yenei nesha
-","አይንሽ ስር ቁጭ ብዬ ሁሌ እንዳይሽ
-"
-"KeQal belay, CHinQein mersha
-","በዝች መንገድ ዓለም ልታርፊባት
-"
-"Qedamawit, imebeitei
-","በልብሽ እፎይን አትንፈጊያት
-"
-"Yegilish newu, gibi beite
-","አንችን ደስ ብሎሽ ተሳክቶልኝ
-"
-"Yenei yenei, yenei nesha
-","እኔም በተራዬ ዝም ባልኩኝ
-"
-"KeQal belay, CHinQein mersha
-","የኔ የኔ የኔ ነሻ
-"
-"Qedamawit, imebeitei
-","ከቃል በላይ ጭንቄን መርሻ
-"
-"Yegilish newu, gibi beitei
-","ቀዳማዊት እመቤቴ
-"
-"Yenei yenei, yenei nesha
-","የግልሽ ነው ግቢ ቤቴ
-"
-"KeQal belay, CHinQein mersha
-","የኔ የኔ የኔ ነሻ
-"
-"Qedamawit, imebeitei
-","ከቃል በላይ ጭንቄን መርሻ
-"
-"Yegilish newu, gibi beitei
-","ቀዳማዊት እመቤቴ
-"
-"Oh-ho lala-lala
-","የግልሽ ነው ግቢ ቤቴ
-"
-"Oh-ho oh-ho lala-lala
-","የኔ የኔ የኔ ነሻ
-"
-Oh-ho lala-lala,"ከቃል በላይ ጭንቄን መርሻ
-"
-"Endeit nesh, endeit nesh
-","ቀዳማዊት እመቤቴ
-"
-"Endeit nesh, endeit nesh
-","የግልሽ ነው ግቢ ቤቴ
-"
-"Endeit nesh, endeit nesh
-","ኦሆሆ ላ ላ ላ ላ
-"
-"Endeit nesh, endeit nesh
-","ኦሆሆ ኦሆሆ ላ ላ ላ ላ
-"
-"Shegey shegey, shegey shegey
-",ኦሆሆ ላ ላ ላ ላ
-"Sewu alawQim biye, yelegnim mehala
-","እንዴት ነሽ: እንዴት ነሽ
-"
-"BeleTebign enji, yanchi mola mola
-","እንዴት ነሽ: እንዴት ነሽ
-"
-"Yasalefnew hulu, sasibew anesegn
-","እንዴት ነሽ: እንዴት ነሽ
-"
-"Kaderegnewu yeliQ, yalaregnew basegn
-","እንዴት ነሽ: እንዴት ነሽ
-"
-"Shegey shegey, shegey shegey
-","ሸጌ ሸጌ: ሸጌ ሸጌ
-"
-"Mechey tayto yawuQal, anchin mesay lij
-","ሰው አላውቅም ብዬ: የለኝም መሃላ
-"
-"Baleshibet honesh, yemitiwodeji
-","በለጠብኝ እንጂ: ያንቺ ሞላ ሞላ
-"
-"FiQir ena mewuded, enante atawuQu
-","ያሳለፍነው ሁሉ: ሳስበው አነሰኝ
-"
-"Yachin yelij neger, heydachihu teyiQu
-","ካደረግነው ይልቅ: ያላረግነው ባሰኝ
-"
-"Yefuafuatewu fiset, yewofochu zeima
-","ሸጌ ሸጌ: ሸጌ ሸጌ
-"
-"Endanchi alhon alegn, dimTSishin sisema
-","መቼ ታይቶ ያውቃል: አንችን መሳይ ልጅ
-"
-"Kedamenaw betach, kemereit belay
-","ባለሽበት ሆነሽ: የምትዎደጂ
-"
-"Endanchi aynet gela, tayto yawQal woy
-","ፍቅር እና መውደድ: እናንተም አታውቁ
-"
-"Endanchi aynet gela, tayto yawQal woy
-","ያቺን የልጅ ነገር: ሄዳችሁ ጠይቁ
-"
-"Endanchi aynet gela, tayto yawQal woy
-","የፏፏቴው ፍሰት: የዎፎቹ ዜማ
-"
-"YetefeTro gelash, yemin moged alebet
-","እንዳንቺ አልሆን አለኝ: ድምፅሽን ስሰማ
-"
-"Yenei alem, min moged alebet
-","ከዳመናው በታች: ከመሬት በላይ
-"
-"Yesera akalatein, esat yezerabet
-","እንዳንቺ አይነት ገላ: ታይቶ ያውቃል ወይ
-"
-"Akaley, esat yezerabet
-","እንዳንቺ አይነት ገላ: ታይቶ ያውቃል ወይ
-"
-"Yaney yezan leta, siniCHewawet
-","እንዳንቺ አይነት ገላ: ታይቶ ያውቃል ወይ
-"
-"Hodiye, siniCHewawet
-","የተፈጥሮ ገላሽ: የምን ሞገድ አለበት
-"
-"Mineyn bitnekeegn newu, nefsein yaTahut
-","የኔ ዓለም: ምን ሞገድ አለበት
-"
-"Yeney alem, nefsein yaTahut
-","የሰራ አካላቴን: እሳት የዘራበት
-"
-"Iyaguremereme, yehamleiwu semay
-","አካሌ: እሳት የዘራበት
-"
-"Anchin be’mebreQu, yizosh meTa woy
-","ያኔ የያዘን ለታ: ስንጨዋወት
-"
-"Begaw eskeewoTa, kiremtu eskialfilign
-","ሆድዬ: ስንጨዋወት
-"
-"Kezinabu befeet, anchin new yeTalelign
-","ምኔን ብትነኪኝ ነው: ነፍሴን ያጣሁት
-"
-"Shegey shegey, shegey shegey
-","የኔ ዓለም: ነፍሴን ያጣሁት
-"
-"Shegey shegey, shegey shegey","እያጉረመረመ: የሐምሌው ሰማይ
-"
-"Mamen aQategn, yehilmein nigist, yene arekina
-","አንቺን በመብረቁ: ይዞሽ መጣ ወይ
-"
-"Biruh Qen meTa, hiwot leetades banchi endegena
-","በጋው እስኪወጣ: ክረምቱ እስኪያልፍልኝ
-"
-"Mamen aQategn, yehilmein nigist, yene arekina
-","ከዝናቡ በፊት: አንቺን ነው የጣለልኝ
-"
-"Biruh Qen meTa, hiwot leetades banchi endegena
-","ሸጌ ሸጌ: ሸጌ ሸጌ
-"
-"Man’ahle endene, edil yeQenaw, Qen yewoTalet Mignot fiTinu, yesemerelet
-",ሸጌ ሸጌ: ሸጌ ሸጌ
-"BefiQrish zeima, nuro teQagnto, birhan temola
-","ማመን አቃተኝ : የህልሜን ንግስት : የኔ አረክና
-"
-"Yene alem’ema
-","ብሩህ ቀን መጣ : ህይወት ሊታደስ : ባንቺ እንደገና
-"
-"Alferam negen endamna, anchi alesh’ena
-","ማመን አቃተኝ : የህልሜን ንግስት : የኔ አረክና
-"
-"BefiQrish kef yaderegshign, ende demena
-","ብሩህ ቀን መጣ : ህይወት ሊታደስ : ባንቺ እንደገና
-"
-"Nigistey yebeitey girma, yenigat CHora
-","ማን አለ እንደኔ : ዕድል የቀናው : ቀን የወጣለት
-"
-"Amrognign tayehu beyifa, huley alesh’ena
-","ምኞት ፍጥኑ : የሰመረለት
-"
-"Alferam negen endamna, anchi alesh’ena
-","በፍቅርሽ ዜማ : ኑሮ ተቃኝቶ : ብርሃን ተሞላ
-"
-"BefiQrish kef yaderegshign, ende demena
-","የኔ ዓለምማ
-"
-"Nigistey yebeitey girma, yenigat CHora
-","አልፈራም ነገን እንዳምና : አንቺ አለሽና
-"
-"Amrognign tayehu beyifa, huley alesh’ena
-","በፍቅርሽ ከፍ ያደረግሽኝ : እንደ ደመና
-"
-"Mamen aQategn, yehilmein nigist, yene arekina
-","ንግሥቴ የቤቴ ግርማ : የንጋት ጮራ
-"
-"Biruh Qen meTa, hiwot leetades banchi endegena
-","አምሮብኝ ታየሁ በይፋ : ሁሌ አለሽና
-"
-"Mamen aQategn, yehilmein nigist, yene arekina
-","አልፈራም ነገን እንዳምና : አንቺ አለሽና
-"
-"Biruh Qen meTa, hiwot leetades banchi endegena
-","በፍቅርሽ ከፍ ያደረግሽኝ : እንደ ደመና
-"
-"Ende ChereQa, gizei beelewoT, godlo beemola
-","ንግሥቴ የቤቴ ግርማ : የንጋት ጮራ
-"
-"AlawQim Qonjo, kalanchi leila
-","አምሮብኝ ታየሁ በይፋ : ሁሌ አለሽና
-"
-"Edemei yemayfetawu, hayal senselet
-","ማመን አቃተኝ : የህልሜን ንግስት : የኔ አረክና
-"
-"FiQir asronal, min yileyenal
-","ብሩህ ቀን መጣ : ህይወት ሊታደስ : ባንቺ እንደገና
-"
-"Alferam negen endamna, anchi alesh’ena
-","ማመን አቃተኝ : የህልሜን ንግስት : የኔ አረክና
-"
-"BefiQrish kef yaderegshign, ende demena
-","ብሩህ ቀን መጣ : ህይወት ሊታደስ : ባንቺ እንደገና
-"
-"Nigistey yebeitey girma, yenigat CHora
-","እንደ ጨረቃ : ግዜ ቢለወጥ : ጎድሎ ቢሞላ
-"
-"Amrognign tayehu beyifa, huley alesh’ena
-","አላውቅም ቆንጆ : ካላንቺ ሌላ
-"
-"Alferam negen endamna, anchi alesh’ena
-","እድሜ የማይፈታው : ሃያል ሰንሰለት
-"
-"BefiQrish kef yaderegshign, ende demena
-","ፍቅር አስሮናል : ምን ይለየናል
-"
-"Nigistey yebeitey girma, yenigat CHora
-","አልፈራም ነገን እንዳምና : አንቺ አለሽና
-"
-"Amrognign tayehu beyifa, huley alesh’ena","በፍቅርሽ ከፍ ያደረግሽኝ : እንደ ደመና
-"
-"Hulum bemegerem, beemeleketegn
-","ንግሥቴ የቤቴ ግርማ : የንጋት ጮራ
-"
-"Sintun ayehu bante, gira iyegebagn
-","አምሮብኝ ታየሁ በይፋ : ሁሌ አለሽና
-"
-"Hulum bemegerem, beemeleketegn
-","አልፈራም ነገን እንዳምና : አንቺ አለሽና
-"
-"Sintun ayehu bante, gira iyegebagn
-","በፍቅርሽ ከፍ ያደረግሽኝ : እንደ ደመና
-"
-"Endeit yiresawal, libonah enein
-","ንግሥቴ የቤቴ ግርማ : የንጋት ጮራ
-"
-"Yesintun ayn Tilogn, seegerfewu gonein
-",አምሮብኝ ታየሁ በይፋ : ሁሌ አለሽና
-"Sitileyegn ante, enbayein ireCHichei
-","ሁሉም በመገረም: ቢመለከተኝ
-"
-"Aynein yiTlagn mech alku, kante teleyichei
-","ስንቱን አየሁ ባንተ: ግራ እየገባኝ
-"
-"Hulum bemegerem, beemeleketegn
-","ሁሉም በመገረም: ቢመለከተኝ
-"
-"Sintun ayehu bante, gira iyegebagn
-","ስንቱን አየሁ ባንተ: ግራ እየገባኝ
-"
-"Hulum bemegerem, beemeleketegn
-","እንዴት ይረሳዋል: ልቦናህ እኔን
-"
-"Sintun ayehu bante, gira iyegebagn
-","የስንቱ አይን ጥሎኝ: ሲገርፈው ጐኔን
-"
-"Menor linur enji, gizeiwun mesiye
-","ስትለየኝ አንተ: እንባዬን እረጭቼ
-"
-"Sintun ayehu bante, beneger Qosiye
-","እኔን ይጥላኝ መች አልኩ: ካንተ ተለይቼ
-"
-"Ante sitileyegn, gizei lewuToh
-","ሁሉም በመገረም: ቢመለከተኝ
-"
-"Endewu ante yibQagn, weret adalToh
-","ስንቱን አየሁ ባንተ: ግራ እየገባኝ
-"
-"Hulum bemegerem, beemeleketegn
-","ሁሉም በመገረም: ቢመለከተኝ
-"
-"Sintun ayehu bante, gira iyegebagn
-","ስንቱን አየሁ ባንተ: ግራ እየገባኝ
-"
-"Hulum bemegerem, beemeleketegn
-","መኖር ልኑር እንጂ: ጊዜውን መስዬ
-"
-"Sintun ayehu bante, gira iyegebagn
-","ስንቱን አየሁ ባንተ: በነገር ቆስዬ
-"
-"YeTafeTewu fiQir, bereit telewuso
-","አንተ ስትለየኝ: ጊዜ ለዉጦህ
-"
-"Zarei gin meselegn, merar ende-kosso
-","እነደዉ አንተ ይብቃኝ: ወረት አዳልጦህ
-"
-"Hileenahim beeyasib, negerun eriQo
-","ሁሉም በመገረም: ቢመለከተኝ
-"
-"Sintun ayehu lante, sewunetei alQo
-","ስንቱን አየሁ ባንተ: ግራ እየገባኝ
-"
-"Hulum bemegerem, beemeleketegn
-","ሁሉም በመገረም: ቢመለከተኝ
-"
-"Sintun ayehu bante, gira iyegebagn
-","ስንቱን አየሁ ባንተ: ግራ እየገባኝ
-"
-"Hulum bemegerem, beemeleketegn
-","የጣፈጠው ፍቅር: በሬት ተለዉሶ
-"
-"Sintun ayehu bante, gira iyegebagn
-","ዛሬ ግን መሰለኝ: መራር እንደ ኮሶ
-"
-"Sintun ayehu bante, Sintun ayehu bante","ህሊናህም ቢያስብ: ነገሩን አርቆ
-"
-"FiQrin belibei, mesrito
-","ስንቱን አየሁ ላንተ: ሰውነቴ አልቆ
-"
-"Leyla asebe woy, libih enein kedto
-","ሁሉም በመገረም: ቢመለከተኝ
-"
-"Yan hulu Qalkeedanun eresto
-","ስንቱን አየሁ ባንተ: ግራ እየገባኝ
-"
-"FiQrin belibei, mesrito
-","ሁሉም በመገረም: ቢመለከተኝ
-"
-"Leyla asebe woy, libih enein kedto
-","ስንቱን አየሁ ባንተ: ግራ እየገባኝ
-"
-"Yan hulu Qalkeedanun eresto
-",ስንቱን አየሁ ባንተ: ስንቱን አየሁ ባንተ
-"Irestehewu endewu, yan hulu mehala
-","ፍቅርን በልቤ: መስርቶ
-"
-"Libih temegne woy, fiQrin kenei leyla
-","ሌላ አሰበ ወይ: ልብህ እኔን ከድቶ
-"
-"Antem endashah heed, yeneim enba yifses
-","ያን ሁሉ ቃልኪዳኑን እረስቶ
-"
-"Mecheim altadelkugn, fiQrin lemeCHeres
-","ፍቅርን በልቤ: መስርቶ
-"
-"FiQrin lemeCHeres
-","ሌላ አሰበ ወይ: ልብህ እኔን ከድቶ
-"
-"FiQrin belibei, mesrito
-","ያን ሁሉ ቃልኪዳኑን እረስቶ
-"
-"Leyla asebe woy, libih enein kedto
-","እረስተሀዉ እንደዉ: ያን ሁሉ መሐላ
-"
-"Yan hulu Qalkeedanun eresto
-","ልብህ ተመኘ ወይ: ፍቅርን ከኔ ሌላ
-"
-"FiQrin belibei, mesrito
-","አንተም አንዳሻህ ሂድ: የኔም እንባ ይፍሰስ
-"
-"Leyla asebe woy, libih enein kedto
-","መቼም አልታደልኩኝ: ፍቅርን ለመጨረስ
-"
-"Yan hulu Qalkeedanun eresto
-","ፍቅርን ለመጨረስ
-"
-"FiQrachinin sinijemir, gena belegawu
-","ፍቅርን በልቤ: መስርቶ
-"
-"Ke’and leyla fiQir, guzo? mindin newu
-","ሌላ አሰበ ወይ: ልብህ እኔን ከድቶ
-"
-"Bileh yalkewun Qal, yetenagerkewu
-","ያን ሁሉ ቃልኪዳኑን እረስቶ
-"
-"AltaQebehim woy, ahun sitilekawu?
-","ፍቅርን በልቤ: መስርቶ
-"
-"Ahun sitilekawu
-","ሌላ አሰበ ወይ: ልብህ እኔን ከድቶ
-"
-"FiQrin belibei, mesrito
-","ያን ሁሉ ቃልኪዳኑን እረስቶ
-"
-"Leyla asebe woy, libih enein kedto
-","ፍቅራችንን ስንጀምር: ገና በለጋው
-"
-"Yan hulu Qalkeedanun eresto
-","ከአንድ ሌላ ፍቅር: ጉዞ? ምንድን ነው
-"
-"FiQrin belibei, mesrito
-","ብለህ ያልከዉን ቃል የተናገርከዉ
-"
-"Leyla asebe woy, libih enein kedto
-","አልታቀበህም ወይ: አሁን ስትለካዉ?
-"
-"Yan hulu Qalkeedanun eresto
-","አሁን ስትለካዉ
-"
-"BefiQrih iremeT, seeQaTel anjetei
-","ፍቅርን በልቤ: መስርቶ
-"
-"Aynih newu libih newu, yekedagn Telatei
-","ሌላ አሰበ ወይ: ልብህ እኔን ከድቶ
-"
-"Yegebahewu Qal, endeeh litiresa
-","ያን ሁሉ ቃልኪዳኑን እረስቶ
-"
-"Sintu neger Qerto, bante yetenesa
-","ፍቅርን በልቤ: መስርቶ
-"
-"Bante yetenesa
-","ሌላ አሰበ ወይ: ልብህ እኔን ከድቶ
-"
-"FiQrin belibei, mesrito
-","ያን ሁሉ ቃልኪዳኑን እረስቶ
-"
-"Leyla asebe woy, libih enein kedto
-","በፍቅርህ እረመጥ: ሲቃጠል አንጀቴ
-"
-"Yan hulu Qalkeedanun eresto
-","አይንህ ነው ልብህ ነው: የከዳኝ ጠላቴ
-"
-"FiQrin belibei, mesrito
-","የገባኸዉን ቃል: አንዲህ ልትረሳ
-"
-"Leyla asebe woy, libih enein kedto
-","ስንቱ ነገር ቀርቶ: ባንተ የተነሳ
-"
-"Yan hulu Qalkeedanun eresto
-","ባንተ የተነሳ
-"
-"Leyla asebe woy, libih enein kedto
-","ፍቅርን በልቤ: መስርቶ
-"
-Yan hulu Qalkeedanun eresto,"ሌላ አሰበ ወይ: ልብህ እኔን ከድቶ
-"
-"Libein asdengiTot, adegegnawu fiQir
-","ያን ሁሉ ቃልኪዳኑን እረስቶ
-"
-"Simkin salanesa, biwul yilegnal Qir
-","ፍቅርን በልቤ: መስርቶ
-"
-"Libein asdengiTot, adegegnawu fiQir
-","ሌላ አሰበ ወይ: ልብህ እኔን ከድቶ
-"
-"Simkin salanesa, biwul yilegnal Qir
-","ያን ሁሉ ቃልኪዳኑን እረስቶ
-"
-"Hileenaye asiboh, enei aale nefsei
-","ሌላ አሰበ ወይ: ልብህ እኔን ከድቶ
-"
-"Alresahim eko, min gizeiwu beerezim
-",ያን ሁሉ ቃልኪዳኑን እረስቶ
-"Weyn yemeselewu wubet, diQin seel kefeetei
-","ልቤን አስደንግጦት: አደገኛዉ ፍቅር
-"
-"Simkin salanesa, ayarfim hiwotei
-","ስምክን ሳላነሳ: ብውል ይለኛል ቅር
-"
-"Ayarfim hiwotei
-","ልቤን አስደንግጦት: አደገኛዉ ፍቅር
-"
-"Libein asdengiTot, adegegnawu fiQir
-","ስምክን ሳላነሳ: ብውል ይለኛል ቅር
-"
-"Simkin salanesa, biwul yilegnal Qir
-","ህሊናዬ አስቦህ: እኔ አለ ነፍሴ?
-"
-"Libein asdengiTot, adegegnawu fiQir
-","አልረሳህም እኮ: ምን ግዜው ቢረዝም
-"
-"Simkin salanesa, biwul yilegnal Qir
-","ወይን የመሰለው ውበት: ድቅን ሲል ፊቴ
-"
-"Abebawu fegegtah, kayn yemeefenegil
-","ስምክን ሳላነሳ: አያርፍም ህይወቴ
-"
-"Libein selem argo, sewunet yemee….
-","አያርፍም ህይወቴ
-"
-"FiQriye yemilih, kenei gar tegegnteh
-","ልቤን አስደንግጦት: አደገኛዉ ፍቅር
-"
-"Heewotin yemiadis, nebere tinfashih
-","ስምክን ሳላነሳ: ብውል ይለኛል ቅር
-"
-"Nebere tinfashih
-","ልቤን አስደንግጦት: አደገኛዉ ፍቅር
-"
-"Libein asdengiTot, adegegnawu fiQir
-","ስምክን ሳላነሳ: ብውል ይለኛል ቅር
-"
-"Simkin salanesa, biwul yilegnal Qir
-","አበባው ፈገግታህ: ካይን የሚፈነግል??
-"
-"Libein asdengiTot, adegegnawu fiQir
-","ልቤን ሰለም አርጎ: ሰዉነት የሚ…..
-"
-"Simkin salanesa, biwul yilegnal Qir
-","ፍቅርዬ የምልህ: ከኔ ጋር ተገኝተህ
-"
-"Ahun tiz yilegnal, sit’heid tesasimen
-","ሂዎትን የሚያድስ: ነበረ ትንፋሽህ
-"
-"Yeneberen tigist, yefiQir sememen
-","ነበረ ትንፋሽህ
-"
-"Shito me’azahin, enei sastawusewu
-","ልቤን አስደንግጦት: አደገኛዉ ፍቅር
-"
-"Endeit ewulalehu, simkin salanesawu
-","ስምክን ሳላነሳ: ብውል ይለኛል ቅር
-"
-"Simkin salanesawu
-","ልቤን አስደንግጦት: አደገኛዉ ፍቅር
-"
-"Libein asdengiTot, adegegnawu fiQir
-","ስምክን ሳላነሳ: ብውል ይለኛል ቅር
-"
-"Simkin salanesa, biwul yilegnal Qir
-","አሁን ትዝ ይለኛል: ስትሄድ ተሳስመን
-"
-"Libein asdengiTot, adegegnawu fiQir
-","የነበረን ትዕግስት: የፍቅር ሰመመን
-"
-"Simkin salanesa, biwul yilegnal Qir
-","ሽቶ መአዛህን: እኔ ሳስታዉሰው
-"
-"Simkin salanesa, biwul yilegnal Qir","እንዴት እዉላለሁ: ስምክን ሳላነሳው
-"
-"Bhasaab kanchi gar negn, b’ewun newu yaTahush
-","ስምክን ሳላነሰሳው
-"
-"IruQ silehonshibign
-","ልቤን አስደንግጦት: አደገኛዉ ፍቅር
-"
-"Qenun alaQewum, mechey timeCHialesh
-","ስምክን ሳላነሳ: ብውል ይለኛል ቅር
-"
-"NafQotish gerefegn
-","ልቤን አስደንግጦት: አደገኛዉ ፍቅር
-"
-"Bhasaab kanchi gar negn, b’ewun newu yaTahush
-","ስምክን ሳላነሳ: ብውል ይለኛል ቅር
-"
-"IruQ silehonshibign
-",ስምክን ሳላነሳ: ብውል ይለኛል ቅር
-"Qenun alaQewum, mechey timeCHialesh
-","ባሳብ ካንቺ ጋር ነኝ: በእውን ነው ያጣሁሽ
-"
-"NafQotish gerefegn
-","እሩቅ ስለሆንሽብኝ
-"
-"Mechey timeCHialesh, leleet behilmey
-","ቀኑን አላውቀውም: መቼ ትመጫለሽ
-"
-"Ayayehushhh
-","ናፍቆትሽ ገረፈኝ
-"
-"Eree me-chey yihun, ye-mi-tmeCHeewu
-","ባሳብ ካንቺ ጋር ነኝ: በእውን ነው ያጣሁሽ
-"
-"Ibakishh
-","እሩቅ ስለሆንሽብኝ
-"
-"Ye-te-ra-bewu, aynei aayto enkuan
-","ቀኑን አላውቀውም: መቼ ትመጫለሽ
-"
-"IndeeTegbish
-","ናፍቆትሽ ገረፈኝ
-"
-"Teina nesto nafQotish, aseQayegn
-","መቼ ትመጫለሽ: ለሊት በህልሜ
-"
-"Melkish behilmey hulei, iyetayegn
-","አየሁሽ
-"
-"Teina nesto nafQotish, aseQayegn
-","ኧረ መ-ቼ ይሁን: የ-ም-ትመጪው
-"
-"Melkish behilmey hulei, iyetayegn
-","እባክሽ
-"
-"Behaasaab meneTSir, hulgizei ayishalehu
-","የ-ተ-ራ-በው: አይኔ አይቶ አን ኳን
-"
-"Kaleshibet bota
-","እንዲጠግብሽ
-"
-"Mechey timeCHialesh, iTebiQishalehu
-","ጤና ነስቶ ናፍቆትሽ: አሰቃየኝ
-"
-"B’imbam bedesita
-","መልክሽ በህልሜ ሁሌ: እየታየኝ
-"
-"Behaasaab meneTSir, hulgizei ayishalehu
-","ጤና ነስቶ ናፍቆትሽ: አሰቃየኝ
-"
-"Kaleshibet bota
-","መልክሽ በህልሜ ሁሌ: እየታየኝ
-"
-"Mechey timeCHialesh, iTebiQishalehu
-","በሃሳብ መነፅር: ሁልግዜ አይሻለሁ
-"
-"B’imbam bedesita
-","ካለሽበት ቦታ
-"
-"Mechey timeCHialesh, leleet behilmey
-","መቼ ትመጫለሽ: እጠብቅሻለሁ
-"
-"Ayayehushhh
-","በእምባም በደስታ
-"
-"Eree me-chey yihun, ye-mi-tmeCHeewu
-","በሃሳብ መነፅር: ሁልግዜ አይሻለሁ
-"
-"Ibakish
-","ካለሽበት ቦታ
-"
-"Ye-te-ra-bewu, aaynei aayto enkuan
-","መቼ ትመጫለሽ: እጠብቅሻለሁ
-"
-"IndeeTegbish
-","በእምባም በደስታ
-"
-"Teina nesto nafQotish, aseQayegn
-","መቼ ትመጫለሽ: ለሊት በህልሜ
-"
-"Melkish behilmey hulei, iyetayegn
-","አየሁሽሽ
-"
-"Teina nesto nafQotish, aseQayegn
-","ኧረ መ-ቼ ይሁን: የ-ም-ትመጪው
-"
-"Melkish behilmey hulei, iyetayegn
-","እባክሽ
-"
-"Teina nesto nafQotish, aseQayegn
-","የ-ተ-ራ-በው: አይኔ አይቶ አን ኳን
-"
-"Melkish behilmey hulei, iyetayegn
-","እንዲጠግብሽ
-"
-"Teina nesto nafQotish, aseQayegn
-","ጤና ነስቶ ናፍቆትሽ: አሰቃየኝ
-"
-"Melkish behilmey hulei, iyetayegn","መልክሽ በህልሜ ሁሌ: እየታየኝ
-"
-"Selam yagerei sewu, selam yewenzei sewu
-","ጤና ነስቶ ናፍቆትሽ: አሰቃየኝ
-"
-"Selam yagerei sewu, indemin alachihu
-","መልክሽ በህልሜ ሁሌ: እየታየኝ
-"
-"Inkuan leba’ilu, beselam meTachihu
-","ጤና ነስቶ ናፍቆትሽ: አሰቃየኝ
-"
-"YefiQir yeselam, yedesta yargilachihu
-","መልክሽ በህልሜ ሁሌ: እየታየኝ
-"
-"Selam yagerei sewu, selam yewenzei sewu
-","ጤና ነስቶ ናፍቆትሽ: አሰቃየኝ
-"
-"Selam yagerei sewu, indemin alachihu
-",መልክሽ በህልሜ ሁሌ: እየታየኝ
-"Inkuan leba’ilu, beselam meTachihu
-","ሰላም ያገሬ ሰው ሰላም የወንዜ ሰው
-"
-"Kef yibel bandeeraw, fiQir megleCHachihu
-","ሰላም ያገሬ ሰው እንድምን አላችሁ
-"
-"Kurat kurat, yesemaw wusTein
-","እንኳን ለበዓሉ በሰላም መጣችሁ
-"
-"Bebandeeraw, bemaninetein
-","የፍቅር የሰላም የደስታ ያርግላችሁ
-"
-"Tesebsibo, seeCHeferima
-","ሰላም ያገሬ ሰው ሰላም የወንዜ ሰው
-"
-"Bahilachin, b’alem seesema
-","ሰላም ያገሬ ሰው እንድምን አላችሁ
-"
-"Kurat kurat, yesemaw wusTein
-","እንኳን ለበዓሉ በሰላም መጣችሁ
-"
-"Bebandeeraw, bemaninetein
-","ከፍ ይበል ባንዲራው ፍቅር መግለጫው
-"
-"Tesebsibo, seeCHeferima
-","ኩራት ኩራት ይሰማው ዉስጤን
-"
-"Bahilachin, b’alem seesema
-","በባንዲራው በማንነቴን
-"
-"Oh-ho ho ho
-","ተሰብሰቦ ሲጨፈርማ
-"
-"Bey michi, bel mita
-","ባህላችን በዓለም ይሰማ
-"
-"Yazulin CHawota
-","ኩራት ኩራት ይሰማው ዉስጤን
-"
-"Bahilachin yidmeQ
-","በባንዲራው በማንነቴን
-"
-"InCHefir b’eskista
-","ተሰብሰቦ ሲጨፈርማ
-"
-"B’andinet befiQir, belu inisebaseb
-","ባህላችን በዓለም ይሰማ
-"
-"Sinihon yamribinal, lik inde-beiteseb
-","ኦሆ ሆ ሆ
-"
-"QuanQuachin beeleyay, indeye-melkachin
-","በይ ምቺ በል ምታ
-"
-"Ethiopiawi-net newu, legna andinetachin
-","ያዙልን ጫዎታ
-"
-"Bandeeraw newu’ena, legna andinetachin
-","ባህላችን ይድመቅ
-"
-"Bandeeraw yetale, bandeeraw yetale
-","እንጨፍር በእስክስታ
-"
-"Bandeeraw yetale, bandeeraw yetale
-","ባንድነት በፍቅር በሉ እንሰባሰብ
-"
-"Selam yagerei sewu, selam yewenzei sewu
-","ስንሆን ያምርብናል ልክ እንደ ቤተሰብ
-"
-"Selam yagerei sewu, indemin alachihu
-","ቋንቋችን ቢለያይ እንደየ መልካችን
-"
-"Inkuan lebahilu, beselam meTachihu
-","ኢትዮጵያዊነት ነው ለኛ አንድነታችን
-"
-"YefiQir yeselam, yedesta yargilachihu
-","ባንዲራው ነዉና ለኛ አንድነታችን
-"
-"Selam yagerei sewu, selam yewenzei sewu
-","ባንዲራው የታለ ባንዲራው የታለ
-"
-"Selam yagerei sewu, indemin alachihu
-","ባንዲራው የታለ ባንዲራው የታለ
-"
-"Inkuan leba’ilu, beselam meTachihu
-","ሰላም ያገሬ ሰው ሰላም የወንዜ ሰው
-"
-"Kef yibel bandeeraw, fiQir megleCHachihu
-","ሰላም ያገሬ ሰው እንድምን አላችሁ
-"
-"Yetesfa Qal, yegebalish
-","እንኳን ለበዓሉ በሰላም መጣችሁ
-"
-"Derso ijichin, eskeeCHanish?
-","የፍቅር የሰላም የደስታ ያርግላችሁ
-"
-"FiQir selam, kegna ayileyen
-","ሰላም ያገሬ ሰው ሰላም የወንዜ ሰው
-"
-"Be’andinet, huleim anuren
-","ሰላም ያገሬ ሰው እንድምን አላችሁ
-"
-"Yetesfa Qal, yegebalish
-","እንኳን ለበዓሉ በሰላም መጣችሁ
-"
-"Derso ijichin, eskeeCHanish
-","ከፍ ይበል ባንዲራው ፍቅር መግለጫው
-"
-"FiQir selam, kegna ayileyen
-","የተስፋ ቃል የገባልሽ
-"
-"Be’andinet, huleim anuren
-","ደርሶ እጅሽን እስኪጫንሽ?
-"
-"Oh-ho ho ho
-","ፍቅር ሰላም ከኛ አይለየን
-"
-"Bey michi, bel mita
-","በአንድነት ሁሌም አኑረን
-"
-"Yazulin CHawota
-","የተስፋ ቃል የገባልሽ
-"
-"Bahilachin yidmeQ
-","ደርሶ እጅሽን እስኪጫንሽ?
-"
-"InCHefir b’eskista
-","ፍቅር ሰላም ከኛ አይለየን
-"
-"B’andinet befiQir, belu inisebaseb
-","በአንድነት ሁሌም አኑረን
-"
-"Sinihon yamribinal, lik inde-beiteseb
-","ኦሆ ሆ ሆ
-"
-"QuanQuachin beeleyay, indeye-melkachin
-","በይ ምቺ በል ምታ
-"
-"Ethiopiawi-net newu, legna andinetachin
-","ያዙልን ጫዎታ
-"
-"Bandeeraw newu’ena, legna andinetachin
-","ባህላችን ይድመቅ
-"
-"Bandeeraw yetale, bandeeraw yetale
-","እንጨፍር በእስክስታ
-"
-"Bandeeraw yetale, bandeeraw yetale
-","ባንድነት በፍቅር በሉ እንሰባሰብ
-"
-"Bey michi, bel mita
-","ስንሆን ያምርብናል ልክ እንደ ቤተሰብ
-"
-"Yazulin CHawota
-","ቋንቋችን ቢለያይ እንደየ መልካችን
-"
-"Bahilachin yidmeQ
-","ኢትዮጵያዊነት ነው ለኛ አንድነታችን
-"
-"InCHefir b’eskista
-","ባንዲራው ነዉና ለኛ አንድነታችን
-"
-"IndeTibeb shema, iski inidmeQibet
-","ባንዲራው የታለ ባንዲራው የታለ
-"
-"Bandeerawun yijei, kurat lasayibet
-","ባንዲራው የታለ ባንዲራው የታለ
-"
-"Bandeerawun yijei, kurat lasayibet
-","በይ ምቺ በል ምታ
-"
-"Bandeeraw yetale, bandeeraw yetale
-","ያዙልን ጫዎታ
-"
-"Bandeeraw yetale, bandeeraw yetale
-","ባህላችን ይድመቅ
-"
-"Bandeeraw yetale, bandeeraw yetale
-","እንጨፍር በእስክስታ
-"
-"Bandeeraw yetale, bandeeraw yetale
-","እንደጥበብ ሸማ እስኪ እንድመቅላት
-"
-Oh-ho ho ho,"ባንዲራውን ይዤ ኩራት ላሳያት
-"
-"Abeeeit, abeit afeTaTer
-","ባንዲራውን ይዤ ኩራት ላሳያት
-"
-"Wollooo’n, seTewu hulun neger
-","ባንዲራው የታለ ባንዲራው የታለ
-"
-"SeTewu hulun neger
-","ባንዲራው የታለ ባንዲራው የታለ
-"
-"Megen, megen afeTaTer
-","ባንዲራው የታለ ባንዲራው የታለ
-"
-"Wollo’n, seTewu hulun neger
-","ባንዲራው የታለ ባንዲራው የታለ
-"
-"Megen, megen afeTaTer
-",ኦሆ ሆ ሆ
-"Wollo’n, seTewu hulun neger
-","አቤት አቤት አፈጣጠር
-"
-"Wubet ina fiQir, libein silegezaw
-","ወሎን ሰጠው ሁሉን ነገር
-"
-"Abeit abeit, afeTaTer
-","ሰጠው ሁሉን ነገር
-"
-"Yamelalisegnal, nega meshe beziaw
-","መገን መገን አፈጣጠር
-"
-"Abeit abeit, afeTaTer
-","ወሎን ሰጠው ሁሉን ነገር
-"
-"Abeit yesu sira, megen afeTaTer
-","መገን መገን አፈጣጠር
-"
-"Abeit abeit, afeTaTer
-","ወሎን ሰጠው ሁሉን ነገር
-"
-"LiQim argo serto, adelewu mefeQer
-","ዉበትና ፍቅር ልቤን ስለገዛው
-"
-"Abeit abeit, afeTaTer
-","አቤት አቤት አፈጣጠር
-"
-"Abeit abeit, afeTaTer
-","ያመላልሰኛል ነጋ መሸ በዚያው
-"
-"Sintun adarishey, iCHerisewalehu
-","አቤት አቤት አፈጣጠር
-"
-"Ayna teQemiCHey, hulun ayewalehu
-","አቤት የሱ ሥራ መገን አፈጣጠር
-"
-"Hulu shega bicha, hulu melke-Qena
-","አቤት አቤት አፈጣጠር
-"
-"AyiTereTerim, Wollo beQunjina
-","ልቅም አርጎ ሰርቶ አደለው መፈቀር
-"
-"Megen, megen afeTaTer
-","አቤት አቤት አፈጣጠር
-"
-"Wollo’n, seTewu hulun neger
-","አቤት አቤት አፈጣጠር
-"
-"Megen, megen afeTaTer
-","ስንቱን አዳርሼ እጨርሰዋለሁ
-"
-"Wollo’n, seTewu hulun neger
-","አይና ተቀምጬ ሁሉን አየዋለሁ
-"
-"Bulbula derishey, gedamatu sifra
-","ሁሉ ሸጋ ብቻ ሁሉ መልከ-ቀና
-"
-"Ijig tegeremkugn, befeTari sira
-","አይጠረጠርም ወሎ በቁንጅና
-"
-"Walati Mariam’n, esti langoragurew
-","መገን መገን አፈጣጠር
-"
-"Ye’mar ye’wetetu, yeTigab ager newu
-","ወሎን ሰጠው ሁሉን ነገር
-"
-"Megen, megen afeTaTer
-","መገን መገን አፈጣጠር
-"
-"Wollo’n, seTewu hulun neger
-","ወሎን ሰጠው ሁሉን ነገር
-"
-"Megen, megen afeTaTer
-","ቡልቡላ ደርሼ ገዳማቱ ስፍራ
-"
-"Wollo’n, seTewu hulun neger
-","እጅግ ተገረምኩኝ በፈጣሪ ስራ
-"
-"Tewedajinetun, kelay TeQebito
-","ወላቲ ማርያምን እስቲ ላንጎራጉረው
-"
-"Abeit abeit, afeTaTer
-","የማር የወተቱ የጥጋብ አገር ነው
-"
-"Ahun man yiweTal, hasabun agibto
-","መገን መገን አፈጣጠር
-"
-"Abeit abeit, afeTaTer
-","ወሎን ሰጠው ሁሉን ነገር
-"
-"Christian muslim’u, tewado yinoral
-","መገን መገን አፈጣጠር
-"
-"Abeit abeit, afeTaTer
-","ወሎን ሰጠው ሁሉን ነገር
-"
-"Tinishum tiliQum, sewu yikebaberal
-","ተወዳጅነቱን ከላይ ተቀብቶ
-"
-"Abeit abeit, afeTaTer
-","አቤት አቤት አፈጣጠር
-"
-"Abeit abeit, afeTaTer
-","አሁን ማን ይወጣል ሐሳቡን አግብቶ
-"
-"YeTossa terara, Dessie mehal yalewu
-","አቤት አቤት አፈጣጠር
-"
-"YetefeTro TSega, isum ahnd wubet newu
-","ክርስቲያን ሙስሊሙ ተዋዶ ይኖራል
-"
-"Sintu tezerziro, tenegro yabeQal
-","አቤት አቤት አፈጣጠር
-"
-"Wollo gara-ager newu, hulu yideneQal
-","ትንሹም ትልቁም ሰው ይከባበራል
-"
-"Megen, megen afeTaTer
-","አቤት አቤት አፈጣጠር
-"
-"Wollo’n, seTewu hulun neger
-","አቤት አቤት አፈጣጠር
-"
-"Megen, megen afeTaTer
-","የጦሳ ተራራ ደሴ መሃል ያለው
-"
-"Wollo’n, seTewu hulun neger
-","የተፈጥሮ ፀጋ እሱም አንድ ዉበት ነው
-"
-"Beduket bedireewu, seitu tekeshiro
-","ስንቱ ተዘርዝሮ ተነግሮ ያበቃል
-"
-"BeQeCHin shuruba, TSegurn tebeTiro
-","ውሎ ጋራገር ነው ሁሉ ይደነቃል
-"
-"Kimkim gofereiwun, teneQso amrobet
-","መገን መገን አፈጣጠር
-"
-"Hulun yeteseTewu, hagere-genet
-","ወሎን ሰጠው ሁሉን ነገር
-"
-"Megen, megen afeTaTer
-","መገን መገን አፈጣጠር
-"
-"Wollo’n, seTewu hulun neger
-","ወሎን ሰጠው ሁሉን ነገር
-"
-"Megen, megen afeTaTer
-","በዱከት በድሪው ሴቱ ተከሽሮ
-"
-"Wollo’n, seTewu hulun neger
-","በቀጭን ሹሩባ ፀጉሩን ተበጥሮ
-"
-"Megen, megen afeTaTer
-","ክምክም ጎፈሬውን ተነቅሶ አምሮበት
-"
-"Wollo’n, seTewu hulun neger
-","ሁሉን የተሰጠው አገረ-ገነት
-"
-"Megen, megen afeTaTer
-","መገን መገን አፈጣጠር
-"
-"Wollo’n, seTewu hulun neger","ወሎን ሰጠው ሁሉን ነገር
-"
-"Embua bey lameetu, lameetu
-","መገን መገን አፈጣጠር
-"
-"Embua bey lameetu
-","ወሎን ሰጠው ሁሉን ነገር
-"
-"Embua bey lameetu, lameetu
-","መገን መገን አፈጣጠር
-"
-"Korma wolajitu
-","ወሎን ሰጠው ሁሉን ነገር
-"
-"Embua bey lameetu, lameetu
-","መገን መገን አፈጣጠር
-"
-"Embua bey lameetu
-",ወሎን ሰጠው ሁሉን ነገር
-"Embua bey lameetu, lameetu
-","እምቧ በይ ላሚቱ: ላሚቱ
-"
-"Korma wolajitu
-","እምቧ በይ ላሚቱ
-"
-"Ayilakibishim, oh hoy, himemeim beeTSena
-","እምቧ በይ ላሚቱ: ላሚቱ
-"
-"Ayilakibishim, oh hoy, himemeim beeTSena
-","ኮርማ ዎላጅቱ
-"
-"Kelibei wodia sewu, ah hey, ayawQishim’ina
-","እምቧ በይ ላሚቱ: ላሚቱ
-"
-"Kelibei wodia sewu, ah hey, ayawQishim’ina
-","እምቧ በይ ላሚቱ
-"
-"Libey Qulf norot, oh hoy, yemeekefet beehon
-","እምቧ በይ ላሚቱ: ላሚቱ
-"
-"Libey Qulf norot, oh hoy, yemeekefet beehon
-","ኮርማ ዎላጅቱ
-"
-"Tirejeelign neber, ah hey, lachi indeit endehon
-","አይላክብሽም ኦሆ: ህመሜም ቢፀና
-"
-"Tirejeelign neber, ah hey, lachi indeit endehon
-","አይላክብሽም ኦሆ: ህመሜም ቢፀና
-"
-"Alakorfim neber, oh hoy, aliQoTam neber
-","ከልቤ ዎድያ ሰው አሄ: አያውቅሽምና
-"
-"Alakorfim neber, oh hoy, aliQoTam neber
-","ከልቤ ዎድያ ሰው አሄ: አያውቅሽምና
-"
-"Siley menafeQein, ah hey, awuQeiw beneber
-","ልቤ ቁልፍ ኖሮት ኦሆ: የሚከፈት ቢሆን
-"
-"Siley menafeQein, ah hey, awuQeiw beneber
-","ልቤ ቁልፍ ኖሮት ኦሆ: የሚከፈት ቢሆን
-"
-"Embua bey lameetu, lameetu
-","ትረጂልኝ ነበር አሄ: ላንቺ እንዴት እንደሆን
-"
-"Embua bey lameetu
-","ትረጂልኝ ነበር አሄ: ላንቺ እንዴት እንደሆን
-"
-"Embua bey lameetu, lameetu
-","አላኮርፍም ነበር ኦሆ: አልቆጣም ነበር
-"
-"Korma wolajitu
-","አላኮርፍም ነበር ኦሆ: አልቆጣም ነበር
-"
-"Embua bey lameetu, lameetu
-","ስለይ መናፈቄን አሄ: አውቄው ነበር
-"
-"Embua bey lameetu
-","ስለይ መናፈቄን አሄ: አውቄው ነበር
-"
-"Embua bey lameetu, lameetu
-","እምቧ በይ ላሚቱ: ላሚቱ
-"
-"Korma wolajitu
-","እምቧ በይ ላሚቱ
-"
-"Keteraraw wodia, oh hoy, yemititayegn
-","እምቧ በይ ላሚቱ: ላሚቱ
-"
-"Dersesh kezia mado, oh hoy, yemitnafiQeegn
-","ኮርማ ዎላጅቱ
-"
-"Behilmeim bewuneim, ah hey, tiz yemitiyeegn
-","እምቧ በይ ላሚቱ: ላሚቱ
-"
-"IndimeTa newu woy, ah hey, awurei endeebelagn
-","እምቧ በይ ላሚቱ
-"
-"Libei ende’mendedu, oh hoy, fim’m alweredew
-","እምቧ በይ ላሚቱ: ላሚቱ
-"
-"Libei ende’mendedu, oh hoy, fim’m alweredew
-","ኮርማ ዎላጅቱ
-"
-"Ehil iyebela, ah hey, wuha iyaberedew
-","ከተራራው ዎዲያ ኦሆ: የምትታይኝ
-"
-"Ehil iyebela, ah hey, wuha iyaberedew
-","ደርሰሽ ከዚያ ማዶ ኦሆ: የምትናፍቂኝ
-"
-"Embua bey lameetu, lameetu
-","በህልሜም በውኔም አሄ: ትዝ የምትይኝ
-"
-"Embua bey lameetu
-","እንድመጣ ነው ዎይ አሄ: አውሬ እንዲበላኝ
-"
-"Embua bey lameetu, lameetu
-","ልቤ እንደመንደዱ ኦሆ: ፍምም አልወረደው
-"
-"Korma wolajitu
-","ልቤ እንደመንደዱ ኦሆ: ፍምም አልወረደው
-"
-"Alchil ahle anjetein, oh hoy, baTSnana baTSnana
-","እህል እየበላ አሄ: ውሃ እያበረደው
-"
-"Alchil ahle anjetein, oh hoy, baTSnana baTSnana
-","እህል እየበላ አሄ: ውሃ እያበረደው
-"
-"Tenesabign fiQrish, ah hey, zendirom end’amna
-","እምቧ በይ ላሚቱ: ላሚቱ
-"
-"Tenesabign fiQrish, ah hey, zendirom end’amna
-","እምቧ በይ ላሚቱ
-"
-"Ebakih QulQulet, oh ohy, atigeftregn
-","እምቧ በይ ላሚቱ: ላሚቱ
-"
-"Ebakih QulQulet, oh ohy, atigeftregn
-","ኮርማ ዎላጅቱ
-"
-"FiQriyen shegnichei, ah hey, Qomialehu dekmogn
-","አልችል አለ አንጀቴን ኦሆ: ባፅናና ባፅናና
-"
-"FiQriyen shegnichei, ah hey, Qomialehu keftogn
-","አልችል አለ አንጀቴን ኦሆ: ባፅናና ባፅናና
-"
-"MeTahum ahnd newu, oh hoy, Qerehum ahnd newu
-","ተነሳብኝ ፍቅርሽ አሄ: ዘንድሮም እንዳምና
-"
-"MeTahum ahnd newu, oh hoy, Qerehum ahnd newu
-","ተነሳብኝ ፍቅርሽ አሄ: ዘንድሮም እንዳምና
-"
-"Indeehu mehal laay, ah hey, mewalel mindinew
-","እባክህ ቁልቁለት ኦሆ: አትገፍትረኝ
-"
-"Indeehu mehal laay, ah hey, mewalel mindinew
-","እባክህ ቁልቁለት ኦሆ: አትገፍትረኝ
-"
-"Yeleilegnin hulu, oh hoy, alegn sil kerimey
-","ፍቅርዬን ሸኝቼ አሄ: ቆሜያለው ደክሞኝ
-"
-"Yeleilegnin hulu, oh hoy, alegn sil kerimey
-","ፍቅርዬን ሸኝቼ አሄ: ቆሜያለው ከፍቶኝ
-"
-"Qal’abay aregshign, ah hey, wushet hone hilmei
-","መጣሁም አንድ ነው ኦሆ: ቀረሁም አንድ ነው
-"
-"Qal’abay aregshign, ah hey, wushet hone hilmei
-","መጣሁም አንድ ነው ኦሆ: ቀረሁም አንድ ነው
-"
-"Embua bey lameetu, lameetu
-","እንዲሁ መሃል ላይ አሄ: መዋለል ምንድነው
-"
-"Embua bey lameetu
-","እንዲሁ መሃል ላይ አሄ: መዋለል ምንድነው
-"
-"Embua bey lameetu, lameetu
-","የሌለኝን ሁሉ ኦሆ: አለኝ ስል ከርሜ
-"
-"Korma wolajitu
-","የሌለኝን ሁሉ ኦሆ: አለኝ ስል ከርሜ
-"
-"Embua bey, embua bey lamei bora
-","ቃል-አባይ አረግሽኝ አሄ: ውሸት ሆነ ህልሜ
-"
-"Yiblagn enji, jibu kanchi gara
-","ቃል-አባይ አረግሽኝ አሄ ውሸት ሆነ ህልሜ
-"
-"Yiblagn enji, jibu kanchi gara
-","እምቧ በይ ላሚቱ: ላሚቱ
-"
-"Embua bey, embua bey lamei bora
-","እምቧ በይ ላሚቱ
-"
-"Yiblagn enji, jibu kanchi gara
-","እምቧ በይ ላሚቱ: ላሚቱ
-"
-"Yiblagn enji, jibu kanchi gara
-","ኮርማ ዎላጅቱ
-"
-wooo,"እምቧ በይ: እምቧ በይ ላሜ ቦራ
-"
-"Banchima, bibal, bitama ohhh ohhh
-","ይብላኝ እንጂ: ጅቡ ካንቺ ጋራ
-"
-"Mech ineyn leegermegn ohhh ohhh
-","ይብላኝ እንጂ: ጅቡ ካንቺ ጋራ
-"
-"LeedenQegn, ohhh ohhh
-","እምቧ በይ: እምቧ በይ ላሜ ቦራ
-"
-"Neyilign neyina, aahhh aahhh
-","ይብላኝ እንጂ: ጅቡ ካንቺ ጋራ
-"
-"ACHawuchign ohhh ohhhBanchima, bibal, bitama ohhh ohhh
-","ይብላኝ እንጂ: ጅቡ ካንቺ ጋራ
-"
-"Mech ineyn leegermegn ohhh ohhh
-",ዉ…
-"LeedenQegn, ohhh ohhh
-","ባንቺማ ብባል ብታማ ኦሆ ኦሆ
-"
-"Neyilign neyina, aahhh aahhh
-","መች እኔን ሊገርመኝ ኦሆ ኦሆ
-"
-"ACHawuchign ohhh ohhh
-","ሊደንቀኝ ኦሆ ኦሆ
-"
-"Ayichalehugn, sewu seegeremm
-","ነይልኝ ነይና አሃ አሃ
-"
-"Banchi mamarr, ohhh
-","አጫዉቺኝ ኦሆ ኦሆ
-"
-"Mamarr
-","ባንቺማ ብባል ብታማ ኦሆ ኦሆ
-"
-"Keney-ga Qomesh, Qomesh sititayy
-","መች እኔን ሊገርመኝ ኦሆ ኦሆ
-"
-"Ke-keminim belay, ohhh
-","ሊደንቀኝ ኦሆ ኦሆ
-"
-"Keminim belay
-","ነይልኝ ነይና አሃ አሃ
-"
-"Keminim belay, keminim belay
-","አጫዉቺኝ ኦሆ ኦሆ
-"
-"Keminim belay, keminim belaaayyyy
-","አይቻለሁኝ ሰው ሲገረም
-"
-"Des des yilegnal, neyiligna
-","ባንቺ ማማር ኦሆ
-"
-"BeQa des yilegnal, neyiligna
-","ማማር
-"
-"Des des yilegnal, neyiligna
-","ከኔጋ ቆመሽ ቆመሽ ስትታይ
-"
-"BeQa des yilegnal, neyiligna
-","ከ…ከምን በላይ ኦሆ
-"
-"Sitnori kegoney, heyy heyy
-","ከምን በላይ
-"
-"Eney des yilegnal, neyiligna
-","ከምንም በላይ ከምንም በላይ
-"
-"Des des yilegnal, neyiligna
-","ከምንም በላይ ከምንም በላላላይይ
-"
-"BeQa des yilegnal, neyiligna
-","ደስ ደስ ይለኛል ነይልኛ
-"
-"Sitnori kegoney, heyy heyy
-","በቃ ደስ ይለኛል ነይልኛ
-"
-"Eney des yilegnalm neyiligna
-","ደስ ደስ ይለኛል ነይልኛ
-"
-"Banchima, bibal, bitama ohhh ohhh
-","በቃ ደስ ይለኛል ነይልኛ
-"
-"Mech ineyn leegermegn ohhh ohhh
-","ስትኖሪ ከጎኔ ሄይ ሄይ
-"
-"LeedenQegn, ohhh ohhh
-","እኔ ደስ ይለኛል ነይልኛ
-"
-"Neyilign neyina, aahhh aahhh
-","ደስ ደስ ይለኛል ነይልኛ
-"
-"ACHawuchign ohhh ohhh
-","በቃ ደስ ይለኛል ነይልኛ
-"
-"Derto CHewatawu, demQo mishitu
-","ስትኖሪ ከጎኔ ሄይ ሄይ
-"
-"Anchin maTatu, ohhh ohhh
-","እኔ ደስ ይለኛል ነይልኛ
-"
-"MaTatu
-","ባንቺማ ብባል ብታማ ኦሆ ኦሆ
-"
-"Hulum seedeset, iney yikefagnal
-","መች እኔን ሊገርመኝ ኦሆ ኦሆ
-"
-"Anchin yilegnal, ohhh ohhh
-","ሊደንቀኝ ኦሆ
-"
-"Yilegnal
-","ነይልኝ ነይና አሃ አሃ
-"
-"Keminim belay, keminim belay
-","አጫዉቺኝ ኦሆ ኦሆ
-"
-"Keminim belay, keminim belaaayyyy
-","ደርቶ ጨዋታው ደምቆ ምሽቱ
-"
-"Des des yilegnal, neyiligna
-","አንቺን ማጣቱ ኦሆ ኦሆ
-"
-"BeQa des yilegnal, neyiligna
-","ማጣቱ ኦሆ ኦሆ
-"
-"Des des yilegnal, neyiligna
-","ሁሉም ሲደሰት እኔ እይከፋኝ
-"
-"BeQa des yilegnal, neyiligna
-","አንቺን ይለኛል ኦሆ ኦሆ
-"
-"Sitnori kegoney, heyy heyy
-","ይለኛል
-"
-"Eney des yilegnal, neyiligna
-","ከምንም በላይ ከምንም በላይ
-"
-"Des des yilegnal, neyiligna
-","ከምንም በላይ ከምንም በላላላይይ
-"
-"BeQa des yilegnal, neyiligna
-","ደስ ደስ ይለኛል ነይልኛ
-"
-"Sitnori kegoney, heyy heyy
-","በቃ ደስ ይለኛል ነይልኛ
-"
-"Eney des yilegnal
-","ደስ ደስ ይለኛል ነይልኛ
-"
-"Neyiligna neyiligna, neyiligna neyiligna
-","በቃ ደስ ይለኛል ነይልኛ
-"
-"Hey hey
-","ስትኖሪ ከጎኔ ሄይ ሄይ
-"
-"Neyiligna neyiligna, neyiligna hey hey
-","እኔ ደስ ይለኛል ነይልኛ
-"
-Neyiligna,"ደስ ደስ ይለኛል ነይልኛ
-"
-"Sewu hulu kemiaweralat
-","በቃ ደስ ይለኛል ነይልኛ
-"
-"Ketebalelat belay nat
-","ስትኖሪ ከጎኔ ሄይ ሄይ
-"
-"Eneym silesua binager
-","እኔ ደስ ይለኛል ነይልኛ
-"
-"Bihonat emagn misikir
-","ነይልኛ ነይልኛ ነይልኛ ነይልኛ
-"
-"Alafrim, besua ekoralew
-","ሄይ ሄይ
-"
-"Endesua, amualto yadelew
-","ነይልኛ ነይልኛ ነይልኛ ሄይ ሄይ
-"
-"Alafrim, bezich midirr
-",ነይልኛ
-"Sewu yelem, biye binagerr
-","ሰው ሁሉ ከሚያወራላት
-"
-"Sewu hulu kemiaweralat
-","ከተባለላት በላይ ናት
-"
-"Ketebalelat belay nat
-","እኔም ስለሷ ብናገር
-"
-"Eneym silesua binager
-","ብሆናት እማኝ ምስክር
-"
-"Bihonat emagn misikir
-","አላፍርም በሷ እኮራለው
-"
-"Alafrim, besua ekoralew
-","እንደሷ አሟልቶ ያደለው
-"
-"Endesua, amualto yadelew
-","አላፍርም በዝች ምድር
-"
-"Alafrim, bezich midirr
-","ሰው የለም ብዬ ብናገር
-"
-"Sewu yelem, biye binagerr
-","ሰው ሁሉ ከሚያወራላት
-"
-"Qoyta enditiweded, hona tefeTralech
-","ከተባለላት በላይ ናት
-"
-"Qerbo lastewalat, demo tileyalech
-","እኔም ስለሷ ብናገር
-"
-"SeefeTrat, lemelkam seefeTrat
-","ብሆናት እማኝ ምስክር
-"
-"SeefeTrat, ledeg argo feTruat
-","አላፍርም በሷ እኮራለው
-"
-"Andebet, beekib biawedisat
-","እንደሷ አሟልቶ ያደለው
-"
-"Esuan gin, yetum Qal aygelTSat
-","አላፍርም በዝች ምድር
-"
-"Sewu hulu kemiaweralat
-","ሰው የለም ብዬ ብናገር
-"
-"Ketebalelat belay nat
-","ቆይታ እንድትወደድ ሆና ተፈጥራለች
-"
-"Eneym silesua binager
-","ቀርቦ ላስተዋላት ደሞ ትለያለች
-"
-"Bihonat emagn misikir
-","ሲፈጥራት ለመልካም ሲፈጥራት
-"
-"Alafrim, besua ekoralew
-","ሲፈጥራት ለደግ አርጎ ፈጥሯት
-"
-"Endesua, amualto yadelew ohhh
-","አንደበት ቢክብ ቢያወድሳት
-"
-"Alafrim, bezich midirr
-","አሷ ግን የቱም ቃል አይገልፃት
-"
-"Sewu yelem, biye binagerr
-","ሰው ሁሉ ከሚያወራላት
-"
-"Ende nigat TSehay, ende leyt CHereQa
-","ከተባለላት በላይ ናት
-"
-"Besua tejemiro, wubet besua abeQa
-","እኔም ስለሷ ብናገር
-"
-"SeefeTrat, lemelkam seefeTrat
-","ብሆናት እማኝ ምስክር
-"
-"SeefeTrat, ledeg argo feTruat
-","አላፍርም በሷ እኮራለው
-"
-"Andebet, beekib biawedisat
-","እንደሷ አሟልቶ ያደለው ኦ
-"
-"Esuan gin, yetum Qal aygelTSat
-","አላፍርም በዝች ምድር
-"
-"Sewu hulu kemiaweralat
-","ሰው የለም ብዬ ብናገር
-"
-"Ketebalelat belay nat
-","እንደ ንጋት ፀሐይ እንደ ሌት ጨረቃ
-"
-"Eneym silesua binager
-","በሷ ተጀምሮ ውበት በሷ አበቃ
-"
-"Bihonat emagn misikir
-","ሲፈጥራት ለመልካም ሲፈጥራት
-"
-"Alafrim, besua ekoralehu
-","ሲፈጥራት ለደግ አርጎ ፈጥሯት
-"
-"Endesua, amualto yadelew ohhh
-","አንደበት ቢክብ ቢያወድሳት
-"
-"Alafrim, bezich midirr
-","አሷ ግን የቱም ቃል አይገልፃት
-"
-"Sewu yelem, biye binagerr
-","ሰው ሁሉ ከሚያወራላት
-"
-"Sewu hulu kemiaweralat
-","ከተባለላት በላይ ናት
-"
-"Ketebalelat belay nat
-","እኔም ስለሷ ብናገር
-"
-"Eneym silesua binager
-","ብሆናት እማኝ ምስክር
-"
-"Bihonat emagn misikir
-","አላፍርም በሷ እኮራለው
-"
-"Alafrim, besua ekoralew
-","እንደሷ አሟልቶ ያደለው ኦ
-"
-"Endesua, amualto yadelew","አላፍርም በዝች ምድር
-"
-"Ke’Mekonnen dildiy, kenCHet foQu belay
-","ሰው የለም ብዬ ብናገር
-"
-"Seemesh enigenagn
-","ሰው ሁሉ ከሚያወራላት
-"
-"MeTahu anchin biye, saykebdegn ermijaw
-","ከተባለላት በላይ ናት
-"
-"Beseba derejaw
-","እኔም ስለሷ ብናገር
-"
-"Besarian kot laay, yanin QeCHin kuta
-","ብሆናት እማኝ ምስክር
-"
-"Tal arigey
-","አላፍርም በሷ እኮራለው
-"
-"Be’Mekonnen dildiy, limTa bederejaw
-",እንደሷ አሟልቶ ያደለው
-"BePiassa arigey
-","ከመኮንን ድልድይ: ከንጨት ፎቁ በላይ
-"
-"BefiQir maneQiaw, doro endayil bekentu
-","ሲመሽ እንገናኝ
-"
-"Erri anchin wedo
-","መጣሁ አንችን ብዬ: ሳይከብደኝ እርምጃው
-"
-"Kirarun sitisemi, biQ bey Qomialehu
-","በሰባ ደረጃው
-"
-"Keberish mado
-","በሳሪያን ኮት ላይ: ያንን ቀጭን ኩታ
-"
-"Seemesh wede-mata, mata mata
-","ጣል አድርጌ
-"
-"Abeit yanchi fiQir seebereta
-","በመኮንን ድልድይ: ልምጣ በደረጃው
-"
-"Seemesh wede-mata, mata mata
-","በፒያሳ አርጌ
-"
-"BiQ bey seegeref, kirar seemeta
-","በፍቅር ማነቂያው: ዶሮ እንዳይል በከንቱ
-"
-"Mata mata, mata mata
-","እሪ አንችን ወዶ
-"
-"Mata mata, mata mata
-","ክራሩን ስትሰሚ: ብቅ በይ ቆሚያለሁ
-"
-"Mata mata, mata mata
-","ከበርሽ ማዶ
-"
-"Mata mata, mata mata
-","ሲመሽ ወደማታ: ማታ ማታ
-"
-"Mata mata
-","አቤት ያንቺ ፍቅር ሲበረታ
-"
-"AmTuat kegoney, tiQemeT
-","ሲመሽ ወደማታ: ማታ ማታ
-"
-"Enjera ayQerbim, kaleweT
-","ብቅ በይ ሲገረፍ: ክራር ሲመታ
-"
-"AQfo gelawan, alTegb yalew
-","ማታ ማታ: ማታ ማታ
-"
-"Manew kalachihu, manew manew
-","ማታ ማታ: ማታ ማታ
-"
-"Libei libei newu, libei irhabtegnaw
-","ማታ ማታ: ማታ ማታ
-"
-"Esuan wedo, leit imaytegnaw
-","ማታ ማታ: ማታ ማታ
-"
-"YiwuTa yiwTa, egrei yizal be’irmijaw
-","ማታ ማታ
-"
-"Kesua aybisim, seba derejaw
-","አምጧት ከጎኔ: ትቀመጥ
-"
-"Ohhh zebenay, ney zebenay
-","እንጀራ አይቀርብም: ካለወጥ
-"
-"Zebenay zebenay
-","አቅፎ ገላዋን: አልጠግብ ያለው
-"
-"Seemesh wede-mata
-","ማነው ካላችሁ: ማነው ማነው
-"
-"Hulu zegto berun
-","ልቤ ልቤ ነው: ልቤ እረሃብተኛው
-"
-"Tam taram saregew
-","እሷን ወዶ: ሌት እማይተኛው
-"
-"BiQ bey kirarun
-","ይውጣ ይውጣ: እግሬ ይዛል በርምጃው
-"
-"Tam-tararam tararam tararam
-","ከሷ አይብስም: ሰባ ደረጃው
-"
-"Saregew kirarun
-","ዎይ… ዘበናይ: ነይ ዘበናይ
-"
-"Tam-tararam tararam tararam
-","ዘበናይ ዘበናይ
-"
-"TSegruan tetekusaw, ende’Armide Mary
-","ሲመሽ ወደማታ
-"
-"Zebenay nat fiQruan, bekirar negari
-","ሁሉ ዘግቶ በሩን
-"
-"Tam-tararam tararam tararam
-","ታም ታራም ሳረገው
-"
-"Bekirar negari
-","ብቅ በይ ክራሩን
-"
-"Tam-tararam tararam tararam
-","ታም-ታራራም ታራራም ታራራም
-"
-"Heido keKorea, zemach seemeles
-","ሳረገው ክራሩን
-"
-"Zemach seemeles
-","ታም-ታራራም ታራራም ታራራም
-"
-"Yawesal nafQotun, bekiraru dimTS
-","ፀጉሯን ተተኩሳው: እንዳርምዴ ሜሪ
-"
-"Bekiraru dimTS
-","ዘበናይ ናት ፍቅሯን: በክራር ነጋሪ
-"
-"FiQrish asCHeniQo, melawos aQategn
-","ታም-ታራራም ታራራም ታራራም
-"
-"Melawos aQategn
-","በክራር ነጋሪ
-"
-"Tedenaberkulish, Tiyit endesategn
-","ታም-ታራራም ታራራም ታራራም
-"
-"Tiyit endesategn
-","ሄዶ ከኮሪያ: ዘማች ሲመለስ
-"
-"Satena neberkugn, tekuash bemewzerey
-","ዘማች ሲመለስ
-"
-"Tekuash bemewzerey
-","ያወሳል ናፍቆቱን: ብክራሩ ድምፅ
-"
-"Lezebenay bicha, ejein seTehu zarey
-","ብክራሩ ድምፅ
-"
-"Ejein seTehu zarey
-","ፍቅርሽ አስጨንቆ: መላዎስ አቃተኝ
-"
-"Ohhh zebenay, ney zebenay
-","መላዎስ አቃተኝ
-"
-"Zebenay zebenay
-","ተደናበርኩልሽ: ጥይት እንደሳተኝ
-"
-"Besarian kot laay, yanin QeCHin kuta
-","ጥይት እንደሳተኝ
-"
-"Tal arigey
-","ሳተና ነበርኩኝ: ተኳሽ በመውዘሬ
-"
-"Be’Mekonnen dildiy, limTa bederejaw
-","ተኳሽ በመውዘሬ
-"
-"BePiassa arigey
-","ለዘበናይ ብቻ: እጄን ሰጠሁ ዛሬ
-"
-"End’awra doro kinf, kotein iyesabkut
-","እጄን ሰጠሁ ዛሬ
-"
-"Mereit lemereit
-","ዎይ…ዘበናይ: ነይ ዘበናይ
-"
-"Bezorkut gelashin, satweTabign TSehay
-","ዘበናይ ዘበናይ
-"
-"Saynegabign leit
-","በሳሪያን ኮት ላይ: ያንን ቀጭን ኩታ
-"
-"Seemesh wede-mata, mata mata
-","ጣል አድርጌ
-"
-"Abeit yanchi fiQir seebereta
-","በመኮንን ድልድይ: ልምጣ በደረጃው
-"
-"Seemesh wede-mata, mata mata
-","በፒያሳ አርጌ
-"
-"BiQ bey seegeref, kirar seemeta
-","እንዳውራ ዶሮ ክንፍ: ኮቴን እየሳብኩት
-"
-"Mata mata, mata mata
-","መሬት ለመሬት
-"
-"Mata mata, mata mata
-","በዞርኩት ገላሽን: ሳትወጣብኝ ፀሐይ
-"
-"Mata mata, mata mata
-","ሳይነጋብኝ ሌት
-"
-"Mata mata, mata mata
-","ሲመሽ ወደማታ: ማታ ማታ
-"
-"Mata mata
-","አቤት ያንቺ ፍቅር ሲበረታ
-"
-"Molto b’Arada, Y’Armen dabo
-","ሲመሽ ወደማታ: ማታ ማታ
-"
-"Sassa akelatei, sewu teribo
-","ብቅ በይ ሲገረፍ: ክራር ሲመታ
-"
-"AQfo gelawan, alTegb yalewu
-","ማታ ማታ: ማታ ማታ
-"
-"Manew kalachihu, manew manew
-","ማታ ማታ: ማታ ማታ
-"
-"Libei libei newu, libei irhabtegnaw
-","ማታ ማታ: ማታ ማታ
-"
-"Esuan wedo, leit imaytegnaw
-","ማታ ማታ: ማታ ማታ
-"
-"YiwuTa yiwTa, egrei yizal be’irmijaw
-","ማታ ማታ
-"
-"Kesua aybisim, seba derejaw
-","ሞልቶ ባራዳ: ያርመን ዳቦ
-"
-"Ohhh zebenay, ney zebenay
-","ሳሳ አከላቴ: ሰው ተርቦ
-"
-"Zebenay zebenay
-","አቅፎ ገላዋን: አልጠግብ ያለው
-"
-"AyweTam dereja, beefeTir seishento
-","ማነው ካላችሁ: ማነው ማነው
-"
-"Endeney kalheide, befiQir tegefto
-","ልቤ ልቤ ነው: ልቤ እረሃብተኛው
-"
-"Tam-tararam tararam tararam
-","እሷን ወዶ: ሌት እማይተኛው
-"
-"BefiQir tegefto
-","ይውጣ ይውጣ: እግሬ ይዛል በርምጃው
-"
-"Tam-tararam tararam tararam
-","ከሷ አይብስም: ሰባ ደረጃው
-"
-"Medferiash werQ newu
-","ዎይ… ዘበናይ: ነይ ዘበናይ
-"
-"Birr’m aygezash
-","ዘበናይ ዘበናይ
-"
-"Lib yeleilew habil, gid’m ayseTish
-","አይወጣም ደረጃ: ቢፈጥር ሴሸኝቶ
-"
-"Keiredash
-","እንደኔ ካልሄደ: በፍቅር ተገፍቶ
-"
-"Tam-tararam tararam tararam
-","ታም-ታራራም ታራራም ታራራም
-"
-"Gid’m ayseTish
-","በፍቅር ተገፍቶ
-"
-"Tam-tararam tararam tararam
-","ታም-ታራራም ታራራም ታራራም
-"
-"Kangetish laay argeegn
-","መድፈሪያሽ ወርቅ ነው
-"
-"Ende Mar- Theresa
-","ብርም አይገዛሽ
-"
-"Ende Mar- Theresa
-","ልብ የሌለው ሀብል: ግድም አይሰጥሽ
-"
-"Wodih wodia endalil
-","ኬረዳሽ
-"
-"Adeb endigeza
-","ታም-ታራራም ታራራም ታራራም
-"
-"Adeb endigeza
-","ግድም አይሰጥሽ
-"
-"Tekelekele allu, yenigus adarash
-","ታም-ታራራም ታራራም ታራራም
-"
-"Yenigus adarash
-","ካንገትሽ ላይ አርጊኝ
-"
-"Yekit yalebese, aygebam beCHirash
-","እንደማር ተሬዛ
-"
-"Aygebam beCHirash
-","እንደማር ተሬዛ
-"
-"MeTahu keKora, yijeilish se’at
-","ወዲህ ወዲያ እንዳልል
-"
-"Yijeilish se’at
-","አደብ እንድገዛ
-"
-"BePari modish laay, amresh tayibet
-","አደብ እንድገዛ
-"
-"Amresh tayibet
-","ተከለከለ አሉ: የንጉሥ አዳራሽ
-"
-"Ohhh zebenay, ney zebenay
-","የንጉሥ አዳራሽ
-"
-"Zebenay zebenay
-","የክት ያለበሰ: አይገባም በጭራሽ
-"
-"Zenan enanaye, tey ahun ney
-","አይገባም በጭራሽ
-"
-"Ahun ney
-","መጣሁ ከኮሪያ: ይዤልሽ ሰዓት
-"
-"Zenan enanaye, tey ahun ney
-","ይዤልሽ ሰዓት
-"
-"Ahun ney, ahun ney
-","በፓሪ ሞድሽ ላይ: አምረሽ ታይበት
-"
-"Zenan enanaye, tey ahun ney
-","አምረሽ ታይበት
-"
-"Ahun ney, ahun ney
-","ዎይ… ዘበናይ: ነይ ዘበናይ
-"
-"Zenan enanaye, tey ahun ney
-","ዘበናይ ዘበናይ
-"
-"Ahun ney, ahun ney","ዘናይ እናናዬ: ተይ አሁን ነይ
-"
-"Yetizitaye inat, yesimeitey emebeit
-","አሁን ነይ
-"
-"Yefilagotey minCH, y’ediley balebeit
-","ዘናይ እናናዬ: ተይ አሁን ነይ
-"
-"Yemitastawusheegn, yalefkutin desta
-","አሁን ነይ አሁን ነይ
-"
-"Anchi bicha iko nesh, yeney lib alegnta
-","ዘናይ እናናዬ: ተይ አሁን ነይ
-"
-"Yasalefnew zemen, destan yayenibet
-","አሁን ነይ አሁን ነይ
-"
-"Temeliso beegegn, ahun min’alebet
-","ዘናይ እናናዬ: ተይ አሁን ነይ
-"
-"Yasalefnew zemen, destan yayenibet
-",አሁን ነይ አሁን ነይ
-"Temeliso beegegn, ahun min’alebet
-","የትዝታዬ እናት የስሜቴ እመቤት
-"
-"Ehhhh ehhhh…ehhhh ehhhh
-","የፍላጎቴ ምንጭ የእድሌ ባለቤት
-"
-"Ehhh ehhh ehhh
-","የምታስታውሺኝ ያለፍኩትን ደስታ
-"
-"Ahhhyee…ehhhh ehhhhh
-","አንቺ ብቻኮ ነሽ የኔ ልብ አለኝታ
-"
-"YeteCHawetnewun, mingizeim alresam
-","ያሳለፍነው ዘመን ደስታን ያየንበት
-"
-"Indeeh teleyayten, benafQot bikesam
-","ተመልሶ ቢገኝ አሁን ምናለበት
-"
-"Aykedashim libey, sewu mekdat? ayawuQim
-","ያሳለፍነው ዘመን ደስታን ያየንበት
-"
-"Iskeeleyay diress, keleQso kesaQim
-","ተመልሶ ቢገኝ አሁን ምናለበት
-"
-"Yasalefnew zemen, destan yayenibet
-","እህ እህ…እህ እህ
-"
-"Temeliso beegegn, ahun min’alebet
-","እህ እህ እህ
-"
-"Yasalefnew zemen, destan yayenibet
-","አሄ…አህ አህ
-"
-"Temeliso beegegn, ahun min’alebet
-","የተጫወትነዉን ምንግዜም አልረሳም
-"
-"Ehhhh ehhhh…ehhhh ehhhh
-","እንዲህ ተለያይተን በናፍቅት ብከሳም
-"
-"Ehhh ehhh ehhh
-","አይከዳሽም ልቤ ሰው መክዳት አያውቅም
-"
-"Ahhh…ehhhh ehhhhh
-","እስኪለያይ ድረስ ከለቅሶ ከሳቅም
-"
-"Wubet’shin indalay, iriQeim markotal
-","ያሳለፍነው ዘመን ደስታን ያየንበት
-"
-"Libey gin gilTS newu, tey simeegn
-","ተመልሶ ቢገኝ አሁን ምናለበት
-"
-"Mezgibo yizotal
-","ያሳለፍነው ዘመን ደስታን ያየንበት
-"
-"B’akal balayishim, woy b’hasab gisigasey
-","ተመልሶ ቢገኝ አሁን ምናለበት
-"
-"AlteneTaTelum, aawo nefsish ina nefsey
-","እህ እህ…እህ እህ
-"
-"Yasalefnew zemen, destan yayenibet
-","እህ እህ እህ
-"
-"Temeliso beegegn, ahun min’alebet
-","አሄ…አህ አህ
-"
-"Yasalefnew zemen, destan yayenibet
-","ዉበትሽን እንዳላይ እርቄም ማርኮታል
-"
-"Temeliso beegegn, ahun min’alebet
-","ልቤ ግን ግልፅ ነው ተይ ስሚኝ
-"
-"Ehhhh ehhhh…ehhhh ehhhh
-","መዝግቦ ይዞታል
-"
-"Ehhh ehhh ehhh
-","ባካል ባላይሽም ወይ ባሳብ ግስጋሴ
-"
-Ahhhyee…ehhhh ehhhhh,"አልተነጣጠልንም አዎ ነፍስሽ እና ነፍሴ
-"
-"Kuru nigist, yeseit arbegna
-","ያሳለፍነው ዘመን ደስታን ያየንበት
-"
-"Atinkugn baay, fird-aweQ dagna
-","ተመልሶ ቢገኝ አሁን ምናለበት
-"
-"LeneTSanet, fana yehonech
-","ያሳለፍነው ዘመን ደስታን ያየንበት
-"
-"Bilih jeg’na, emebeit manech
-","ተመልሶ ቢገኝ አሁን ምናለበት
-"
-"Ereg ereg, endeit beedereg
-","እህ እህ…እህ እህ
-"
-"Yemiresat, yerasein me’areg
-","እህ እህ እህ
-"
-"TSehay hona, hager yamoQat
-",አሄ…አህ አህ
-"Feet-awurari, alem yaweQat
-","ኩሩ ንግስት: የሴት አርበኛ
-"
-"Taitu eteigeiyitu, Taitu emebeititu
-","አትንኩኝ ባይ: ፍርድ አወቅ ዳኛ
-"
-"Taitu eteigeiyitu, Taitu emebeititu
-","ለነፃነት: ፋና የሆነች
-"
-"Taitu eteigeiyitu, Taitu emebeititu
-","ባህል ጀግና: እመቤት ማነች
-"
-"Taitu eteigeiyitu, Taitu emebeititu
-","ኧረግ ኧረግ: እንዴት ቢደረግ
-"
-"KewerQim werQ, esat yefetenat
-","የምረሳት: የራሴን ማዕረግ
-"
-"Leneim lanchim, yemenfes nigat nat
-","ፀሐይ ሆና: ሀገር ያቆማት
-"
-"Feet-awurari, emet-melayitu
-","ፊታውራሪ: ዓለም ያወቃት
-"
-"CHinQ-Qenin, yanegach Taitu
-","ጣይቱ እቴጌይቱ: ጣይቱ እመቤቲቱ
-"
-"Taitu eteigeiyitu, Taitu emebeititu
-","ጣይቱ እቴጌይቱ: ጣይቱ እመቤቲቱ
-"
-"Taitu eteigeiyitu, Taitu emebeititu
-","ጣይቱ እቴጌይቱ: ጣይቱ እመቤቲቱ
-"
-"Adwa laay, zemta yazemetech
-","ጣይቱ እቴጌይቱ: ጣይቱ እመቤቲቱ
-"
-"Deg emebeit, fiQir awaQi nech
-","ከወርቅም ወርቅ: እሳት የፈተናት
-"
-"Yager-enat, yachi libe-birtu
-","ለኔም ላንቺም: የመንፈስ ንጋት ናት
-"
-"Belibei wusT, bertalech Taitu
-","ፊታውራሪ: እመት መላይቱ
-"
-"Taitu eteigeiyitu, Taitu emebeititu
-","ጭንቅ ቀንን: ያነጋች ጣይቱ
-"
-"Taitu eteigeiyitu, Taitu emebeititu
-","ጣይቱ እቴጌይቱ: ጣይቱ እመቤቲቱ
-"
-"Taitu eteigeiyitu, Taitu emebeititu
-","ጣይቱ እቴጌይቱ: ጣይቱ እመቤቲቱ
-"
-"Taitu eteigeiyitu, Taitu emebeititu
-","አድዋ ላይ: ዘምታ ያዘመተች
-"
-"Aaanchi yager enat
-","ደግ እመቤት: ፍቅር አዋቂ ነች
-"
-"Emet melayitu
-","ያገር እናት: ያቺ ልበ ብርቱ
-"
-"Aaanchi yager enat
-","በልቤ ውስጥ: በርታለች ጣይቱ
-"
-"Emet melayitu
-","ጣይቱ እቴጌይቱ: ጣይቱ እመቤቲቱ
-"
-"Zareim belibei wusT, bertalech Taitu
-","ጣይቱ እቴጌይቱ: ጣይቱ እመቤቲቱ
-"
-"Yejegnawa lij negn, yeTaitu firei
-","ጣይቱ እቴጌይቱ: ጣይቱ እመቤቲቱ
-"
-"YeQurT-Qen bilhat, eneim alegn zarei
-","ጣይቱ እቴጌይቱ: ጣይቱ እመቤቲቱ
-"
-"Mech feri negn ena, wedehuala elalehu
-","አአአንቺ ያገር እናት
-"
-"Kasebkut edersalehu, talaQ ehonalehu
-","እመት መላይቱ
-"
-"Zeraf, zeraf biyalehu, bejegnawa enatei
-","አአአንቺ ያገር እናት
-"
-"Wurd kerasei, leza Telatei
-","እመት መላይቱ
-"
-"WedQo salayewu, anilaQeQim
-","ዛሬም በልቤ ውስጥ: በርታለች ጣይቱ
-"
-"Yemin firacha, tarik saldegim
-","የጀግናዋ ልጅ ነኝ: የጣይቱ ፍሬ
-"
-"Taitu malet, enei negn zarei
-","የቁርጥ ቀን ብልሃት: እኔም አለኝ ዛሬ
-"
-"Alehulish baay, lenat hagerei
-","መች ፈሪ ነኝና: ወደኋላ እላለሁ
-"
-"Bahle’meftihey, yesikeit angash
-","ካሰብኩት እደርሳለሁ: ታላቅ እሆናለሁ
-"
-"Yan jeg’ninetuan, enei negn werash
-","ዘራፍ ዘራፍ ብያለሁ: በጀግናዋ እናቴ
-"
-"Zeraf, zeraf
-","ውርድ ከራሴ: ለዛ ጠላቴ
-"
-"Emiyen akbiruat, esuam akbiraw
-","ወድቆ ሳላየው: አንላቀቅም
-"
-"Benigistu bilhat, hager yemeraw
-","የምን ፍራቻ: ታሪክ ሳልደግም
-"
-"Ye’edget meseretu, yemaleda CHora
-","ጣይቱ ማለት: እኔ ነኝ ዛሬ
-"
-"Minilik wend newu, beseit yemeeTera
-","አለሁልሽ ባይ: ለናት ሀገሬ
-"
-"Emiye Minilik, gizein Qedmo neQto
-","ባለ መፍትሄ: የስኬት አንጋሽ
-"
-"Le’Etegei Taitu tiliQ bota seto
-","ያን ጀግንነቷን: እኔ ነኝ ወራሽ
-"
-"Lik ende’majetua, Toruan azegajta
-","ዘራፍ ዘራፍ
-"
-"Hagerun merachiwu, bewenei temolta
-","እምዬን አክብሯት: እሷም አክብራው
-"
-"YeTaitun demn, jeg’ninet wersenal
-","በንግስቱ ብልሐት: ሀገር የመራው
-"
-"Kalemnew saniders, man yimelisenal
-","የዕድገት መሰረቱ: የማለዳ ጮራ
-"
-"Simua enkuan sinQ newu, libin yaberetal
-","ምኒሊክ ወንድ ነው: በሴት የሚጠራ
-"
-"Zinawan yesema, mech yafegefigal
-","እምዬ ምኒሊክ: ጊዜን ቀድሞ ነቅቶ
-"
-"Mech yafegefigal, mech yafegefigal
-","ለእቴጌ ጣይቱ: ትልቅ ቦታ ሰቶ
-"
-"Mech yafegefigal, mech yafegefigal
-","ልክ እንደ ማጀቷ: ጦሯን አዘጋጅታ
-"
-"Mech yafegefigal, mech yafegefigal
-","ሃገሩን መራችው: በወኔ ተሞልታ
-"
-"Mech yafegefigal, mech yafegefigal
-","የጣይቱን ደምን: ጀግንነት ወርሰናል
-"
-"Taitu eteigeiyitu, Taitu emebeititu
-","ካለምነው ሳንደርስ: ማን ይመልሰናል
-"
-"Taitu eteigeiyitu, Taitu emebeititu
-","ስሟ እንኳን ስንቅ ነው: ልብን ያበረታል
-"
-"Taitu eteigeiyitu, Taitu emebeititu
-","ዝናዋን የሰማ: መች ያፈገፍጋል
-"
-"Taitu eteigeiyitu, Taitu emebeititu","መች ያፈገፍጋል: መች ያፈገፍጋል
-"
-"Mistih beTam funga nat
-","መች ያፈገፍጋል: መች ያፈገፍጋል
-"
-"Funga keney yebasech
-","መች ያፈገፍጋል: መች ያፈገፍጋል
-"
-"Anten mesay adelat
-","መች ያፈገፍጋል: መች ያፈገፍጋል
-"
-"Qedma silalferedech
-","ጣይቱ እቴጌይቱ: ጣይቱ እመቤቲቱ
-"
-"Ante beTam Qonjo neh
-","ጣይቱ እቴጌይቱ: ጣይቱ እመቤቲቱ
-"
-"Qonjo Qalu yansihal
-","ጣይቱ እቴጌይቱ: ጣይቱ እመቤቲቱ
-"
-"Eskemit’hon misaley
-","ጣይቱ እቴጌይቱ: ጣይቱ እመቤቲቱ
-"
-"Manim yismamabihal
-","ጣይቱ እቴጌይቱ: ጣይቱ እመቤቲቱ
-"
-"Endesu satawQegnbefeet
-","ጣይቱ እቴጌይቱ: ጣይቱ እመቤቲቱ
-"
-"Saymolalih mefaQer
-","ጣይቱ እቴጌይቱ: ጣይቱ እመቤቲቱ
-"
-"Silezeeh yefQir guday
-","ጣይቱ እቴጌይቱ: ጣይቱ እመቤቲቱ
-"
-"Anegagrehegn neber
-",ዜማውን ያካፍሉ!
-"Hulemenash dess alegn
-","ሚስትህ በጣም ፉንጋ ናት
-"
-"AfeQerkush satilegn
-","ፉንጋ ከኔ የባሰች
-"
-"Alamenkuhim CHirash
-","አንተን መሳይ አደላት
-"
-"SitQelid newu yemeselegn
-","ቀድማ ስላልፈረደች
-"
-"Seebal emawQewu
-","አንተ በጣም ቆንጆ ነህ
-"
-"Demo yewend Qonjo
-","ቆንጆ ቃሉ ያንስሃል
-"
-"Libeim seefera
-","እስከምቶን ምሳሌ
-"
-"Endaligoda
-","ማንም ይስማማብሃል
-"
-"Demo yewend Qonjo
-","እንደሱ ሳታውቀኝ በፊት
-"
-"Endatikora
-","ሳይሞላልህ መፋቀር
-"
-"Seebal emawQewu
-","ስለዚህ የፍቅር ጉዳይ
-"
-"Demo yewend Qonjo
-","አነጋግረኸኝ ነበር
-"
-"Libeim seefera
-","ሁለመናሽ ደስ አለኝ
-"
-"Endaligoda
-","አፈቀርኩሽ ስትለኝ
-"
-"Demo yewend Qonjo
-","አላመንኩህም ጭራሽ
-"
-"Endatikora
-","ስትቀልድ ነው የመሰለኝ
-"
-"Meestih ejig funga nat
-","ሲባል እማውቀው
-"
-"Ante altayeh endeza
-","ደሞ የወንድ ቆንጆ
-"
-"Hodein eskiyamegn Qenahu
-","ልቤም ሲፈራ
-"
-"Alifeih endewaza
-","እንዳልጎዳ
-"
-"Ante beTam Qonjo neh
-","ደሞ የወንድ ቆንጆ
-"
-"Bemiyanegagir aynet
-","እንዳትኮራ
-"
-"Bewunet gira yigebal
-","ሲባል እማውቀው
-"
-"Anten kesuaga mayet
-","ደሞ የወንድ ቆንጆ
-"
-"Wedehuala melesegn
-","ልቤም ሲፈራ
-"
-"Asasebegn silegna
-","እንዳልጎዳ
-"
-"Yefelalekegn semon
-","ደሞ የወንድ ቆንጆ
-"
-"Endihonih fiQregna
-","እንዳትኮራ
-"
-"Qonjo wend maQreb Tirfu
-","ሚስትህ እጅግ ፉንጋ ናት
-"
-"Alba biye mekera
-","አንተ አልታየህ እንደዛ
-"
-"Libein tekelakiyew
-","ሆዴን እስኪያመኝ ቀናሁ
-"
-"Korahubih satkora
-","አልፌህ እንደዋዛ
-"
-"Seebal emawQewu
-","አንተ በጣም ቆንጆ ነህ
-"
-"Demo yewend Qonjo
-","በሚያነጋግር አይነት
-"
-"Libeim seefera
-","በእውነት ግራ ይገባል
-"
-"Endaligoda
-","አንተን ከሷጋ ማየት
-"
-"Demo yewend Qonjo
-","ወደኋላ መለሰኝ
-"
-"Endatikora
-","አሳሰበኝ ስለኛ
-"
-"Seebal emawQewu
-","የፈላለከኝ ሰሞን
-"
-"Demo yewend Qonjo
-","እንድሆንህ ፍቅረኛ
-"
-"Libeim seefera
-","ቆንጆ ወንድ ማቅረብ ትርፉ
-"
-"Endaligoda
-","አልባ ብዬ መከራ
-"
-"Demo yewend Qonjo
-","ልቤን ተከላክዬው
-"
-"Endatikora
-","ኮራሁብህ ሳትኮራ
-"
-"Esua gin amenechih
-","ሲባል እማውቀው
-"
-"Tinishinet sayisemat
-","ደሞ የወንድ ቆንጆ
-"
-"Funga salech sitamrih
-","ልቤም ሲፈራ
-"
-"Temamna endemitigebat
-","እንዳልጎዳ
-"
-"Esua gin amenechih
-","ደሞ የወንድ ቆንጆ
-"
-"Keshifanei alfa ayechih
-","እንዳትኮራ
-"
-"Meezanihim tereta
-","ሲባል እማውቀው
-"
-"Antenim bezawu seferechih
-","ደሞ የወንድ ቆንጆ
-"
-"Eresu Qonjo new
-","ልቤም ሲፈራ
-"
-"Libei fera fera fera
-","እንዳልጎዳ
-"
-"Qonjo Qonjo new
-","ደሞ የወንድ ቆንጆ
-"
-"Libei fera fera fera
-","እንዳትኮራ
-"
-"Seebal emawQewu
-","እሷ ግን አመነችህ
-"
-"Demo yewend Qonjo
-","ትንሽነት ሳይሰማት
-"
-"Libeim seefera
-","ፉንጋ ሳለች ስታምርህ
-"
-"Endaligoda biye
-","ተማምና እንደምትገባት
-"
-"Demo yewend Qonjo
-","እሷ ግን አመነችህ
-"
-"Antem endatikora
-","ከሽፋኔ አልፋ አየችህ
-"
-"Seebal emawQew
-","ሚዛንህም ተረታ
-"
-"Demo yewend Qonjo
-","አንተንም በዛው ሰፈረችህ
-"
-"Endaligoda biye
-","ኧረሱ ቆንጆ ነው
-"
-"Demo yewend Qonjo
-","ልቤ ፈራ ፈራ ፈራ
-"
-"Endatikora
-","ቆንጆ ቆንጆ ነው
-"
-"Demo yewend Qonjo
-","ልቤ ፈራ ፈራ ፈራ
-"
-"Demo yewend Qonjo
-","ሲባል እማውቀው
-"
-"Libei fera fera fera
-","ደሞ የወንድ ቆንጆ
-"
-Libei fera fera fera,"ልቤም ሲፈራ
-"
+eng,amh
+"Wubei wub abeba, ende-duroachi",ዉቤ ዉብ አበባ: አንደ ዱሮአች
+"Wubei wub abeba, ende-duroachi",ዉቤ ዉብ አበባ: አንደ ዱሮአች
+"Hodei telemenegn, enihun abre",ሆዴ ተለመነኝ: እንሁን አብረ
+"Hodei telemenegn, enihun abre",ሆዴ ተለመነኝ: እንሁን አብረ
+"Lemedk wey fiQrei, ante anjetei ho",ለመድክ ወይ ፍቅሬ: አንተ አንጀቴ ሆ
+"Lemedk wey fiQrei, ante anjetei ho",ለመድክ ወይ ፍቅሬ: አንተ አንጀቴ ሆ
+"FiQir kenei leyla, tesmamah wo",ፍቅር ከኔ ሌላ: ተስማማህ ሆ
+"Besebara folei, wuha ayTeleQi",በሰባራ ፎሌ: ውሃ አይጠለቅ
+"Besebara folei, wuha ayTeleQi",በሰባራ ፎሌ: ውሃ አይጠለቅ
+"Enei ewodihalehu, yanten gin alaQi",እኔ እወድሃልሁ: ያንተን ግን አላቅ
+"Enei ewodihalehu, yanten gin alaQi",እኔ እወድሃልሁ: ያንተን ግን አላቅ
+"FiQrihin lenei titeh, sit’heid wede-leyl",ፍቅርህን ለኔ ትተህ: ስትሄድ ወደ ሌ
+"FiQrihin lenei titeh, sit’heid wede-leyl",ፍቅርህን ለኔ ትተህ: ስትሄድ ወደ ሌ
+"Tinish teseQayehu, akalhin salbel",ትንሽ ተሰቃየሁ: አካልህን ሳልበ
+"Tinish teseQayehu, akalhin salbel",ትንሽ ተሰቃየሁ: አካልህን ሳልበ
+"Anjetei teQorTo, kehodei keweT",አንጀቴ ተቆርጦ: ከሆዴ ከወ
+"Anjetei teQorTo, kehodei keweT",አንጀቴ ተቆርጦ: ከሆዴ ከወ
+"Engideeh hakeemu, min leeQeTil meT",እንግዲህ ሐኪሙ: ምን ሊቀጥል መ
+"Engideeh hakeemu, min leeQeTil meT",እንግዲህ ሐኪሙ: ምን ሊቀጥል መ
+"Ante weret lante, kemeseleh melka",አንተ ወረት ላንተ: ከመሰለህ መልካ
+"Ante weret lante, kemeseleh melka",አንተ ወረት ላንተ: ከመሰለህ መልካ
+"AfeQralehu leyla, enein ayaQitegni",አፈቅራለሁ ሌላ: እኔን አያቅተኝ
+"AfeQralehu leyla, enein ayaCHenQegni",እወዳለሁ ሌላ: እኔን አይጨንቀኝ
+"Wubei wub abeba, ende-duroachi",ዉቤ ዉብ አበባ: አንደ ዱሮአች
+"Wubei wub abeba, ende-duroachi",ዉቤ ዉብ አበባ: አንደ ዱሮአች
+"Hodei telemenegn, enihun abre",ሆዴ ተለመነኝ: እንሁን አብረ
+"Hodei telemenegn, enihun abre",ሆዴ ተለመነኝ: እንሁን አብረ
+"Lemedk wey fiQrei, ante anjetei ho",ለመድክ ወይ ፍቅሬ: አንተ አንጀቴ ሆ
+"Lemedk wey fiQrei, ante anjetei ho",ለመድክ ወይ ፍቅሬ: አንተ አንጀቴ ሆ
+"FiQir kenei leyla, tesmamah wo",ፍቅር ከኔ ሌላ: ተስማማህ ሆ
+"Besebara folei, wuha ayTeleQi",በሰባራ ፎሌ: ውሃ አይጠለቅ
+"Besebara folei, wuha ayTeleQi",በሰባራ ፎሌ: ውሃ አይጠለቅ
+"Enei ewodihalehu, yanten gin alaQi",እኔ እወድሃልሁ: ያንተን ግን አላቅ
+"Enei ewodihalehu, yanten gin alaQi",እኔ እወድሃልሁ: ያንተን ግን አላቅ
+"Enei ewodihalehu, yanten gin alaQi",እኔ እወድሃልሁ: ያንተን ግን አላቅ
+"Enei ewodihalehu, yanten gin alaQi",እኔ እወድሃልሁ: ያንተን ግን አላቅ
+"Enei ewodihalehu, yanten gin alaQ",እኔ እወድሃልሁ: ያንተን ግን አላ
+"FiQir yenei shimunmun, fiQir yenei shimunmu",ፍቅር የኔ ሽሙንሙን: ፍቅር የኔ ሽቅርቅ
+"FiQrei yenei shimunmun, fiQrei yenei shiQirQi",ፍቅሬ የኔ ሽሙንሙን: ፍቅሬ የኔ ሽቅርቅ
+"Hodei enei anten, miyalehu ena limTa woy liQi",ሆዴ እኔ አንተን: ምያለሁ እና ልምጣ ወይ ልቅ
+"FiQir yenei shimunmun, fiQir yenei shimunmu",ፍቅር የኔ ሽሙንሙን: ፍቅር የኔ ሽቅርቅ
+"FiQrei yenei shimunmun, fiQrei yenei shiQirQi",ፍቅር የኔ ሽሙንሙን: ፍቅር የኔ ሽቅርቅ
+"Hodei enei anten, miyalehu ena limTa woy liQi",ሆዴ እኔ አንተን: ምያለሁ እና ልምጣ ወይ ልቅ
+"Wodajei hoy, minewu chila alkeg",ዎዳጄ ሆይ: ምነው ችላ አልከ
+Minewu chila alkeg,ምነው ችላ አልከ
+"ACHawutegn bakih, des yibeleg",አጫውተኝ ባክህ: ደስ ይበለ
+Des yibeleg,ደስ ይበለ
+"Qenu andei yimeshina, leitu endeenegalig",ቀኑ አንዴ ይመሽና: ሌቱ አንዲነጋል
+Leitu endeenegalig,ሌቱ አንዲነጋል
+"Qenu andei yimeshina, leitu endeenegalig",ቀኑ አንዴ ይመሽና: ሌቱ አንዲነጋል
+Leitu endeenegalig,ሌቱ አንዲነጋል
+"FiQrei Qereb bileh, iyewu yelibein gudei",ፍቅሬ ቀረብ ብለህ: እየዉ የልቤን ጉዴ
+"FiQrei Qereb bileh, iyewu yelibein gudei",ፍቅሬ ቀረብ ብለህ: እየዉ የልቤን ጉዴ
+"Qelel adirgewu, Qelel adirgewu, kebadun nafQotei",ቀለል አድርገው: ቀለል አድርገው: ከባዱን ናፍቆቴ
+"Yantema fegegta, ketos ayileyeg",ያንተማ ፈገግታ: ከቶስ አይለየ
+Ketos ayileyeg,ከቶስ አይለየ
+"Mechei newu Tegibei, esun yemayew",መቼ ነው ጠግቤ አሱን የማየ
+Esun yemayew,አሱን የማየ
+"Eneis des yemeelegn, yemeesemagn kibi",እኔን ደስ የሚለኝ: የሚሰማኝ ክብ
+Yemeesemagn kibi,የሚሰማኝ ክብ
+"Anten yagegnehu let, benuro tidar",አንተን ያገኘሁ ለት: በኑሮ ትዳር ??
+Benuro tida,በኑሮ ትዳ
+"FiQrei yenei shimunmun, fiQrei yenei shiQirQi",ፍቅሬ የኔ ሽሙንሙን: ፍቅሬ የኔ ሽቅርቅ
+"FiQir yenei shimunmun, fiQir yenei shiQirQi",ፍቅር የኔ ሽሙንሙን: ፍቅር የኔ ሽቅርቅ
+"Hodei enei anten, miyalehu ena limTa woy liQi",ሆዴ እኔ አንተን: ምያለሁ እና ልምጣ ወይ ልቅ
+"FIQir engida nech, asibehat endeho",ፍቅር አንግዳ ነች: አስበሀት አንደሆ
+Asibehat endeho,አስበሀት አንደሆ
+"Tidar misosowun, wuha Qeleb hon",ትዳር ምሶሶውን ዉሃ ቀልብ ሆ
+"FiQrei Qereb bileh, iyewu yelibein gudei",ፍቅሬ ቀረብ ብለህ: እየዉ የልቤን ጉዴ
+"FiQrei Qereb bileh, iyewu yelibein gudei",ፍቅሬ ቀረብ ብለህ: እየዉ የልቤን ጉዴ
+"Qelel adirgewu, Qelel adirgewu, kebadun nafQotei",ቀለል አድርገው: ቀለል አድርገው: ከባዱን ናፍቆቴ
+"Qelel adirgewu, Qelel adirgewu, kebadun nafQote",ቀለል አድርገው: ቀለል አድርገው: ከባዱን ናፍቆ
+Ehhhh…,እህህህህ
+"Ineys banchi fiQir, tamimey tamime",እኔስ ባንቺ ፍቅር: ታምሜ ታም
+"NeTefe, siga’na deme",ነጠፈ: ስጋና ደ
+"Mikerew mikerew, kesema",ምክረው ምከረው: ከሰማ
+Be’Abewu teret,በአበው ተረ
+"Genzeb yemeegegnewu, be hay",ገንዘብ የሚገኘው: በሃ
+Lib be arba ame,ልብ በአርባ ዓመ
+"Alechign, imma tazib",አለችኝ: እማ ታዝ
+"BefiQrish, ziye sigeb",በፍቅርሽ: ዝዬ ስገ
+"Simegnish, sayish dekime",ስመኝሽ: ሳይሽ ደክ
+"NeTefe, siga’na deme",ነጠፈ: ስጋና ደ
+"Siga’na demey, siga’na deme",ስጋና ደሜ: ስጋና ደ
+"Siga’na demey, siga’na deme",ስጋና ደሜ: ስጋና ደ
+"Lib aTto, saydekim yemeeTo",ልብ አጥቶ: ሳይደክም የሚጦ
+Begolma’sinet,በጎልማስነ
+"Indeney, befiQir yeraQ",እንደኔ: በፍቅር የራ
+Moltual beyebeit,ሞልቷል በየቤ
+"Lik aydelem wey, yemma teret",ልክ አይደለም ወይ: የእማ ተረ
+"FiQrin asabo, sewu seeQemeT beit",ፍቅርን አሳቦ: ሰው ሲቀመጥ ቤ
+"Eneys yalanchi, ayhonilig",እኔስ ያላንቺ: አይሆንል
+"Lib aTichalehu, ere enjalig",ልብ አጥቻለሁ: ኧረ እንጃል
+"Kanchi leyla, wede hual",ካንቺ ሌላ: ወደ ኋ
+"Kanchi wuCHi, wede wuCH",ካንቺ ዉጪ: ወደ ው
+"Kanchi leyla, wede hual",ካንቺ ሌላ: ወደ ኋ
+"Kanchi wuCHi, wede wuCH",ካንቺ ዉጪ: ወደ ው
+"Wede huala, wede WuCH",ወደ ኋላ: ወደ ው
+Wede hual,ወደ ኋ
+"Mikerew mikerew, kesema",ምክረው ምከረው: ከሰማ
+Be’Abewu teret,በአበው ተረ
+"Genzeb yemeegegnewu, be hay",ገንዘብ የሚገኘው: በሃ
+Lib be arba ame,ልብ በአርባ ዓመ
+"Alechign, imma tazib",አለችኝ: እማ ታዝ
+"BefiQrish, ziye sigeb",በፍቅርሽ: ዝዬ ስገ
+"Simegnish, sayish dekime",ስመኝሽ: ሳይሽ ደክ
+"NeTefe, siga’na deme",ነጠፈ: ስጋና ደ
+"Siga’na demey, siga’na deme",ስጋና ደሜ: ስጋና ደ
+"Siga’na demey, siga’na deme",ስጋና ደሜ: ስጋና ደ
+"Indayhon, lam-alegn besema",እንዳይሆን: ላም አለኝ በሰማ
+Wetetuanim ala,ወተቷንም አላ
+"ATicheish, ewun sayhon teret",አጥቼሽ: እዉን ሳይሆን ተረ
+Eshi beyign itt,እሺ በይኝ እ
+"Lik aydelem wey, yemma teret",ልክ አይደለም ወይ: የእማ ተረ
+"Sewu beitu seeQer,kene-mignot",ሰው ቤቱ ሲቀር: ከነ ምኞ
+"IndaliQemeT, Tirrei indibel",እንዳልቀመጥ: ጥሬ እንድበ
+"Wudei libishin, alkut ader",ውዴ ልብሽን: አልኩት አደ
+"Eneys yalanchi, ayhonilig",እኔስ ያላንቺ: አይሆንል
+"Lib aTichalehu, ere enjalig",ልብ አጥቻለሁ: ኧረ እንጃል
+"Kanchi leyla, wede hual",ካንቺ ሌላ: ወደ ኋ
+"Kanchi wuCHi, wede wuCH",ካንቺ ዉጪ: ወደ ው
+"Kanchi leyla, wede hual",ካንቺ ሌላ: ወደ ኋ
+"Kanchi wuCHi, wede wuCH",ካንቺ ዉጪ: ወደ ው
+"Kanchi leyla, wede hual",ካንቺ ሌላ: ወደ ኋ
+"Kanchi wuCHi, wede wuCH",ካንቺ ዉጪ: ወደ ው
+"Kanchi leyla, wede hual",ካንቺ ሌላ: ወደ ኋ
+"Kanchi wuCHi, wede wuCH",ካንቺ ዉጪ: ወደ ው
+"Wede huala, wede WuCH",ወደ ኋላ: ወደ ው
+"Wede huala, wede WuC",ወደ ኋላ: ወደ 
+"Manew yalew, alilim alTeyiQi",ማነው ያለው አልልም አልጠይቅም
+"Manew yalew, biyem aliCHeneQi",ማነው ያለው ብዬም አልጨነቅም
+"Manew yalew, minalugn degmo biy",ማነው ያለው ምን አሉኝ ደግሞ ብዬ
+"LalQom neger, kemenged keguzoy",ላልቆም ነገር ከመንገድ ከጉዞዬ
+"Manew yalew biye, iney sewu alweQsi",ማነው ያለው ብዬ እኔ ሰው አልወቅስም
+"Manew yalew, wusTeyn layawQew mani",ማነው ያለው ውስጤን ላያውቀው ማንም
+"Manew yalew, siQo malef metew new",ማነው ያለው ስቆ ማለፍ መተው ነው
+"Yemianorim yeseram, deg abat new",የሚያኖርም የሰራም ደግ አባት ነው
+Aaaaayy,አአአአአአይይ
+"Leman biye, badonet lemola",ለማን ብዬ ባዶነት ለሞላው
+"Leman biye, legelebaw kibre",ለማን ብዬ ለገለባው ክብሬ
+"Leman biye, kabedew gar libe",ለማን ብዬ ካበደው ጋር ልበድ
+"Leman biye, keTefaw abire",ለማን ብዬ ከጠፋው አብሬ
+"Leman biye, illih tegabiche",ለማን ብዬ እልህ ተጋብቼ
+"CHekagn lihun, merarateyn tiche",ጨካኝ ልሁን መራራቴን ትቼ
+"Leman biye, baltere’gageT",ለማን ብዬ ባልተረጋገጠ
+"Leman biye, mereyt baregeT",ለማን ብዬ መሬት ባረገጠ
+"Leman biye, bedelebe were",ለማን ብዬ በደለበ ወሬ
+"Leman biye, bewelede bere",ለማን ብዬ በወለደ በሬ
+"Leman biye, siTotaw selamey",ለማን ብዬ ስጦታው ሰላሜን
+"Leman biye, lineTeQ destaye",ለማን ብዬ ልነጠቅ ደስታዬን
+"Manew yalew kalkugn, bizu issemaleh",ማነው ያለው ካልኩኝ ብዙ እሰማለሁ
+"Manew yalew biliss, manin amnaleh",ማነው ያለው ብልስ ማንን አምናለሁ
+"Manew yalew, awuQewalehu baay biz",ማነው ያለው አውቀዋለሁ ባይ ብዙ
+"Bemolabet yadekmal, guaz mezez",በሞላበት ያደክማል ጓዝ መዘዙ
+Ehhhhh aahhhh,እ እ እ እ እህ እህ . . . እ እ እ እ እህ እህ . . 
+"Erasin kibbo, lekibir zin",እራስን ክቦ ለክብር ዝና
+"Yiramedal sewu, besewu godan",ይራመዳል ሰው በሰው ጎዳና
+"Molto laymola, leshinQur nur",ሞልቶ ላይሞላ ለሽንቁር ኑሮ
+"Endeyt yigefal, yihey teCHemir",እንዴት ይገፋል ይሄ ተጨምሮ
+"Sewu leQursu, ejun aTaTf",ሰው ለቁርሱ እጁን አጣጥፎ
+"CHaf yizo meheyd, hodun taQif",ጫፍ ይዞ መሄድ ሆዱን ታቅፎ
+"Lalayut ewunet, allu layreb",ላላዩት እውነት አሉ ላይረባ
+"Seenegruh wilewu, sat’sema gib",ሲነግሩህ ውለው ሳትሰማ ግባ
+"Seenegruh wilewu, sat’sema gib",ሲነግሩህ ውለው ሳትሰማ ግባ
+"Seenegruh beewal, satamin gib",ሲነግሩህ ቢዋል ሳታምን ግባ
+Aaaaayyy…hmmm,አአአአአአይይይ…ምምም
+"Manew yalew, alilim alTeyiQi",ማነው ያለው አልልም አልጠይቅም
+"Manew yalew, biyem aliCHeneQi",ማነው ያለው ብዬም አልጨነቅም
+"Manew yalew, minalugn degmo biy",ማነው ያለው ምን አሉኝ ደግሞ ብዬ
+"LalQom neger, kemenged keguzoy",ላልቆም ነገር ከመንገድ ከጉዞዬ
+"Manew yalew biye, iney sewu aliweQsi",ማነው ያለው ብዬ እኔ ሰው አልወቅስም
+"Manew yalew, wusTeyn layawuQew mani",ማነው ያለው ውስጤን ላያውቀው ማንም
+"Manew yalew, siQo malef metew new",ማነው ያለው ስቆ ማለፍ መተው ነው
+"Yemianorih yeseram, deg abat new",የሚያኖርህ የሰራም ደግ አባት ነው
+Aaaaayyy…hmmm,እ እ እ እ እህ እህ . . . እ እ እ እ እህ እህ . 
+"Leman biye, alegn yalut bemdi",ለማን ብዬ አለኝ ያሉት በምድር
+"Leman biye, feTno lemiasafi",ለማን ብዬ ፈጥኖ ለሚያሳፍር
+"Leman biye, kezemeney sifi",ለማን ብዬ ከዘመኔ ስፍር
+"Leman biye, QinTat lemalCHemi",ለማን ብዬ ቅንጣት ለማልጨምር
+"Leman biye, wedaj lafra biy",ለማን ብዬ ወዳጅ ላፍራ ብዬ
+"Yesew ladeniQ, yeneyn Qen gediy",የሰው ላድንቅ የኔን ቀን ገድዬ
+"Leman biye, Qalat kemaymerTe",ለማን ብዬ ቃላት ከማይመርጠው
+"Leman biye, leket-kaTa andebe",ለማን ብዬ ለከት ካጣ አንደበት
+"Leman biye, kemayTeQim miki",ለማን ብዬ ከማይጠቅም ምክር
+"Leman biye, ergiman kalebe",ለማን ብዬ እርግማን ካለበት
+"Leman biye, yekokob dimQetey",ለማን ብዬ የኮኮብ ድምቀቴን
+"Leman biye, laTfaw maninetey",ለማን ብዬ ላጥፋው ማንነቴን
+"Manew yalew kalkugn, bizu issemaleh",ማነው ያለው ካልኩኝ ብዙ እሰማለሁ
+"Manew yalew biliss, manin amnaleh",ማነው ያለው ብልስ ማንን አምናለሁ
+"Manew yalew, awuQewalehu baay biz",ማነው ያለው አውቀዋለሁ ባይ ብዙ
+"Bemolabet yadekmal, guaz mezez",በሞላበት ያደክማል ጓዝ መዘዙ
+Ehhhhh aahhhh,እ እ እ እ እህ እህ . . . እ እ እ እ እህ እህ . . 
+"Erasin kibbo, lekibir zin",እራስን ክቦ ለክብር ዝና
+"Yiramedal sewu, besewu godan",ይራመዳል ሰው በሰው ጎዳና
+"Molto laymola, leshinQur nur",ሞልቶ ላይሞላ ለሽንቁር ኑሮ
+"Endeyt yigefal, yih teCHemir",እንዴት ይገፋል ይህ ተጨምሮ
+"Sewu leQursu, ejun aTaTf",ሰው ለቁርሱ እጁን አጣጥፎ
+"CHaf yizo meheyd, hodun taQif",ጫፍ ይዞ መሄድ ሆዱን ታቅፎ
+"Lalayut ewunet, allu layreb",ላላዩት እውነት አሉ ላይረባ
+"Seenegruh wilewu, sat’sema gib",ሲነግሩህ ውለው ሳትሰማ ግባ
+"Seenegruh wilewu, sat’sema gib",ሲነግሩህ ውለው ሳትሰማ ግባ
+"Seenegruh beewal, satamin gib",ሲነግሩህ ቢዋል ሳታምን ግባ
+"Seenegruh wilewu, sat’sema gib",ሲነግሩህ ውለው ሳትሰማ ግባ
+"Allu tebalen, satamin gib",አሉ ተባለን ሳታምን ግባ
+Aaaaayyy…hmm,እ እ እ እ እህ እህ . .
+"Zimm kemil biyei, binager techakuy",ዝም ከምል ብዬ ብናገር ተቻኩ
+Shuk yalugn minew biy,ሹክ ያሉኝ ምነው ብ
+"Laskefash, leman biy",ላስከፋሽ ለማን ብ
+"Zimm kemil biyei, binager techakuy",ዝም ከምል ብዬ ብናገር ተቻኩ
+Shuk yalugn minew biy,ሹክ ያሉኝ ምነው ብ
+"Laskefash, leman biy",ላስከፋሽ ለማን ብ
+"Hilm ayehu wude, irmeyn bitegn",ህልም አየሁ ዉዴ እርሜን ብተ
+"EnQilf inestogn, yih semonign",እንቅልፍ ነስቶኝ ይህ ሰሞን
+"Simatel? saay, sitiyign chill",ስማትል ሳይ ስትይኝ ች
+"Emba bajebew, besaQish Till",እምባ ባጀበው በሳቅሽ ጥ
+"Emba bajebew, besaQish Till",እምባ ባጀበው በሳቅሽ ጥ
+"Hilm elim beyilign, fiQrey yeTewate",ህልም እልም በይልኝ ፍቅሬ የጠዋ
+"Bemotey, bemote",በሞቴ በሞ
+Teyi yelijenete,ተይ የልጅነ
+"AlasQeyimishim, eneys bandebete",አላስቀይምሽም እኔስ ባንደበ
+"Bemotey, bemote",በሞቴ በሞ
+Limal bandebete,ልማል ባንደበ
+"Ewunet endaymeslegn, heydesh atiQoy",እውነት እንዳይመስልኝ ሄደሽ አትቆ
+"AtQoyi, atQoy",አትቆዪ አትቆ
+Heydesh atiQoy,ሄደሽ አትቆ
+"Lensifsifu libey, bey tolo ne",ለንስፍስፉ ልቤ በይ ቶሎ ነ
+"Bey neyi, bey ney",በይ ነዪ በይ ነ
+Tolo tolo ney,ቶሎ ቶሎ ነ
+"Zimm zimm, yishal zim",ዝም ዝም ይሻላል ዝ
+ATicheysh kemiQozi,አጥቼሽ ከምቆዝ
+"Bamnishim, balamnishi",ባምንሽም ባላምንሽ
+Bemanim altekashi,በማንም አልተካሽ
+"Genna newu, genna genn",ገና ነው ገና ገ
+"Lanchi sil, mech norkun",ላንቺ ስል መች ኖርኩ
+"Akorefsh, kefash biy",አኮረፍሽ ከፋሽ ብ
+"Labablish, ney wudiy",ላባብልሽ ነይ ዉድ
+"Labablish, ney wudiy",ላባብልሽ ነይ ዉድ
+Labablish ney wudiy,ላባብልሽ ነይ ዉድ
+"Zimm kemil biyei, binager techakuy",ዝም ከምል ብዬ ብናገር ተቻኩ
+Shuk yalugn minew biy,ሹክ ያሉኝ ምነው ብ
+"Laskefash, leman biy",ላስከፋሽ ለማን ብ
+"Zimm kemil biyei, binager techakuy",ዝም ከምል ብዬ ብናገር ተቻኩ
+Shuk yalugn minew biy,ሹክ ያሉኝ ምነው ብ
+"Laskefash, leman biy",ላስከፋሽ ለማን ብ
+"Addis aydelem, hodey lemdeha",አዲስ አይደለም ሆዴ ለምደሃ
+"Geneham seelewu, beefejihim cha",ገነሃም ሲለዉ ቢፈጅህም ቻ
+"Mecheim aymolam, beesema jor",መቼም አይሞላም ቢሰማ ጆ
+"Laynei tewu affey, atchekul tol",ላይኔ ተዉ አፌ አትቸኩል ቶ
+"Laynei tewu affey, atchekul tol",ላይኔ ተዉ አፌ አትቸኩል ቶ
+"Mamenim metamen, leras seelu eko new",ማመንም መታመን ለራስ ሲሉ አኮ ነ
+"Leras newu, leras new",ለራስ ነው ለራስ ነ
+Metamen leras new,መታመን ለራስ ነ
+"Lewededut menor, endeit metadel new",ለወደዱት መኖር እንዴት መታደል ነ
+"Desta newu, desta new",ደስታ ነው ደስታ ነ
+Minegna desta new,ምነኛ ደስታ ነ
+"Bewaza endew ayQom, fiQir wenz eko new",በዋዛ እንደው አይቆም ፍቅር ወንዝ እኮ ነ
+"Wenz newu, wenz new",ወንዝ ነው ወንዝ ነ
+FiQir wenz eko new,ፍቅር ወንዝ አኮ ነ
+"Hulun yemeeyizewu, bahiru lib new",ሁሉን የሚይዘው ባህሩ ልብ ነ
+"Lib newu, lib new",ልብ ነው ልብ ነ
+Bahiru lib new,ባህሩ ልብ ነ
+"Zimm zimm, yishal zim",ዝም ዝም ይሻላል ዝ
+ATicheysh kemiQozi,አጥቼሽ ከምቆዝ
+"Bamnishim, balamnishi",ባምንሽም ባላምንሽ
+Bemanim altekashi,በማንም አልተካሽ
+"Genna newu, genna genn",ገና ነው ገና ገ
+"Lanchi sil, mech norkun",ላንቺ ስል መች ኖርኩ
+"Akorefsh, kefash biy",አኮረፍሽ ከፋሽ ብ
+"Labablish, ney wudiy",ላባብልሽ ነይ ዉድ
+"Labablish, ney wudiy",ላባብልሽ ነይ ዉድ
+Labablish ney wudiy,ላባብልሽ ነይ ዉድ
+Labablish ney fiQriy,ላባብልሽ ነይ ፍቅር
+Labablish ney wudi,ላባብልሽ ነይ ዉ
+Iyaselaselkush kenferein sagnike,እያሰላሰልኩሽ ከንፈሬን ሳኝከ
+"Waa…neberechign malet, menfeseyn aweke",ዋ… ነበረችኝ ማለት መንፈሴን አወከ
+Hmm,እም
+"Alteleyeshignim, india-aaw endezebe",አልተለየሽኝም እንዲያው እንደዘበ
+"ATicheish alawuQim, benafQot filago",አጥቼሽ አላውቅም በናፍቆት ፍላጎ
+"Alteleyeshignim, india-aaw endezebe",አልተለየሽኝም እንዲያው እንደዘበ
+"ATicheish alawuQim, benafQot filago",አጥቼሽ አላውቅም በናፍቆት ፍላጎ
+"Iyaselaselkush, kenferein sagnike",እያሰላሰልኩሽ ከንፈሬን ሳኝከ
+"Neberechign malet, menfeseyn aweke",ነበረችኝ ማለት መንፈሴን አወከ
+"YeseQeQen wonCHif, yemeleyet merd",የሰቀቀን ወንጭፍ የመለየት መር
+"Talshignbign fiQrey hoy, yehazen bered",ጣልሸብኝ ፍቅሬ ሆይ የሐዘን በረ
+"Alteleyeshignim, india-aaw endezebe",አልተለየሽኝም እንዲያው እንደዘበ
+"ATicheish alawuQim, benafQot filago",አጥቼሽ አላውቅም በናፍቆት ፍላጎ
+Iyaselaselkush kenferein sagnike,እያሰላሰልኩሽ ከንፈሬን ሳኝከ
+Ehh…waa,እህ…ዋ
+"Neberechign malet, menfeseyn aweke",ነበረችኝ ማለት መንፈሴን አወከ
+"YeseQeQen wonCHif, yemeleyet merd",የሰቀቀን ወንጭፍ የመለየት መር
+"Lemin, lemi",ለምን ለም
+"Talshignbign fiQrey hoy, yehazen bered",ጣልሸብኝ ፍቅሬ ሆይ የሐዘን በረ
+"Iyaselaselkush, kenferein sagnike",እያሰላሰልኩሽ ከንፈሬን ሳኝከ
+"Neberechign malet, menfeseyn aweke",ነበረችኝ ማለት መንፈሴን አወከ
+"YeseQeQen wonCHif, yemeleyet merd",የሰቀቀን ወንጭፍ የመለየት መር
+"Talshignbign fiQrey hoy, yehazen bered",ጣልሸብኝ ፍቅሬ ሆይ የሐዘን በረ
+"Alteleyeshignim, india-aaw endezebe",አልተለየሽኝም እንዲያው እንደዘበ
+"ATicheish alawuQim, benafQot filago",አጥቼሽ አላውቅም በናፍቆት ፍላጎ
+Waa…mecheim sialQ ayami,ዋ…መቼም ሲያልቅ አያም
+"Indeehu hono Qere, yelijinet giz",እንዲሁ ሆኖ ቀረ የልጅነት ግ
+"Indeteleyayen, salayish land’gize",እንደተለያየን ሳላይሽ ላንድ ግ
+Salayish land’gize,ሳላይሽ ላንድ ግ
+Waa…wa wa wa ,ዋ…ዋ ዋ ዋ
+"Yimechegnal, kanchi gar CHewat",ይመቸኛል ካንቺ ጋር ጨዋ
+"AyTimegnim, iTelalehu zimit",አይጥመኝም እጠላለው ዝም
+"Bey anagreegn, ahndebetish yilme",በይ አናግሪኝ አንደበትሽ ይልመ
+Indiniwade,እንድንዋደ
+"Ahndegnaye, yelibei medresh",አንደኛዬ የልቤ መድረ
+"Ingidaye,yefiQrei menesh",እንግዳዬ የፍቅሬ መነ
+"Altewushim, enei ‘negrishaleh",አልተውሽም እኔ እነግርሻለ
+Ewodishaleh,እወድሻለ
+"MeesTrein negirei, kalweTalig",ሚስጥሬን ነግሬ ካልወጣል
+"MafQer lebichaye, min leerebag",ማፍቀር ለብቻዬ ምን ሊረባ
+"Linagerew, iniCHawo",ልናገረው፣እንጫወ
+"KafeQerkush, yemin sisi",ካፈቀርኩሽ የምን ስስ
+"Iski bahndebetei, linagere",እስኪ ባንደበቴ ልናገረ
+"Hodei indeetenefis, endeeQele",ሆዴ እንዲተነፍስ እንዲቀለ
+"Kalugn ayQer, abedela",ካሉኝ አይቀር፣አበደላ
+"Yesuan fiQir, lawujila",የሱዋን ፍቅር፣ላውጅላ
+"Yenei yenei, yenei nesh",የኔ የኔ የኔ ነ
+"KeQal belay, CHinQein mersh",ከቃል በላይ ጭንቄን መር
+"Qedamawit, imebeite",ቀዳማዊት እመቤ
+"Yegilish newu, nuri beite",የግልሽ ነው ኑሪ ቤ
+"Yenei yenei, yenei nesh",የኔ የኔ የኔ ነ
+"KeQal belay, CHinQein mersh",ከቃል በላይ ጭንቄን መር
+"Qedamawit, imebeite",ቀዳማዊት እመቤ
+"Yegilish newu, gibi beit",የግልሽ ነው ግቢ ቤ
+"Yimechegnal, kanchi gar CHewat",ይመቸኛል ካንቺ ጋር ጨዋ
+"AyTimegnim, iTelalehu zimit",አይጥመኝም እጠላለው ዝም
+"Bey anagreegn, ahndebetish yilme",በይ አናግሪኝ አንደበትሽ ይልመ
+Indiniwade,እንድንዋደ
+"Ahndegnaye, yelibei medresh",አንደኛዬ የልቤ መድረ
+"Ingidaye,yefiQrei menesh",እንግዳዬ የፍቅሬ መነ
+"Altewushim, enei ‘negrishaleh",አልተውሽም እኔ እነግርሻለ
+Ewodishaleh,እወድሻለ
+"Mulu aydelemina, sewu beras",ሙሉ አይደለምና ሰው በራ
+"Yemeewedewu alewu, inde nefs",የሚወደው አለው እንደ ነፍ
+"K’afish firei libla, kekenferis",ካፍሽ ፍሬ ልብላ ከከንፈር
+"Aynish sir QuCH biye, hulei indayis",አይንሽ ስር ቁጭ ብዬ ሁሌ እንዳይ
+"Bezeech menged alem, litarfeeba",በዝች መንገድ ዓለም ልታርፊባ
+"Belibish ifoyin, atinfegia",በልብሽ እፎይን አትንፈጊያ
+"Anchin des bilosh, tesaktolig",አንችን ደስ ብሎሽ ተሳክቶል
+"Ineim beteraye, zim balkug",እኔም በተራዬ ዝም ባልኩ
+"Yenei yenei, yenei nesh",የኔ የኔ የኔ ነ
+"KeQal belay, CHinQein mersh",ከቃል በላይ ጭንቄን መር
+"Qedamawit, imebeite",ቀዳማዊት እመቤ
+"Yegilish newu, gibi beit",የግልሽ ነው ግቢ ቤ
+"Yenei yenei, yenei nesh",የኔ የኔ የኔ ነ
+"KeQal belay, CHinQein mersh",ከቃል በላይ ጭንቄን መር
+"Qedamawit, imebeite",ቀዳማዊት እመቤ
+"Yegilish newu, gibi beite",የግልሽ ነው ግቢ ቤ
+"Yenei yenei, yenei nesh",የኔ የኔ የኔ ነ
+"KeQal belay, CHinQein mersh",ከቃል በላይ ጭንቄን መር
+"Qedamawit, imebeite",ቀዳማዊት እመቤ
+"Yegilish newu, gibi beite",የግልሽ ነው ግቢ ቤ
+Oh-ho lala-lal,ኦሆሆ ላ ላ ላ 
+Oh-ho oh-ho lala-lal,ኦሆሆ ኦሆሆ ላ ላ ላ 
+Oh-ho lala-la,ኦሆሆ ላ ላ ላ
+"Endeit nesh, endeit nes",እንዴት ነሽ: እንዴት ነ
+"Endeit nesh, endeit nes",እንዴት ነሽ: እንዴት ነ
+"Endeit nesh, endeit nes",እንዴት ነሽ: እንዴት ነ
+"Endeit nesh, endeit nes",እንዴት ነሽ: እንዴት ነ
+"Shegey shegey, shegey shege",ሸጌ ሸጌ: ሸጌ ሸ
+"Sewu alawQim biye, yelegnim mehal",ሰው አላውቅም ብዬ: የለኝም መሃ
+"BeleTebign enji, yanchi mola mol",በለጠብኝ እንጂ: ያንቺ ሞላ ሞ
+"Yasalefnew hulu, sasibew aneseg",ያሳለፍነው ሁሉ: ሳስበው አነሰ
+"Kaderegnewu yeliQ, yalaregnew baseg",ካደረግነው ይልቅ: ያላረግነው ባሰ
+"Shegey shegey, shegey shege",ሸጌ ሸጌ: ሸጌ ሸ
+"Mechey tayto yawuQal, anchin mesay li",መቼ ታይቶ ያውቃል: አንችን መሳይ ል
+"Baleshibet honesh, yemitiwodej",ባለሽበት ሆነሽ: የምትዎደ
+"FiQir ena mewuded, enante atawuQ",ፍቅር እና መውደድ: እናንተም አታው
+"Yachin yelij neger, heydachihu teyiQ",ያቺን የልጅ ነገር: ሄዳችሁ ጠይ
+"Yefuafuatewu fiset, yewofochu zeim",የፏፏቴው ፍሰት: የዎፎቹ ዜ
+"Endanchi alhon alegn, dimTSishin sisem",እንዳንቺ አልሆን አለኝ: ድምፅሽን ስሰ
+"Kedamenaw betach, kemereit bela",ከዳመናው በታች: ከመሬት በላ
+"Endanchi aynet gela, tayto yawQal wo",እንዳንቺ አይነት ገላ: ታይቶ ያውቃል ወ
+"Endanchi aynet gela, tayto yawQal wo",እንዳንቺ አይነት ገላ: ታይቶ ያውቃል ወ
+"Endanchi aynet gela, tayto yawQal wo",እንዳንቺ አይነት ገላ: ታይቶ ያውቃል ወ
+"YetefeTro gelash, yemin moged alebe",የተፈጥሮ ገላሽ: የምን ሞገድ አለበ
+"Yenei alem, min moged alebe",የኔ ዓለም: ምን ሞገድ አለበ
+"Yesera akalatein, esat yezerabe",የሰራ አካላቴን: እሳት የዘራበ
+"Akaley, esat yezerabe",አካሌ: እሳት የዘራበ
+"Yaney yezan leta, siniCHewawe",ያኔ የያዘን ለታ: ስንጨዋወ
+"Hodiye, siniCHewawe",ሆድዬ: ስንጨዋወ
+"Mineyn bitnekeegn newu, nefsein yaTahu",ምኔን ብትነኪኝ ነው: ነፍሴን ያጣሁ
+"Yeney alem, nefsein yaTahu",የኔ ዓለም: ነፍሴን ያጣሁ
+"Iyaguremereme, yehamleiwu sema",እያጉረመረመ: የሐምሌው ሰማ
+"Anchin be’mebreQu, yizosh meTa wo",አንቺን በመብረቁ: ይዞሽ መጣ ወ
+"Begaw eskeewoTa, kiremtu eskialfilig",በጋው እስኪወጣ: ክረምቱ እስኪያልፍል
+"Kezinabu befeet, anchin new yeTalelig",ከዝናቡ በፊት: አንቺን ነው የጣለል
+"Shegey shegey, shegey shege",ሸጌ ሸጌ: ሸጌ ሸ
+"Shegey shegey, shegey sheg",ሸጌ ሸጌ: ሸጌ 
+"Mamen aQategn, yehilmein nigist, yene arekin",ማመን አቃተኝ : የህልሜን ንግስት : የኔ አረክ
+"Biruh Qen meTa, hiwot leetades banchi endegen",ብሩህ ቀን መጣ : ህይወት ሊታደስ : ባንቺ እንደገ
+"Mamen aQategn, yehilmein nigist, yene arekin",ማመን አቃተኝ : የህልሜን ንግስት : የኔ አረክ
+"Biruh Qen meTa, hiwot leetades banchi endegen",ብሩህ ቀን መጣ : ህይወት ሊታደስ : ባንቺ እንደገ
+"Man’ahle endene, edil yeQenaw, Qen yewoTalet",ማን አለ እንደኔ : ዕድል የቀናው : ቀን የወጣለ
+"Mignot fiTinu, yesemerele",ምኞት ፍጥኑ : የሰመረለ
+"BefiQrish zeima, nuro teQagnto, birhan temol",በፍቅርሽ ዜማ : ኑሮ ተቃኝቶ : ብርሃን ተሞ
+Yene alem’em,የኔ ዓለም
+"Alferam negen endamna, anchi alesh’en",አልፈራም ነገን እንዳምና : አንቺ አለሽ
+"BefiQrish kef yaderegshign, ende demen",በፍቅርሽ ከፍ ያደረግሽኝ : እንደ ደመ
+"Nigistey yebeitey girma, yenigat CHor",ንግሥቴ የቤቴ ግርማ : የንጋት ጮ
+"Amrognign tayehu beyifa, huley alesh’en",አምሮብኝ ታየሁ በይፋ : ሁሌ አለሽ
+"Alferam negen endamna, anchi alesh’en",አልፈራም ነገን እንዳምና : አንቺ አለሽ
+"BefiQrish kef yaderegshign, ende demen",በፍቅርሽ ከፍ ያደረግሽኝ : እንደ ደመ
+"Nigistey yebeitey girma, yenigat CHor",ንግሥቴ የቤቴ ግርማ : የንጋት ጮ
+"Amrognign tayehu beyifa, huley alesh’en",አምሮብኝ ታየሁ በይፋ : ሁሌ አለሽ
+"Mamen aQategn, yehilmein nigist, yene arekin",ማመን አቃተኝ : የህልሜን ንግስት : የኔ አረክ
+"Biruh Qen meTa, hiwot leetades banchi endegen",ብሩህ ቀን መጣ : ህይወት ሊታደስ : ባንቺ እንደገ
+"Mamen aQategn, yehilmein nigist, yene arekin",ማመን አቃተኝ : የህልሜን ንግስት : የኔ አረክ
+"Biruh Qen meTa, hiwot leetades banchi endegen",ብሩህ ቀን መጣ : ህይወት ሊታደስ : ባንቺ እንደገ
+"Ende ChereQa, gizei beelewoT, godlo beemol",እንደ ጨረቃ : ግዜ ቢለወጥ : ጎድሎ ቢሞ
+"AlawQim Qonjo, kalanchi leil",አላውቅም ቆንጆ : ካላንቺ ሌ
+"Edemei yemayfetawu, hayal sensele",እድሜ የማይፈታው : ሃያል ሰንሰለ
+"FiQir asronal, min yileyena",ፍቅር አስሮናል : ምን ይለየና
+"Alferam negen endamna, anchi alesh’en",አልፈራም ነገን እንዳምና : አንቺ አለሽ
+"BefiQrish kef yaderegshign, ende demen",በፍቅርሽ ከፍ ያደረግሽኝ : እንደ ደመ
+"Nigistey yebeitey girma, yenigat CHor",ንግሥቴ የቤቴ ግርማ : የንጋት ጮ
+"Amrognign tayehu beyifa, huley alesh’en",አምሮብኝ ታየሁ በይፋ : ሁሌ አለሽ
+"Alferam negen endamna, anchi alesh’en",አልፈራም ነገን እንዳምና : አንቺ አለሽ
+"BefiQrish kef yaderegshign, ende demen",በፍቅርሽ ከፍ ያደረግሽኝ : እንደ ደመ
+"Nigistey yebeitey girma, yenigat CHor",ንግሥቴ የቤቴ ግርማ : የንጋት ጮ
+"Amrognign tayehu beyifa, huley alesh’e",አምሮብኝ ታየሁ በይፋ : ሁሌ አለ
+"Hulum bemegerem, beemeleketeg",ሁሉም በመገረም: ቢመለከተ
+"Sintun ayehu bante, gira iyegebag",ስንቱን አየሁ ባንተ: ግራ እየገባ
+"Hulum bemegerem, beemeleketeg",ሁሉም በመገረም: ቢመለከተ
+"Sintun ayehu bante, gira iyegebag",ስንቱን አየሁ ባንተ: ግራ እየገባ
+"Endeit yiresawal, libonah enei",እንዴት ይረሳዋል: ልቦናህ እኔ
+"Yesintun ayn Tilogn, seegerfewu gonei",የስንቱ አይን ጥሎኝ: ሲገርፈው ጐኔ
+"Sitileyegn ante, enbayein ireCHiche",ስትለየኝ አንተ: እንባዬን እረጭ
+"Aynein yiTlagn mech alku, kante teleyiche",እኔን ይጥላኝ መች አልኩ: ካንተ ተለይ
+"Hulum bemegerem, beemeleketeg",ሁሉም በመገረም: ቢመለከተ
+"Sintun ayehu bante, gira iyegebag",ስንቱን አየሁ ባንተ: ግራ እየገባ
+"Hulum bemegerem, beemeleketeg",ሁሉም በመገረም: ቢመለከተ
+"Sintun ayehu bante, gira iyegebag",ስንቱን አየሁ ባንተ: ግራ እየገባ
+"Menor linur enji, gizeiwun mesiy",መኖር ልኑር እንጂ: ጊዜውን መስ
+"Sintun ayehu bante, beneger Qosiy",ስንቱን አየሁ ባንተ: በነገር ቆስ
+"Ante sitileyegn, gizei lewuTo",አንተ ስትለየኝ: ጊዜ ለዉጦ
+"Endewu ante yibQagn, weret adalTo",እነደዉ አንተ ይብቃኝ: ወረት አዳልጦ
+"Hulum bemegerem, beemeleketeg",ሁሉም በመገረም: ቢመለከተ
+"Sintun ayehu bante, gira iyegebag",ስንቱን አየሁ ባንተ: ግራ እየገባ
+"Hulum bemegerem, beemeleketeg",ሁሉም በመገረም: ቢመለከተ
+"Sintun ayehu bante, gira iyegebag",ስንቱን አየሁ ባንተ: ግራ እየገባ
+"YeTafeTewu fiQir, bereit telewus",የጣፈጠው ፍቅር: በሬት ተለዉ
+"Zarei gin meselegn, merar ende-koss",ዛሬ ግን መሰለኝ: መራር እንደ ኮ
+"Hileenahim beeyasib, negerun eriQ",ህሊናህም ቢያስብ: ነገሩን አር
+"Sintun ayehu lante, sewunetei alQ",ስንቱን አየሁ ላንተ: ሰውነቴ አል
+"Hulum bemegerem, beemeleketeg",ሁሉም በመገረም: ቢመለከተ
+"Sintun ayehu bante, gira iyegebag",ስንቱን አየሁ ባንተ: ግራ እየገባ
+"Hulum bemegerem, beemeleketeg",ሁሉም በመገረም: ቢመለከተ
+"Sintun ayehu bante, gira iyegebag",ስንቱን አየሁ ባንተ: ግራ እየገባ
+"Sintun ayehu bante, Sintun ayehu ban",ስንቱን አየሁ ባንተ: ስንቱን አየሁ ባ
+"FiQrin belibei, mesrit",ፍቅርን በልቤ: መስር
+"Leyla asebe woy, libih enein kedt",ሌላ አሰበ ወይ: ልብህ እኔን ከድ
+Yan hulu Qalkeedanun erest,ያን ሁሉ ቃልኪዳኑን እረስ
+"FiQrin belibei, mesrit",ፍቅርን በልቤ: መስር
+"Leyla asebe woy, libih enein kedt",ሌላ አሰበ ወይ: ልብህ እኔን ከድ
+Yan hulu Qalkeedanun erest,ያን ሁሉ ቃልኪዳኑን እረስ
+"Irestehewu endewu, yan hulu mehal",እረስተሀዉ እንደዉ: ያን ሁሉ መሐ
+"Libih temegne woy, fiQrin kenei leyl",ልብህ ተመኘ ወይ: ፍቅርን ከኔ ሌ
+"Antem endashah heed, yeneim enba yifse",አንተም አንዳሻህ ሂድ: የኔም እንባ ይፍሰ
+"Mecheim altadelkugn, fiQrin lemeCHere",መቼም አልታደልኩኝ: ፍቅርን ለመጨረ
+FiQrin lemeCHere,ፍቅርን ለመጨረ
+"FiQrin belibei, mesrit",ፍቅርን በልቤ: መስር
+"Leyla asebe woy, libih enein kedt",ሌላ አሰበ ወይ: ልብህ እኔን ከድ
+Yan hulu Qalkeedanun erest,ያን ሁሉ ቃልኪዳኑን እረስ
+"FiQrin belibei, mesrit",ፍቅርን በልቤ: መስር
+"Leyla asebe woy, libih enein kedt",ሌላ አሰበ ወይ: ልብህ እኔን ከድ
+Yan hulu Qalkeedanun erest,ያን ሁሉ ቃልኪዳኑን እረስ
+"FiQrachinin sinijemir, gena belegaw",ፍቅራችንን ስንጀምር: ገና በለጋ
+"Ke’and leyla fiQir, guzo? mindin new",ከአንድ ሌላ ፍቅር: ጉዞ? ምንድን ነ
+"Bileh yalkewun Qal, yetenagerkew",ብለህ ያልከዉን ቃል የተናገርከ
+"AltaQebehim woy, ahun sitilekawu",አልታቀበህም ወይ: አሁን ስትለካዉ
+Ahun sitilekaw,አሁን ስትለካ
+"FiQrin belibei, mesrit",ፍቅርን በልቤ: መስር
+"Leyla asebe woy, libih enein kedt",ሌላ አሰበ ወይ: ልብህ እኔን ከድ
+Yan hulu Qalkeedanun erest,ያን ሁሉ ቃልኪዳኑን እረስ
+"FiQrin belibei, mesrit",ፍቅርን በልቤ: መስር
+"Leyla asebe woy, libih enein kedt",ሌላ አሰበ ወይ: ልብህ እኔን ከድ
+Yan hulu Qalkeedanun erest,ያን ሁሉ ቃልኪዳኑን እረስ
+"BefiQrih iremeT, seeQaTel anjete",በፍቅርህ እረመጥ: ሲቃጠል አንጀ
+"Aynih newu libih newu, yekedagn Telate",አይንህ ነው ልብህ ነው: የከዳኝ ጠላ
+"Yegebahewu Qal, endeeh litires",የገባኸዉን ቃል: አንዲህ ልትረ
+"Sintu neger Qerto, bante yetenes",ስንቱ ነገር ቀርቶ: ባንተ የተነ
+Bante yetenes,ባንተ የተነ
+"FiQrin belibei, mesrit",ፍቅርን በልቤ: መስር
+"Leyla asebe woy, libih enein kedt",ሌላ አሰበ ወይ: ልብህ እኔን ከድ
+Yan hulu Qalkeedanun erest,ያን ሁሉ ቃልኪዳኑን እረስ
+"FiQrin belibei, mesrit",ፍቅርን በልቤ: መስር
+"Leyla asebe woy, libih enein kedt",ሌላ አሰበ ወይ: ልብህ እኔን ከድ
+Yan hulu Qalkeedanun erest,ያን ሁሉ ቃልኪዳኑን እረስ
+"Leyla asebe woy, libih enein kedt",ሌላ አሰበ ወይ: ልብህ እኔን ከድ
+Yan hulu Qalkeedanun eres,ያን ሁሉ ቃልኪዳኑን እረ
+"Libein asdengiTot, adegegnawu fiQi",ልቤን አስደንግጦት: አደገኛዉ ፍቅ
+"Simkin salanesa, biwul yilegnal Qi",ስምክን ሳላነሳ: ብውል ይለኛል ቅ
+"Libein asdengiTot, adegegnawu fiQi",ልቤን አስደንግጦት: አደገኛዉ ፍቅ
+"Simkin salanesa, biwul yilegnal Qi",ስምክን ሳላነሳ: ብውል ይለኛል ቅ
+"Hileenaye asiboh, enei aale nefse",ህሊናዬ አስቦህ: እኔ አለ ነፍሴ
+"Alresahim eko, min gizeiwu beerezi",አልረሳህም እኮ: ምን ግዜው ቢረዝ
+"Weyn yemeselewu wubet, diQin seel kefeete",ወይን የመሰለው ውበት: ድቅን ሲል ፊ
+"Simkin salanesa, ayarfim hiwote",ስምክን ሳላነሳ: አያርፍም ህይወ
+Ayarfim hiwote,አያርፍም ህይወ
+"Libein asdengiTot, adegegnawu fiQi",ልቤን አስደንግጦት: አደገኛዉ ፍቅ
+"Simkin salanesa, biwul yilegnal Qi",ስምክን ሳላነሳ: ብውል ይለኛል ቅ
+"Libein asdengiTot, adegegnawu fiQi",ልቤን አስደንግጦት: አደገኛዉ ፍቅ
+"Simkin salanesa, biwul yilegnal Qi",ስምክን ሳላነሳ: ብውል ይለኛል ቅ
+"Abebawu fegegtah, kayn yemeefenegi",አበባው ፈገግታህ: ካይን የሚፈነግል?
+"Libein selem argo, sewunet yemee…",ልቤን ሰለም አርጎ: ሰዉነት የሚ….
+"FiQriye yemilih, kenei gar tegegnte",ፍቅርዬ የምልህ: ከኔ ጋር ተገኝተ
+"Heewotin yemiadis, nebere tinfashi",ሂዎትን የሚያድስ: ነበረ ትንፋሽ
+Nebere tinfashi,ነበረ ትንፋሽ
+"Libein asdengiTot, adegegnawu fiQi",ልቤን አስደንግጦት: አደገኛዉ ፍቅ
+"Simkin salanesa, biwul yilegnal Qi",ስምክን ሳላነሳ: ብውል ይለኛል ቅ
+"Libein asdengiTot, adegegnawu fiQi",ልቤን አስደንግጦት: አደገኛዉ ፍቅ
+"Simkin salanesa, biwul yilegnal Qi",ስምክን ሳላነሳ: ብውል ይለኛል ቅ
+"Ahun tiz yilegnal, sit’heid tesasime",አሁን ትዝ ይለኛል: ስትሄድ ተሳስመ
+"Yeneberen tigist, yefiQir sememe",የነበረን ትዕግስት: የፍቅር ሰመመ
+"Shito me’azahin, enei sastawusew",ሽቶ መአዛህን: እኔ ሳስታዉሰ
+"Endeit ewulalehu, simkin salanesaw",እንዴት እዉላለሁ: ስምክን ሳላነሳ
+Simkin salanesaw,ስምክን ሳላነሰሳ
+"Libein asdengiTot, adegegnawu fiQi",ልቤን አስደንግጦት: አደገኛዉ ፍቅ
+"Simkin salanesa, biwul yilegnal Qi",ስምክን ሳላነሳ: ብውል ይለኛል ቅ
+"Libein asdengiTot, adegegnawu fiQi",ልቤን አስደንግጦት: አደገኛዉ ፍቅ
+"Simkin salanesa, biwul yilegnal Qi",ስምክን ሳላነሳ: ብውል ይለኛል ቅ
+"Simkin salanesa, biwul yilegnal Q",ስምክን ሳላነሳ: ብውል ይለኛል 
+"Bhasaab kanchi gar negn, b’ewun newu yaTahus",ባሳብ ካንቺ ጋር ነኝ: በእውን ነው ያጣሁ
+IruQ silehonshibig,እሩቅ ስለሆንሽብ
+"Qenun alaQewum, mechey timeCHiales",ቀኑን አላውቀውም: መቼ ትመጫለ
+NafQotish gerefeg,ናፍቆትሽ ገረፈ
+"Bhasaab kanchi gar negn, b’ewun newu yaTahus",ባሳብ ካንቺ ጋር ነኝ: በእውን ነው ያጣሁ
+IruQ silehonshibig,እሩቅ ስለሆንሽብ
+"Qenun alaQewum, mechey timeCHiales",ቀኑን አላውቀውም: መቼ ትመጫለ
+NafQotish gerefeg,ናፍቆትሽ ገረፈ
+"Mechey timeCHialesh, leleet behilme",መቼ ትመጫለሽ: ለሊት በህል
+Ayayehushh,አየሁ
+"Eree me-chey yihun, ye-mi-tmeCHeew",ኧረ መ-ቼ ይሁን: የ-ም-ትመጪ
+Ibakish,እባክ
+"Ye-te-ra-bewu, aynei aayto enkua",የ-ተ-ራ-በው: አይኔ አይቶ አን ኳ
+IndeeTegbis,እንዲጠግብ
+"Teina nesto nafQotish, aseQayeg",ጤና ነስቶ ናፍቆትሽ: አሰቃየ
+"Melkish behilmey hulei, iyetayeg",መልክሽ በህልሜ ሁሌ: እየታየ
+"Teina nesto nafQotish, aseQayeg",ጤና ነስቶ ናፍቆትሽ: አሰቃየ
+"Melkish behilmey hulei, iyetayeg",መልክሽ በህልሜ ሁሌ: እየታየ
+"Behaasaab meneTSir, hulgizei ayishaleh",በሃሳብ መነፅር: ሁልግዜ አይሻለ
+Kaleshibet bot,ካለሽበት ቦ
+"Mechey timeCHialesh, iTebiQishaleh",መቼ ትመጫለሽ: እጠብቅሻለ
+B’imbam bedesit,በእምባም በደስ
+"Behaasaab meneTSir, hulgizei ayishaleh",በሃሳብ መነፅር: ሁልግዜ አይሻለ
+Kaleshibet bot,ካለሽበት ቦ
+"Mechey timeCHialesh, iTebiQishaleh",መቼ ትመጫለሽ: እጠብቅሻለ
+B’imbam bedesit,በእምባም በደስ
+"Mechey timeCHialesh, leleet behilme",መቼ ትመጫለሽ: ለሊት በህል
+Ayayehushh,አየሁሽ
+"Eree me-chey yihun, ye-mi-tmeCHeew",ኧረ መ-ቼ ይሁን: የ-ም-ትመጪ
+Ibakis,እባክ
+"Ye-te-ra-bewu, aaynei aayto enkua",የ-ተ-ራ-በው: አይኔ አይቶ አን ኳ
+IndeeTegbis,እንዲጠግብ
+"Teina nesto nafQotish, aseQayeg",ጤና ነስቶ ናፍቆትሽ: አሰቃየ
+"Melkish behilmey hulei, iyetayeg",መልክሽ በህልሜ ሁሌ: እየታየ
+"Teina nesto nafQotish, aseQayeg",ጤና ነስቶ ናፍቆትሽ: አሰቃየ
+"Melkish behilmey hulei, iyetayeg",መልክሽ በህልሜ ሁሌ: እየታየ
+"Teina nesto nafQotish, aseQayeg",ጤና ነስቶ ናፍቆትሽ: አሰቃየ
+"Melkish behilmey hulei, iyetayeg",መልክሽ በህልሜ ሁሌ: እየታየ
+"Teina nesto nafQotish, aseQayeg",ጤና ነስቶ ናፍቆትሽ: አሰቃየ
+"Melkish behilmey hulei, iyetaye",መልክሽ በህልሜ ሁሌ: እየታ
+"Selam yagerei sewu, selam yewenzei sew",ሰላም ያገሬ ሰው ሰላም የወንዜ ሰ
+"Selam yagerei sewu, indemin alachih",ሰላም ያገሬ ሰው እንድምን አላች
+"Inkuan leba’ilu, beselam meTachih",እንኳን ለበዓሉ በሰላም መጣች
+"YefiQir yeselam, yedesta yargilachih",የፍቅር የሰላም የደስታ ያርግላች
+"Selam yagerei sewu, selam yewenzei sew",ሰላም ያገሬ ሰው ሰላም የወንዜ ሰ
+"Selam yagerei sewu, indemin alachih",ሰላም ያገሬ ሰው እንድምን አላች
+"Inkuan leba’ilu, beselam meTachih",እንኳን ለበዓሉ በሰላም መጣች
+"Kef yibel bandeeraw, fiQir megleCHachih",ከፍ ይበል ባንዲራው ፍቅር መግለጫ
+"Kurat kurat, yesemaw wusTei",ኩራት ኩራት ይሰማው ዉስጤ
+"Bebandeeraw, bemaninetei",በባንዲራው በማንነቴ
+"Tesebsibo, seeCHeferim",ተሰብሰቦ ሲጨፈር
+"Bahilachin, b’alem seesem",ባህላችን በዓለም ይሰ
+"Kurat kurat, yesemaw wusTei",ኩራት ኩራት ይሰማው ዉስጤ
+"Bebandeeraw, bemaninetei",በባንዲራው በማንነቴ
+"Tesebsibo, seeCHeferim",ተሰብሰቦ ሲጨፈር
+"Bahilachin, b’alem seesem",ባህላችን በዓለም ይሰ
+Oh-ho ho h,ኦሆ ሆ 
+"Bey michi, bel mit",በይ ምቺ በል ም
+Yazulin CHawot,ያዙልን ጫዎ
+Bahilachin yidme,ባህላችን ይድመ
+InCHefir b’eskist,እንጨፍር በእስክስ
+"B’andinet befiQir, belu inisebase",ባንድነት በፍቅር በሉ እንሰባሰ
+"Sinihon yamribinal, lik inde-beitese",ስንሆን ያምርብናል ልክ እንደ ቤተሰ
+"QuanQuachin beeleyay, indeye-melkachi",ቋንቋችን ቢለያይ እንደየ መልካች
+"Ethiopiawi-net newu, legna andinetachi",ኢትዮጵያዊነት ነው ለኛ አንድነታች
+"Bandeeraw newu’ena, legna andinetachi",ባንዲራው ነዉና ለኛ አንድነታች
+"Bandeeraw yetale, bandeeraw yetal",ባንዲራው የታለ ባንዲራው የታ
+"Bandeeraw yetale, bandeeraw yetal",ባንዲራው የታለ ባንዲራው የታ
+"Selam yagerei sewu, selam yewenzei sew",ሰላም ያገሬ ሰው ሰላም የወንዜ ሰ
+"Selam yagerei sewu, indemin alachih",ሰላም ያገሬ ሰው እንድምን አላች
+"Inkuan lebahilu, beselam meTachih",እንኳን ለበዓሉ በሰላም መጣች
+"YefiQir yeselam, yedesta yargilachih",የፍቅር የሰላም የደስታ ያርግላች
+"Selam yagerei sewu, selam yewenzei sew",ሰላም ያገሬ ሰው ሰላም የወንዜ ሰ
+"Selam yagerei sewu, indemin alachih",ሰላም ያገሬ ሰው እንድምን አላች
+"Inkuan leba’ilu, beselam meTachih",እንኳን ለበዓሉ በሰላም መጣች
+"Kef yibel bandeeraw, fiQir megleCHachih",ከፍ ይበል ባንዲራው ፍቅር መግለጫ
+"Yetesfa Qal, yegebalis",የተስፋ ቃል የገባል
+"Derso ijichin, eskeeCHanish",ደርሶ እጅሽን እስኪጫንሽ
+"FiQir selam, kegna ayileye",ፍቅር ሰላም ከኛ አይለየ
+"Be’andinet, huleim anure",በአንድነት ሁሌም አኑረ
+"Yetesfa Qal, yegebalis",የተስፋ ቃል የገባል
+"Derso ijichin, eskeeCHanis",ደርሶ እጅሽን እስኪጫንሽ
+"FiQir selam, kegna ayileye",ፍቅር ሰላም ከኛ አይለየ
+"Be’andinet, huleim anure",በአንድነት ሁሌም አኑረ
+Oh-ho ho h,ኦሆ ሆ 
+"Bey michi, bel mit",በይ ምቺ በል ም
+Yazulin CHawot,ያዙልን ጫዎ
+Bahilachin yidme,ባህላችን ይድመ
+InCHefir b’eskist,እንጨፍር በእስክስ
+"B’andinet befiQir, belu inisebase",ባንድነት በፍቅር በሉ እንሰባሰ
+"Sinihon yamribinal, lik inde-beitese",ስንሆን ያምርብናል ልክ እንደ ቤተሰ
+"QuanQuachin beeleyay, indeye-melkachi",ቋንቋችን ቢለያይ እንደየ መልካች
+"Ethiopiawi-net newu, legna andinetachi",ኢትዮጵያዊነት ነው ለኛ አንድነታች
+"Bandeeraw newu’ena, legna andinetachi",ባንዲራው ነዉና ለኛ አንድነታች
+"Bandeeraw yetale, bandeeraw yetal",ባንዲራው የታለ ባንዲራው የታ
+"Bandeeraw yetale, bandeeraw yetal",ባንዲራው የታለ ባንዲራው የታ
+"Bey michi, bel mit",በይ ምቺ በል ም
+Yazulin CHawot,ያዙልን ጫዎ
+Bahilachin yidme,ባህላችን ይድመ
+InCHefir b’eskist,እንጨፍር በእስክስ
+"IndeTibeb shema, iski inidmeQibe",እንደጥበብ ሸማ እስኪ እንድመቅላ
+"Bandeerawun yijei, kurat lasayibe",ባንዲራውን ይዤ ኩራት ላሳያ
+"Bandeerawun yijei, kurat lasayibe",ባንዲራውን ይዤ ኩራት ላሳያ
+"Bandeeraw yetale, bandeeraw yetal",ባንዲራው የታለ ባንዲራው የታ
+"Bandeeraw yetale, bandeeraw yetal",ባንዲራው የታለ ባንዲራው የታ
+"Bandeeraw yetale, bandeeraw yetal",ባንዲራው የታለ ባንዲራው የታ
+"Bandeeraw yetale, bandeeraw yetal",ባንዲራው የታለ ባንዲራው የታ
+Oh-ho ho ,ኦሆ ሆ
+"Abeeeit, abeit afeTaTe",አቤት አቤት አፈጣጠ
+"Wollooo’n, seTewu hulun nege",ወሎን ሰጠው ሁሉን ነገ
+SeTewu hulun nege,ሰጠው ሁሉን ነገ
+"Megen, megen afeTaTe",መገን መገን አፈጣጠ
+"Wollo’n, seTewu hulun nege",ወሎን ሰጠው ሁሉን ነገ
+"Megen, megen afeTaTe",መገን መገን አፈጣጠ
+"Wollo’n, seTewu hulun nege",ወሎን ሰጠው ሁሉን ነገ
+"Wubet ina fiQir, libein silegeza",ዉበትና ፍቅር ልቤን ስለገዛ
+"Abeit abeit, afeTaTe",አቤት አቤት አፈጣጠ
+"Yamelalisegnal, nega meshe bezia",ያመላልሰኛል ነጋ መሸ በዚያ
+"Abeit abeit, afeTaTe",አቤት አቤት አፈጣጠ
+"Abeit yesu sira, megen afeTaTe",አቤት የሱ ሥራ መገን አፈጣጠ
+"Abeit abeit, afeTaTe",አቤት አቤት አፈጣጠ
+"LiQim argo serto, adelewu mefeQe",ልቅም አርጎ ሰርቶ አደለው መፈቀ
+"Abeit abeit, afeTaTe",አቤት አቤት አፈጣጠ
+"Abeit abeit, afeTaTe",አቤት አቤት አፈጣጠ
+"Sintun adarishey, iCHerisewaleh",ስንቱን አዳርሼ እጨርሰዋለ
+"Ayna teQemiCHey, hulun ayewaleh",አይና ተቀምጬ ሁሉን አየዋለ
+"Hulu shega bicha, hulu melke-Qen",ሁሉ ሸጋ ብቻ ሁሉ መልከ-ቀ
+"AyiTereTerim, Wollo beQunjin",አይጠረጠርም ወሎ በቁንጅ
+"Megen, megen afeTaTe",መገን መገን አፈጣጠ
+"Wollo’n, seTewu hulun nege",ወሎን ሰጠው ሁሉን ነገ
+"Megen, megen afeTaTe",መገን መገን አፈጣጠ
+"Wollo’n, seTewu hulun nege",ወሎን ሰጠው ሁሉን ነገ
+"Bulbula derishey, gedamatu sifr",ቡልቡላ ደርሼ ገዳማቱ ስፍ
+"Ijig tegeremkugn, befeTari sir",እጅግ ተገረምኩኝ በፈጣሪ ስ
+"Walati Mariam’n, esti langoragure",ወላቲ ማርያምን እስቲ ላንጎራጉረ
+"Ye’mar ye’wetetu, yeTigab ager new",የማር የወተቱ የጥጋብ አገር ነ
+"Megen, megen afeTaTe",መገን መገን አፈጣጠ
+"Wollo’n, seTewu hulun nege",ወሎን ሰጠው ሁሉን ነገ
+"Megen, megen afeTaTe",መገን መገን አፈጣጠ
+"Wollo’n, seTewu hulun nege",ወሎን ሰጠው ሁሉን ነገ
+"Tewedajinetun, kelay TeQebit",ተወዳጅነቱን ከላይ ተቀብ
+"Abeit abeit, afeTaTe",አቤት አቤት አፈጣጠ
+"Ahun man yiweTal, hasabun agibt",አሁን ማን ይወጣል ሐሳቡን አግብ
+"Abeit abeit, afeTaTe",አቤት አቤት አፈጣጠ
+"Christian muslim’u, tewado yinora",ክርስቲያን ሙስሊሙ ተዋዶ ይኖራ
+"Abeit abeit, afeTaTe",አቤት አቤት አፈጣጠ
+"Tinishum tiliQum, sewu yikebabera",ትንሹም ትልቁም ሰው ይከባበራ
+"Abeit abeit, afeTaTe",አቤት አቤት አፈጣጠ
+"Abeit abeit, afeTaTe",አቤት አቤት አፈጣጠ
+"YeTossa terara, Dessie mehal yalew",የጦሳ ተራራ ደሴ መሃል ያለ
+"YetefeTro TSega, isum ahnd wubet new",የተፈጥሮ ፀጋ እሱም አንድ ዉበት ነ
+"Sintu tezerziro, tenegro yabeQa",ስንቱ ተዘርዝሮ ተነግሮ ያበቃ
+"Wollo gara-ager newu, hulu yideneQa",ውሎ ጋራገር ነው ሁሉ ይደነቃ
+"Megen, megen afeTaTe",መገን መገን አፈጣጠ
+"Wollo’n, seTewu hulun nege",ወሎን ሰጠው ሁሉን ነገ
+"Megen, megen afeTaTe",መገን መገን አፈጣጠ
+"Wollo’n, seTewu hulun nege",ወሎን ሰጠው ሁሉን ነገ
+"Beduket bedireewu, seitu tekeshir",በዱከት በድሪው ሴቱ ተከሽ
+"BeQeCHin shuruba, TSegurn tebeTir",በቀጭን ሹሩባ ፀጉሩን ተበጥ
+"Kimkim gofereiwun, teneQso amrobe",ክምክም ጎፈሬውን ተነቅሶ አምሮበ
+"Hulun yeteseTewu, hagere-gene",ሁሉን የተሰጠው አገረ-ገነ
+"Megen, megen afeTaTe",መገን መገን አፈጣጠ
+"Wollo’n, seTewu hulun nege",ወሎን ሰጠው ሁሉን ነገ
+"Megen, megen afeTaTe",መገን መገን አፈጣጠ
+"Wollo’n, seTewu hulun nege",ወሎን ሰጠው ሁሉን ነገ
+"Megen, megen afeTaTe",መገን መገን አፈጣጠ
+"Wollo’n, seTewu hulun nege",ወሎን ሰጠው ሁሉን ነገ
+"Megen, megen afeTaTe",መገን መገን አፈጣጠ
+"Wollo’n, seTewu hulun neg",ወሎን ሰጠው ሁሉን ነ
+"Embua bey lameetu, lameet",እምቧ በይ ላሚቱ: ላሚ
+Embua bey lameet,እምቧ በይ ላሚ
+"Embua bey lameetu, lameet",እምቧ በይ ላሚቱ: ላሚ
+Korma wolajit,ኮርማ ዎላጅ
+"Embua bey lameetu, lameet",እምቧ በይ ላሚቱ: ላሚ
+Embua bey lameet,እምቧ በይ ላሚ
+"Embua bey lameetu, lameet",እምቧ በይ ላሚቱ: ላሚ
+Korma wolajit,ኮርማ ዎላጅ
+"Ayilakibishim, oh hoy, himemeim beeTSen",አይላክብሽም ኦሆ: ህመሜም ቢፀ
+"Ayilakibishim, oh hoy, himemeim beeTSen",አይላክብሽም ኦሆ: ህመሜም ቢፀ
+"Kelibei wodia sewu, ah hey, ayawQishim’in",ከልቤ ዎድያ ሰው አሄ: አያውቅሽም
+"Kelibei wodia sewu, ah hey, ayawQishim’in",ከልቤ ዎድያ ሰው አሄ: አያውቅሽም
+"Libey Qulf norot, oh hoy, yemeekefet beeho",ልቤ ቁልፍ ኖሮት ኦሆ: የሚከፈት ቢሆ
+"Libey Qulf norot, oh hoy, yemeekefet beeho",ልቤ ቁልፍ ኖሮት ኦሆ: የሚከፈት ቢሆ
+"Tirejeelign neber, ah hey, lachi indeit endeho",ትረጂልኝ ነበር አሄ: ላንቺ እንዴት እንደሆ
+"Tirejeelign neber, ah hey, lachi indeit endeho",ትረጂልኝ ነበር አሄ: ላንቺ እንዴት እንደሆ
+"Alakorfim neber, oh hoy, aliQoTam nebe",አላኮርፍም ነበር ኦሆ: አልቆጣም ነበ
+"Alakorfim neber, oh hoy, aliQoTam nebe",አላኮርፍም ነበር ኦሆ: አልቆጣም ነበ
+"Siley menafeQein, ah hey, awuQeiw benebe",ስለይ መናፈቄን አሄ: አውቄው ነበ
+"Siley menafeQein, ah hey, awuQeiw benebe",ስለይ መናፈቄን አሄ: አውቄው ነበ
+"Embua bey lameetu, lameet",እምቧ በይ ላሚቱ: ላሚ
+Embua bey lameet,እምቧ በይ ላሚ
+"Embua bey lameetu, lameet",እምቧ በይ ላሚቱ: ላሚ
+Korma wolajit,ኮርማ ዎላጅ
+"Embua bey lameetu, lameet",እምቧ በይ ላሚቱ: ላሚ
+Embua bey lameet,እምቧ በይ ላሚ
+"Embua bey lameetu, lameet",እምቧ በይ ላሚቱ: ላሚ
+Korma wolajit,ኮርማ ዎላጅ
+"Keteraraw wodia, oh hoy, yemititayeg",ከተራራው ዎዲያ ኦሆ: የምትታይ
+"Dersesh kezia mado, oh hoy, yemitnafiQeeg",ደርሰሽ ከዚያ ማዶ ኦሆ: የምትናፍቂ
+"Behilmeim bewuneim, ah hey, tiz yemitiyeeg",በህልሜም በውኔም አሄ: ትዝ የምትይ
+"IndimeTa newu woy, ah hey, awurei endeebelag",እንድመጣ ነው ዎይ አሄ: አውሬ እንዲበላ
+"Libei ende’mendedu, oh hoy, fim’m alwerede",ልቤ እንደመንደዱ ኦሆ: ፍምም አልወረደ
+"Libei ende’mendedu, oh hoy, fim’m alwerede",ልቤ እንደመንደዱ ኦሆ: ፍምም አልወረደ
+"Ehil iyebela, ah hey, wuha iyaberede",እህል እየበላ አሄ: ውሃ እያበረደ
+"Ehil iyebela, ah hey, wuha iyaberede",እህል እየበላ አሄ: ውሃ እያበረደ
+"Embua bey lameetu, lameet",እምቧ በይ ላሚቱ: ላሚ
+Embua bey lameet,እምቧ በይ ላሚ
+"Embua bey lameetu, lameet",እምቧ በይ ላሚቱ: ላሚ
+Korma wolajit,ኮርማ ዎላጅ
+"Alchil ahle anjetein, oh hoy, baTSnana baTSnan",አልችል አለ አንጀቴን ኦሆ: ባፅናና ባፅና
+"Alchil ahle anjetein, oh hoy, baTSnana baTSnan",አልችል አለ አንጀቴን ኦሆ: ባፅናና ባፅና
+"Tenesabign fiQrish, ah hey, zendirom end’amn",ተነሳብኝ ፍቅርሽ አሄ: ዘንድሮም እንዳም
+"Tenesabign fiQrish, ah hey, zendirom end’amn",ተነሳብኝ ፍቅርሽ አሄ: ዘንድሮም እንዳም
+"Ebakih QulQulet, oh ohy, atigeftreg",እባክህ ቁልቁለት ኦሆ: አትገፍትረ
+"Ebakih QulQulet, oh ohy, atigeftreg",እባክህ ቁልቁለት ኦሆ: አትገፍትረ
+"FiQriyen shegnichei, ah hey, Qomialehu dekmog",ፍቅርዬን ሸኝቼ አሄ: ቆሜያለው ደክሞ
+"FiQriyen shegnichei, ah hey, Qomialehu keftog",ፍቅርዬን ሸኝቼ አሄ: ቆሜያለው ከፍቶ
+"MeTahum ahnd newu, oh hoy, Qerehum ahnd new",መጣሁም አንድ ነው ኦሆ: ቀረሁም አንድ ነ
+"MeTahum ahnd newu, oh hoy, Qerehum ahnd new",መጣሁም አንድ ነው ኦሆ: ቀረሁም አንድ ነ
+"Indeehu mehal laay, ah hey, mewalel mindine",እንዲሁ መሃል ላይ አሄ: መዋለል ምንድነ
+"Indeehu mehal laay, ah hey, mewalel mindine",እንዲሁ መሃል ላይ አሄ: መዋለል ምንድነ
+"Yeleilegnin hulu, oh hoy, alegn sil kerime",የሌለኝን ሁሉ ኦሆ: አለኝ ስል ከር
+"Yeleilegnin hulu, oh hoy, alegn sil kerime",የሌለኝን ሁሉ ኦሆ: አለኝ ስል ከር
+"Qal’abay aregshign, ah hey, wushet hone hilme",ቃል-አባይ አረግሽኝ አሄ: ውሸት ሆነ ህል
+"Qal’abay aregshign, ah hey, wushet hone hilme",ቃል-አባይ አረግሽኝ አሄ ውሸት ሆነ ህል
+"Embua bey lameetu, lameet",እምቧ በይ ላሚቱ: ላሚ
+Embua bey lameet,እምቧ በይ ላሚ
+"Embua bey lameetu, lameet",እምቧ በይ ላሚቱ: ላሚ
+Korma wolajit,ኮርማ ዎላጅ
+"Embua bey, embua bey lamei bor",እምቧ በይ: እምቧ በይ ላሜ ቦ
+"Yiblagn enji, jibu kanchi gar",ይብላኝ እንጂ: ጅቡ ካንቺ ጋ
+"Yiblagn enji, jibu kanchi gar",ይብላኝ እንጂ: ጅቡ ካንቺ ጋ
+"Embua bey, embua bey lamei bor",እምቧ በይ: እምቧ በይ ላሜ ቦ
+"Yiblagn enji, jibu kanchi gar",ይብላኝ እንጂ: ጅቡ ካንቺ ጋ
+"Yiblagn enji, jibu kanchi gar",ይብላኝ እንጂ: ጅቡ ካንቺ ጋ
+wo,
+"Banchima, bibal, bitama ohhh ohh",ባንቺማ ብባል ብታማ ኦሆ ኦ
+Mech ineyn leegermegn ohhh ohh,መች እኔን ሊገርመኝ ኦሆ ኦ
+"LeedenQegn, ohhh ohh",ሊደንቀኝ ኦሆ ኦ
+"Neyilign neyina, aahhh aahh",ነይልኝ ነይና አሃ አ
+ACHawuchign ohhh ohh,አጫዉቺኝ ኦሆ ኦ
+"Banchima, bibal, bitama ohhh ohh",ባንቺማ ብባል ብታማ ኦሆ ኦ
+Mech ineyn leegermegn ohhh ohh,መች እኔን ሊገርመኝ ኦሆ ኦ
+"LeedenQegn, ohhh ohh",ሊደንቀኝ ኦሆ ኦ
+"Neyilign neyina, aahhh aahh",ነይልኝ ነይና አሃ አ
+ACHawuchign ohhh ohh,አጫዉቺኝ ኦሆ ኦ
+"Ayichalehugn, sewu seegerem",አይቻለሁኝ ሰው ሲገረ
+"Banchi mamarr, ohh",ባንቺ ማማር ኦ
+Mamar,ማማ
+"Keney-ga Qomesh, Qomesh sititay",ከኔጋ ቆመሽ ቆመሽ ስትታ
+"Ke-keminim belay, ohh",ከ…ከምን በላይ ኦ
+Keminim bela,ከምን በላ
+"Keminim belay, keminim bela",ከምንም በላይ ከምንም በላ
+"Keminim belay, keminim belaaayyy",ከምንም በላይ ከምንም በላላላይ
+"Des des yilegnal, neyilign",ደስ ደስ ይለኛል ነይል
+"BeQa des yilegnal, neyilign",በቃ ደስ ይለኛል ነይል
+"Des des yilegnal, neyilign",ደስ ደስ ይለኛል ነይል
+"BeQa des yilegnal, neyilign",በቃ ደስ ይለኛል ነይል
+"Sitnori kegoney, heyy hey",ስትኖሪ ከጎኔ ሄይ ሄ
+"Eney des yilegnal, neyilign",እኔ ደስ ይለኛል ነይል
+"Des des yilegnal, neyilign",ደስ ደስ ይለኛል ነይል
+"BeQa des yilegnal, neyilign",በቃ ደስ ይለኛል ነይል
+"Sitnori kegoney, heyy hey",ስትኖሪ ከጎኔ ሄይ ሄ
+Eney des yilegnalm neyilign,እኔ ደስ ይለኛል ነይል
+"Banchima, bibal, bitama ohhh ohh",ባንቺማ ብባል ብታማ ኦሆ ኦ
+Mech ineyn leegermegn ohhh ohh,መች እኔን ሊገርመኝ ኦሆ ኦ
+"LeedenQegn, ohhh ohh",ሊደንቀኝ ኦ
+"Neyilign neyina, aahhh aahh",ነይልኝ ነይና አሃ አ
+ACHawuchign ohhh ohh,አጫዉቺኝ ኦሆ ኦ
+"Derto CHewatawu, demQo mishit",ደርቶ ጨዋታው ደምቆ ምሽ
+"Anchin maTatu, ohhh ohh",አንቺን ማጣቱ ኦሆ ኦ
+MaTat,ማጣቱ ኦሆ ኦ
+"Hulum seedeset, iney yikefagna",ሁሉም ሲደሰት እኔ እይከፋ
+"Anchin yilegnal, ohhh ohh",አንቺን ይለኛል ኦሆ ኦ
+Yilegna,ይለኛ
+"Keminim belay, keminim bela",ከምንም በላይ ከምንም በላ
+"Keminim belay, keminim belaaayyy",ከምንም በላይ ከምንም በላላላይ
+"Des des yilegnal, neyilign",ደስ ደስ ይለኛል ነይል
+"BeQa des yilegnal, neyilign",በቃ ደስ ይለኛል ነይል
+"Des des yilegnal, neyilign",ደስ ደስ ይለኛል ነይል
+"BeQa des yilegnal, neyilign",በቃ ደስ ይለኛል ነይል
+"Sitnori kegoney, heyy hey",ስትኖሪ ከጎኔ ሄይ ሄ
+"Eney des yilegnal, neyilign",እኔ ደስ ይለኛል ነይል
+"Des des yilegnal, neyilign",ደስ ደስ ይለኛል ነይል
+"BeQa des yilegnal, neyilign",በቃ ደስ ይለኛል ነይል
+"Sitnori kegoney, heyy hey",ስትኖሪ ከጎኔ ሄይ ሄ
+Eney des yilegna,እኔ ደስ ይለኛል ነይል
+"Neyiligna neyiligna, neyiligna neyilign",ነይልኛ ነይልኛ ነይልኛ ነይል
+Hey he,ሄይ ሄ
+"Neyiligna neyiligna, neyiligna hey he",ነይልኛ ነይልኛ ነይልኛ ሄይ ሄ
+Neyilig,ነይ
+Sewu hulu kemiawerala,ሰው ሁሉ ከሚያወራላ
+Ketebalelat belay na,ከተባለላት በላይ ና
+Eneym silesua binage,እኔም ስለሷ ብናገ
+Bihonat emagn misiki,ብሆናት እማኝ ምስክ
+"Alafrim, besua ekorale",አላፍርም በሷ እኮራለ
+"Endesua, amualto yadele",እንደሷ አሟልቶ ያደለ
+"Alafrim, bezich midir",አላፍርም በዝች ምድ
+"Sewu yelem, biye binager",ሰው የለም ብዬ ብናገ
+Sewu hulu kemiawerala,ሰው ሁሉ ከሚያወራላ
+Ketebalelat belay na,ከተባለላት በላይ ና
+Eneym silesua binage,እኔም ስለሷ ብናገ
+Bihonat emagn misiki,ብሆናት እማኝ ምስክ
+"Alafrim, besua ekorale",አላፍርም በሷ እኮራለ
+"Endesua, amualto yadele",እንደሷ አሟልቶ ያደለ
+"Alafrim, bezich midir",አላፍርም በዝች ምድ
+"Sewu yelem, biye binager",ሰው የለም ብዬ ብናገ
+"Qoyta enditiweded, hona tefeTralec",ቆይታ እንድትወደድ ሆና ተፈጥራለ
+"Qerbo lastewalat, demo tileyalec",ቀርቦ ላስተዋላት ደሞ ትለያለ
+"SeefeTrat, lemelkam seefeTra",ሲፈጥራት ለመልካም ሲፈጥራ
+"SeefeTrat, ledeg argo feTrua",ሲፈጥራት ለደግ አርጎ ፈጥሯ
+"Andebet, beekib biawedisa",አንደበት ቢክብ ቢያወድሳ
+"Esuan gin, yetum Qal aygelTSa",አሷ ግን የቱም ቃል አይገልፃ
+Sewu hulu kemiawerala,ሰው ሁሉ ከሚያወራላ
+Ketebalelat belay na,ከተባለላት በላይ ና
+Eneym silesua binage,እኔም ስለሷ ብናገ
+Bihonat emagn misiki,ብሆናት እማኝ ምስክ
+"Alafrim, besua ekorale",አላፍርም በሷ እኮራለ
+"Endesua, amualto yadelew ohh",እንደሷ አሟልቶ ያደለው 
+"Alafrim, bezich midir",አላፍርም በዝች ምድ
+"Sewu yelem, biye binager",ሰው የለም ብዬ ብናገ
+"Ende nigat TSehay, ende leyt CHereQ",እንደ ንጋት ፀሐይ እንደ ሌት ጨረ
+"Besua tejemiro, wubet besua abeQ",በሷ ተጀምሮ ውበት በሷ አበ
+"SeefeTrat, lemelkam seefeTra",ሲፈጥራት ለመልካም ሲፈጥራ
+"SeefeTrat, ledeg argo feTrua",ሲፈጥራት ለደግ አርጎ ፈጥሯ
+"Andebet, beekib biawedisa",አንደበት ቢክብ ቢያወድሳ
+"Esuan gin, yetum Qal aygelTSa",አሷ ግን የቱም ቃል አይገልፃ
+Sewu hulu kemiawerala,ሰው ሁሉ ከሚያወራላ
+Ketebalelat belay na,ከተባለላት በላይ ና
+Eneym silesua binage,እኔም ስለሷ ብናገ
+Bihonat emagn misiki,ብሆናት እማኝ ምስክ
+"Alafrim, besua ekoraleh",አላፍርም በሷ እኮራለ
+"Endesua, amualto yadelew ohh",እንደሷ አሟልቶ ያደለው 
+"Alafrim, bezich midir",አላፍርም በዝች ምድ
+"Sewu yelem, biye binager",ሰው የለም ብዬ ብናገ
+Sewu hulu kemiawerala,ሰው ሁሉ ከሚያወራላ
+Ketebalelat belay na,ከተባለላት በላይ ና
+Eneym silesua binage,እኔም ስለሷ ብናገ
+Bihonat emagn misiki,ብሆናት እማኝ ምስክ
+"Alafrim, besua ekorale",አላፍርም በሷ እኮራለ
+"Endesua, amualto yadel",እንደሷ አሟልቶ ያደ
+"Ke’Mekonnen dildiy, kenCHet foQu bela",ከመኮንን ድልድይ: ከንጨት ፎቁ በላ
+Seemesh enigenag,ሲመሽ እንገና
+"MeTahu anchin biye, saykebdegn ermija",መጣሁ አንችን ብዬ: ሳይከብደኝ እርምጃ
+Beseba dereja,በሰባ ደረጃ
+"Besarian kot laay, yanin QeCHin kut",በሳሪያን ኮት ላይ: ያንን ቀጭን ኩ
+Tal arige,ጣል አድር
+"Be’Mekonnen dildiy, limTa bedereja",በመኮንን ድልድይ: ልምጣ በደረጃ
+BePiassa arige,በፒያሳ አር
+"BefiQir maneQiaw, doro endayil bekent",በፍቅር ማነቂያው: ዶሮ እንዳይል በከን
+Erri anchin wed,እሪ አንችን ወ
+"Kirarun sitisemi, biQ bey Qomialeh",ክራሩን ስትሰሚ: ብቅ በይ ቆሚያለ
+Keberish mad,ከበርሽ ማ
+"Seemesh wede-mata, mata mat",ሲመሽ ወደማታ: ማታ ማ
+Abeit yanchi fiQir seeberet,አቤት ያንቺ ፍቅር ሲበረ
+"Seemesh wede-mata, mata mat",ሲመሽ ወደማታ: ማታ ማ
+"BiQ bey seegeref, kirar seemet",ብቅ በይ ሲገረፍ: ክራር ሲመ
+"Mata mata, mata mat",ማታ ማታ: ማታ ማ
+"Mata mata, mata mat",ማታ ማታ: ማታ ማ
+"Mata mata, mata mat",ማታ ማታ: ማታ ማ
+"Mata mata, mata mat",ማታ ማታ: ማታ ማ
+Mata mat,ማታ ማ
+"AmTuat kegoney, tiQeme",አምጧት ከጎኔ: ትቀመ
+"Enjera ayQerbim, kalewe",እንጀራ አይቀርብም: ካለወ
+"AQfo gelawan, alTegb yale",አቅፎ ገላዋን: አልጠግብ ያለ
+"Manew kalachihu, manew mane",ማነው ካላችሁ: ማነው ማነ
+"Libei libei newu, libei irhabtegna",ልቤ ልቤ ነው: ልቤ እረሃብተኛ
+"Esuan wedo, leit imaytegna",እሷን ወዶ: ሌት እማይተኛ
+"YiwuTa yiwTa, egrei yizal be’irmija",ይውጣ ይውጣ: እግሬ ይዛል በርምጃ
+"Kesua aybisim, seba dereja",ከሷ አይብስም: ሰባ ደረጃ
+"Ohhh zebenay, ney zebena",ዎይ… ዘበናይ: ነይ ዘበና
+Zebenay zebena,ዘበናይ ዘበና
+Seemesh wede-mat,ሲመሽ ወደማ
+Hulu zegto beru,ሁሉ ዘግቶ በሩ
+Tam taram sarege,ታም ታራም ሳረገ
+BiQ bey kiraru,ብቅ በይ ክራሩ
+Tam-tararam tararam tarara,ታም-ታራራም ታራራም ታራራ
+Saregew kiraru,ሳረገው ክራሩ
+Tam-tararam tararam tarara,ታም-ታራራም ታራራም ታራራ
+"TSegruan tetekusaw, ende’Armide Mar",ፀጉሯን ተተኩሳው: እንዳርምዴ ሜ
+"Zebenay nat fiQruan, bekirar negar",ዘበናይ ናት ፍቅሯን: በክራር ነጋ
+Tam-tararam tararam tarara,ታም-ታራራም ታራራም ታራራ
+Bekirar negar,በክራር ነጋ
+Tam-tararam tararam tarara,ታም-ታራራም ታራራም ታራራ
+"Heido keKorea, zemach seemele",ሄዶ ከኮሪያ: ዘማች ሲመለ
+Zemach seemele,ዘማች ሲመለ
+"Yawesal nafQotun, bekiraru dimT",ያወሳል ናፍቆቱን: ብክራሩ ድም
+Bekiraru dimT,ብክራሩ ድም
+"FiQrish asCHeniQo, melawos aQateg",ፍቅርሽ አስጨንቆ: መላዎስ አቃተ
+Melawos aQateg,መላዎስ አቃተ
+"Tedenaberkulish, Tiyit endesateg",ተደናበርኩልሽ: ጥይት እንደሳተ
+Tiyit endesateg,ጥይት እንደሳተ
+"Satena neberkugn, tekuash bemewzere",ሳተና ነበርኩኝ: ተኳሽ በመውዘ
+Tekuash bemewzere,ተኳሽ በመውዘ
+"Lezebenay bicha, ejein seTehu zare",ለዘበናይ ብቻ: እጄን ሰጠሁ ዛ
+Ejein seTehu zare,እጄን ሰጠሁ ዛ
+"Ohhh zebenay, ney zebena",ዎይ…ዘበናይ: ነይ ዘበና
+Zebenay zebena,ዘበናይ ዘበና
+"Besarian kot laay, yanin QeCHin kut",በሳሪያን ኮት ላይ: ያንን ቀጭን ኩ
+Tal arige,ጣል አድር
+"Be’Mekonnen dildiy, limTa bedereja",በመኮንን ድልድይ: ልምጣ በደረጃ
+BePiassa arige,በፒያሳ አር
+"End’awra doro kinf, kotein iyesabku",እንዳውራ ዶሮ ክንፍ: ኮቴን እየሳብኩ
+Mereit lemerei,መሬት ለመሬ
+"Bezorkut gelashin, satweTabign TSeha",በዞርኩት ገላሽን: ሳትወጣብኝ ፀሐ
+Saynegabign lei,ሳይነጋብኝ ሌ
+"Seemesh wede-mata, mata mat",ሲመሽ ወደማታ: ማታ ማ
+Abeit yanchi fiQir seeberet,አቤት ያንቺ ፍቅር ሲበረ
+"Seemesh wede-mata, mata mat",ሲመሽ ወደማታ: ማታ ማ
+"BiQ bey seegeref, kirar seemet",ብቅ በይ ሲገረፍ: ክራር ሲመ
+"Mata mata, mata mat",ማታ ማታ: ማታ ማ
+"Mata mata, mata mat",ማታ ማታ: ማታ ማ
+"Mata mata, mata mat",ማታ ማታ: ማታ ማ
+"Mata mata, mata mat",ማታ ማታ: ማታ ማ
+Mata mat,ማታ ማ
+"Molto b’Arada, Y’Armen dab",ሞልቶ ባራዳ: ያርመን ዳ
+"Sassa akelatei, sewu terib",ሳሳ አከላቴ: ሰው ተር
+"AQfo gelawan, alTegb yalew",አቅፎ ገላዋን: አልጠግብ ያለ
+"Manew kalachihu, manew mane",ማነው ካላችሁ: ማነው ማነ
+"Libei libei newu, libei irhabtegna",ልቤ ልቤ ነው: ልቤ እረሃብተኛ
+"Esuan wedo, leit imaytegna",እሷን ወዶ: ሌት እማይተኛ
+"YiwuTa yiwTa, egrei yizal be’irmija",ይውጣ ይውጣ: እግሬ ይዛል በርምጃ
+"Kesua aybisim, seba dereja",ከሷ አይብስም: ሰባ ደረጃ
+"Ohhh zebenay, ney zebena",ዎይ… ዘበናይ: ነይ ዘበና
+Zebenay zebena,ዘበናይ ዘበና
+"AyweTam dereja, beefeTir seishent",አይወጣም ደረጃ: ቢፈጥር ሴሸኝ
+"Endeney kalheide, befiQir tegeft",እንደኔ ካልሄደ: በፍቅር ተገፍ
+Tam-tararam tararam tarara,ታም-ታራራም ታራራም ታራራ
+BefiQir tegeft,በፍቅር ተገፍ
+Tam-tararam tararam tarara,ታም-ታራራም ታራራም ታራራ
+Medferiash werQ new,መድፈሪያሽ ወርቅ ነ
+Birr’m aygezas,ብርም አይገዛ
+"Lib yeleilew habil, gid’m ayseTis",ልብ የሌለው ሀብል: ግድም አይሰጥ
+Keiredas,ኬረዳ
+Tam-tararam tararam tarara,ታም-ታራራም ታራራም ታራራ
+Gid’m ayseTis,ግድም አይሰጥ
+Tam-tararam tararam tarara,ታም-ታራራም ታራራም ታራራ
+Kangetish laay argeeg,ካንገትሽ ላይ አርጊ
+Ende Mar- Theres,እንደማር ተሬ
+Ende Mar- Theres,እንደማር ተሬ
+Wodih wodia endali,ወዲህ ወዲያ እንዳል
+Adeb endigez,አደብ እንድገ
+Adeb endigez,አደብ እንድገ
+"Tekelekele allu, yenigus adaras",ተከለከለ አሉ: የንጉሥ አዳራ
+Yenigus adaras,የንጉሥ አዳራ
+"Yekit yalebese, aygebam beCHiras",የክት ያለበሰ: አይገባም በጭራ
+Aygebam beCHiras,አይገባም በጭራ
+"MeTahu keKora, yijeilish se’a",መጣሁ ከኮሪያ: ይዤልሽ ሰዓ
+Yijeilish se’a,ይዤልሽ ሰዓ
+"BePari modish laay, amresh tayibe",በፓሪ ሞድሽ ላይ: አምረሽ ታይበ
+Amresh tayibe,አምረሽ ታይበ
+"Ohhh zebenay, ney zebena",ዎይ… ዘበናይ: ነይ ዘበና
+Zebenay zebena,ዘበናይ ዘበና
+"Zenan enanaye, tey ahun ne",ዘናይ እናናዬ: ተይ አሁን ነ
+Ahun ne,አሁን ነ
+"Zenan enanaye, tey ahun ne",ዘናይ እናናዬ: ተይ አሁን ነ
+"Ahun ney, ahun ne",አሁን ነይ አሁን ነ
+"Zenan enanaye, tey ahun ne",ዘናይ እናናዬ: ተይ አሁን ነ
+"Ahun ney, ahun ne",አሁን ነይ አሁን ነ
+"Zenan enanaye, tey ahun ne",ዘናይ እናናዬ: ተይ አሁን ነ
+"Ahun ney, ahun n",አሁን ነይ አሁን 
+"Yetizitaye inat, yesimeitey emebei",የትዝታዬ እናት የስሜቴ እመቤ
+"Yefilagotey minCH, y’ediley balebei",የፍላጎቴ ምንጭ የእድሌ ባለቤ
+"Yemitastawusheegn, yalefkutin dest",የምታስታውሺኝ ያለፍኩትን ደስ
+"Anchi bicha iko nesh, yeney lib alegnt",አንቺ ብቻኮ ነሽ የኔ ልብ አለኝ
+"Yasalefnew zemen, destan yayenibe",ያሳለፍነው ዘመን ደስታን ያየንበ
+"Temeliso beegegn, ahun min’alebe",ተመልሶ ቢገኝ አሁን ምናለበ
+"Yasalefnew zemen, destan yayenibe",ያሳለፍነው ዘመን ደስታን ያየንበ
+"Temeliso beegegn, ahun min’alebe",ተመልሶ ቢገኝ አሁን ምናለበ
+Ehhhh ehhhh…ehhhh ehhh,እህ እህ…እህ እ
+Ehhh ehhh ehh,እህ እህ እ
+Ahhhyee…ehhhh ehhhh,አሄ…አህ አ
+"YeteCHawetnewun, mingizeim alresa",የተጫወትነዉን ምንግዜም አልረሳ
+"Indeeh teleyayten, benafQot bikesa",እንዲህ ተለያይተን በናፍቅት ብከሳ
+"Aykedashim libey, sewu mekdat? ayawuQi",አይከዳሽም ልቤ ሰው መክዳት አያውቅ
+"Iskeeleyay diress, keleQso kesaQi",እስኪለያይ ድረስ ከለቅሶ ከሳቅ
+"Yasalefnew zemen, destan yayenibe",ያሳለፍነው ዘመን ደስታን ያየንበ
+"Temeliso beegegn, ahun min’alebe",ተመልሶ ቢገኝ አሁን ምናለበ
+"Yasalefnew zemen, destan yayenibe",ያሳለፍነው ዘመን ደስታን ያየንበ
+"Temeliso beegegn, ahun min’alebe",ተመልሶ ቢገኝ አሁን ምናለበ
+Ehhhh ehhhh…ehhhh ehhh,እህ እህ…እህ እ
+Ehhh ehhh ehh,እህ እህ እ
+Ahhh…ehhhh ehhhh,አሄ…አህ አ
+"Wubet’shin indalay, iriQeim markota",ዉበትሽን እንዳላይ እርቄም ማርኮታ
+"Libey gin gilTS newu, tey simeeg",ልቤ ግን ግልፅ ነው ተይ ስሚ
+Mezgibo yizota,መዝግቦ ይዞታ
+"B’akal balayishim, woy b’hasab gisigase",ባካል ባላይሽም ወይ ባሳብ ግስጋ
+"AlteneTaTelum, aawo nefsish ina nefse",አልተነጣጠልንም አዎ ነፍስሽ እና ነፍ
+"Yasalefnew zemen, destan yayenibe",ያሳለፍነው ዘመን ደስታን ያየንበ
+"Temeliso beegegn, ahun min’alebe",ተመልሶ ቢገኝ አሁን ምናለበ
+"Yasalefnew zemen, destan yayenibe",ያሳለፍነው ዘመን ደስታን ያየንበ
+"Temeliso beegegn, ahun min’alebe",ተመልሶ ቢገኝ አሁን ምናለበ
+Ehhhh ehhhh…ehhhh ehhh,እህ እህ…እህ እ
+Ehhh ehhh ehh,እህ እህ እ
+Ahhhyee…ehhhh ehhh,አሄ…አህ 
+"Kuru nigist, yeseit arbegn",ኩሩ ንግስት: የሴት አርበ
+"Atinkugn baay, fird-aweQ dagn",አትንኩኝ ባይ: ፍርድ አወቅ ዳ
+"LeneTSanet, fana yehonec",ለነፃነት: ፋና የሆነ
+"Bilih jeg’na, emebeit manec",ባህል ጀግና: እመቤት ማነ
+"Ereg ereg, endeit beedere",ኧረግ ኧረግ: እንዴት ቢደረ
+"Yemiresat, yerasein me’are",የምረሳት: የራሴን ማዕረ
+"TSehay hona, hager yamoQa",ፀሐይ ሆና: ሀገር ያቆማ
+"Feet-awurari, alem yaweQa",ፊታውራሪ: ዓለም ያወቃ
+"Taitu eteigeiyitu, Taitu emebeitit",ጣይቱ እቴጌይቱ: ጣይቱ እመቤቲ
+"Taitu eteigeiyitu, Taitu emebeitit",ጣይቱ እቴጌይቱ: ጣይቱ እመቤቲ
+"Taitu eteigeiyitu, Taitu emebeitit",ጣይቱ እቴጌይቱ: ጣይቱ እመቤቲ
+"Taitu eteigeiyitu, Taitu emebeitit",ጣይቱ እቴጌይቱ: ጣይቱ እመቤቲ
+"KewerQim werQ, esat yefetena",ከወርቅም ወርቅ: እሳት የፈተና
+"Leneim lanchim, yemenfes nigat na",ለኔም ላንቺም: የመንፈስ ንጋት ና
+"Feet-awurari, emet-melayit",ፊታውራሪ: እመት መላይ
+"CHinQ-Qenin, yanegach Tait",ጭንቅ ቀንን: ያነጋች ጣይ
+"Taitu eteigeiyitu, Taitu emebeitit",ጣይቱ እቴጌይቱ: ጣይቱ እመቤቲ
+"Taitu eteigeiyitu, Taitu emebeitit",ጣይቱ እቴጌይቱ: ጣይቱ እመቤቲ
+"Adwa laay, zemta yazemetec",አድዋ ላይ: ዘምታ ያዘመተ
+"Deg emebeit, fiQir awaQi nec",ደግ እመቤት: ፍቅር አዋቂ ነ
+"Yager-enat, yachi libe-birt",ያገር እናት: ያቺ ልበ ብር
+"Belibei wusT, bertalech Tait",በልቤ ውስጥ: በርታለች ጣይ
+"Taitu eteigeiyitu, Taitu emebeitit",ጣይቱ እቴጌይቱ: ጣይቱ እመቤቲ
+"Taitu eteigeiyitu, Taitu emebeitit",ጣይቱ እቴጌይቱ: ጣይቱ እመቤቲ
+"Taitu eteigeiyitu, Taitu emebeitit",ጣይቱ እቴጌይቱ: ጣይቱ እመቤቲ
+"Taitu eteigeiyitu, Taitu emebeitit",ጣይቱ እቴጌይቱ: ጣይቱ እመቤቲ
+Aaanchi yager ena,አአአንቺ ያገር እና
+Emet melayit,እመት መላይ
+Aaanchi yager ena,አአአንቺ ያገር እና
+Emet melayit,እመት መላይ
+"Zareim belibei wusT, bertalech Tait",ዛሬም በልቤ ውስጥ: በርታለች ጣይ
+"Yejegnawa lij negn, yeTaitu fire",የጀግናዋ ልጅ ነኝ: የጣይቱ ፍ
+"YeQurT-Qen bilhat, eneim alegn zare",የቁርጥ ቀን ብልሃት: እኔም አለኝ ዛ
+"Mech feri negn ena, wedehuala elaleh",መች ፈሪ ነኝና: ወደኋላ እላለ
+"Kasebkut edersalehu, talaQ ehonaleh",ካሰብኩት እደርሳለሁ: ታላቅ እሆናለ
+"Zeraf, zeraf biyalehu, bejegnawa enate",ዘራፍ ዘራፍ ብያለሁ: በጀግናዋ እና
+"Wurd kerasei, leza Telate",ውርድ ከራሴ: ለዛ ጠላ
+"WedQo salayewu, anilaQeQi",ወድቆ ሳላየው: አንላቀቅ
+"Yemin firacha, tarik saldegi",የምን ፍራቻ: ታሪክ ሳልደግ
+"Taitu malet, enei negn zare",ጣይቱ ማለት: እኔ ነኝ ዛ
+"Alehulish baay, lenat hagere",አለሁልሽ ባይ: ለናት ሀገ
+"Bahle’meftihey, yesikeit angas",ባለ መፍትሄ: የስኬት አንጋ
+"Yan jeg’ninetuan, enei negn weras",ያን ጀግንነቷን: እኔ ነኝ ወራ
+"Zeraf, zera",ዘራፍ ዘራ
+"Emiyen akbiruat, esuam akbira",እምዬን አክብሯት: እሷም አክብራ
+"Benigistu bilhat, hager yemera",በንግስቱ ብልሐት: ሀገር የመራ
+"Ye’edget meseretu, yemaleda CHor",የዕድገት መሰረቱ: የማለዳ ጮ
+"Minilik wend newu, beseit yemeeTer",ምኒሊክ ወንድ ነው: በሴት የሚጠ
+"Emiye Minilik, gizein Qedmo neQt",እምዬ ምኒሊክ: ጊዜን ቀድሞ ነቅ
+Le’Etegei Taitu tiliQ bota set,ለእቴጌ ጣይቱ: ትልቅ ቦታ ሰ
+"Lik ende’majetua, Toruan azegajt",ልክ እንደ ማጀቷ: ጦሯን አዘጋጅ
+"Hagerun merachiwu, bewenei temolt",ሃገሩን መራችው: በወኔ ተሞል
+"YeTaitun demn, jeg’ninet wersena",የጣይቱን ደምን: ጀግንነት ወርሰና
+"Kalemnew saniders, man yimelisena",ካለምነው ሳንደርስ: ማን ይመልሰና
+"Simua enkuan sinQ newu, libin yabereta",ስሟ እንኳን ስንቅ ነው: ልብን ያበረታ
+"Zinawan yesema, mech yafegefiga",ዝናዋን የሰማ: መች ያፈገፍጋ
+"Mech yafegefigal, mech yafegefiga",መች ያፈገፍጋል: መች ያፈገፍጋ
+"Mech yafegefigal, mech yafegefiga",መች ያፈገፍጋል: መች ያፈገፍጋ
+"Mech yafegefigal, mech yafegefiga",መች ያፈገፍጋል: መች ያፈገፍጋ
+"Mech yafegefigal, mech yafegefiga",መች ያፈገፍጋል: መች ያፈገፍጋ
+"Taitu eteigeiyitu, Taitu emebeitit",ጣይቱ እቴጌይቱ: ጣይቱ እመቤቲ
+"Taitu eteigeiyitu, Taitu emebeitit",ጣይቱ እቴጌይቱ: ጣይቱ እመቤቲ
+"Taitu eteigeiyitu, Taitu emebeitit",ጣይቱ እቴጌይቱ: ጣይቱ እመቤቲ
+"Taitu eteigeiyitu, Taitu emebeiti",ጣይቱ እቴጌይቱ: ጣይቱ እመቤ
+Mistih beTam funga na,ሚስትህ በጣም ፉንጋ ና
+Funga keney yebasec,ፉንጋ ከኔ የባሰ
+Anten mesay adela,አንተን መሳይ አደላ
+Qedma silalferedec,ቀድማ ስላልፈረደ
+Ante beTam Qonjo ne,አንተ በጣም ቆንጆ ነ
+Qonjo Qalu yansiha,ቆንጆ ቃሉ ያንስሃ
+Eskemit’hon misale,እስከምቶን ምሳ
+Manim yismamabiha,ማንም ይስማማብሃ
+Endesu satawQegnbefee,እንደሱ ሳታውቀኝ በፊ
+Saymolalih mefaQe,ሳይሞላልህ መፋቀ
+Silezeeh yefQir guda,ስለዚህ የፍቅር ጉዳ
+Anegagrehegn nebe,አነጋግረኸኝ ነበ
+Hulemenash dess aleg,ሁለመናሽ ደስ አለ
+AfeQerkush satileg,አፈቀርኩሽ ስትለ
+Alamenkuhim CHiras,አላመንኩህም ጭራ
+SitQelid newu yemeseleg,ስትቀልድ ነው የመሰለ
+Seebal emawQew,ሲባል እማውቀ
+Demo yewend Qonj,ደሞ የወንድ ቆን
+Libeim seefer,ልቤም ሲፈ
+Endaligod,እንዳልጎ
+Demo yewend Qonj,ደሞ የወንድ ቆን
+Endatikor,እንዳትኮ
+Seebal emawQew,ሲባል እማውቀ
+Demo yewend Qonj,ደሞ የወንድ ቆን
+Libeim seefer,ልቤም ሲፈ
+Endaligod,እንዳልጎ
+Demo yewend Qonj,ደሞ የወንድ ቆን
+Endatikor,እንዳትኮ
+Meestih ejig funga na,ሚስትህ እጅግ ፉንጋ ና
+Ante altayeh endez,አንተ አልታየህ እንደ
+Hodein eskiyamegn Qenah,ሆዴን እስኪያመኝ ቀና
+Alifeih endewaz,አልፌህ እንደዋ
+Ante beTam Qonjo ne,አንተ በጣም ቆንጆ ነ
+Bemiyanegagir ayne,በሚያነጋግር አይነ
+Bewunet gira yigeba,በእውነት ግራ ይገባ
+Anten kesuaga maye,አንተን ከሷጋ ማየ
+Wedehuala meleseg,ወደኋላ መለሰ
+Asasebegn silegn,አሳሰበኝ ስለ
+Yefelalekegn semo,የፈላለከኝ ሰሞ
+Endihonih fiQregn,እንድሆንህ ፍቅረ
+Qonjo wend maQreb Tirf,ቆንጆ ወንድ ማቅረብ ትር
+Alba biye meker,አልባ ብዬ መከ
+Libein tekelakiye,ልቤን ተከላክዬ
+Korahubih satkor,ኮራሁብህ ሳትኮ
+Seebal emawQew,ሲባል እማውቀ
+Demo yewend Qonj,ደሞ የወንድ ቆን
+Libeim seefer,ልቤም ሲፈ
+Endaligod,እንዳልጎ
+Demo yewend Qonj,ደሞ የወንድ ቆን
+Endatikor,እንዳትኮ
+Seebal emawQew,ሲባል እማውቀ
+Demo yewend Qonj,ደሞ የወንድ ቆን
+Libeim seefer,ልቤም ሲፈ
+Endaligod,እንዳልጎ
+Demo yewend Qonj,ደሞ የወንድ ቆን
+Endatikor,እንዳትኮ
+Esua gin amenechi,እሷ ግን አመነች
+Tinishinet sayisema,ትንሽነት ሳይሰማ
+Funga salech sitamri,ፉንጋ ሳለች ስታምር
+Temamna endemitigeba,ተማምና እንደምትገባ
+Esua gin amenechi,እሷ ግን አመነች
+Keshifanei alfa ayechi,ከሽፋኔ አልፋ አየች
+Meezanihim teret,ሚዛንህም ተረ
+Antenim bezawu seferechi,አንተንም በዛው ሰፈረች
+Eresu Qonjo ne,ኧረሱ ቆንጆ ነ
+Libei fera fera fer,ልቤ ፈራ ፈራ ፈ
+Qonjo Qonjo ne,ቆንጆ ቆንጆ ነ
+Libei fera fera fer,ልቤ ፈራ ፈራ ፈ
+Seebal emawQew,ሲባል እማውቀ
+Demo yewend Qonj,ደሞ የወንድ ቆን
+Libeim seefer,ልቤም ሲፈ
+Endaligoda biy,እንዳልጎዳ ብ
+Demo yewend Qonj,ደሞ የወንድ ቆን
+Antem endatikor,አንተም እንዳትኮ
+Seebal emawQe,ሲባል እማውቀ
+Demo yewend Qonj,ደሞ የወንድ ቆን
+Endaligoda biy,እንዳልጎዳ ብ
+Demo yewend Qonj,ደሞ የወንድ ቆን
+Endatikor,እንዳትኮ
+Demo yewend Qonj,ደሞ የወንድ ቆን
+Demo yewend Qonj,ደሞ የወንድ ቆን
+Libei fera fera fer,ልቤ ፈራ ፈራ ፈ
+Libei fera fera fe,ልቤ ፈራ ፈራ 
